@@ -1,0 +1,13 @@
+{
+    "name": "colindean/homebrew-finances",
+    "image": "ghcr.io/homebrew/brew:latest",
+    "workspaceFolder": "/home/linuxbrew/homebrew-finances",
+    "workspaceMount": "source=${localWorkspaceFolder},target=/home/linuxbrew/homebrew-finances,type=bind,consistency=cached",
+    "onCreateCommand": "./.devcontainer/on-create-command.sh",
+    "postCreateCommand": "brew bundle",
+    "remoteEnv": {
+      "HOMEBREW_GITHUB_API_TOKEN": "${localEnv:GITHUB_TOKEN}",
+      "EDITOR": "code --wait",
+      "VISUAL": "code --wait"
+    }
+  }
