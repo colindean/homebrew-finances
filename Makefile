@@ -56,7 +56,10 @@ journals: $(JOURNALS) # regenerate all journals
 HLEDGER_NEWER_OPTIONS=-c '1.00 USD' --round=soft
 
 oc-%.journal: oc-%.csv oc.csv.rules  # regenerate journal from csv
-	((printf "include oc-$*.accounts\n\n"; $(HLEDGER) -f $< print -x --rules-file=oc.csv.rules) > $@.new && mv $@.new $@) || (rm -f $@.new; false)
+	((printf "include oc-$*.accounts\n\n"; $(HLEDGER) -f $< print -x --rules-file=oc.csv.rules $(HLEDGER_NEWER_OPTIONS)) > $@.new && mv $@.new $@) || (rm -f $@.new; false)
+
+.PHONY: accounts
+accounts: $(ACCOUNTS)
 
 # This preserves the existing content of oc.accounts, may need to clean that manually from time to time.
 oc-%.accounts: oc-%.journal  # declare any new accounts found in the journal

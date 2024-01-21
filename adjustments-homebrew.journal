@@ -1,0 +1,26 @@
+# manual adjustments
+
+
+2021-11-25 Opening balances
+    equity:openingbalances
+    assets:opencollective:homebrew           3643.9 USD
+
+2021-12-22 Unknown Adjustment
+    assets:opencollective:homebrew          5457.64 USD
+    equity:unknown
+
+2022-01-13 Unknown Adjustment
+    assets:opencollective:homebrew      2500.63 USD
+    equity:unknown
+
+2022-01-25 Unknown Adjustment
+    assets:opencollective:homebrew    6566.81 USD
+    equity:unknown
+
+2022-02-25 Unknown Adjustment
+    assets:opencollective:homebrew      5592.92 USD
+    equity:unknown
+
+2022-03-23 Unknown Adjustment
+    assets:opencollective:homebrew          5608.95 USD
+    equity:unknown

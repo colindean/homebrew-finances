@@ -1,0 +1,789 @@
+include oc-brew.accounts
+
+2022-04-11 Host Fee to Open Collective Foundation  ; id:5e8024c5, group:8af54a5f
+    expenses:fees:open-source-collective     8000.00 USD
+    assets:opencollective:brew              -8000.00 USD
+
+2022-04-22 Refund of "Host Fee to Open Collective Foundation"  ; id:d27b32b6, group:4edd7bb3
+    expenses:fees:open-source-collective    -8000.00 USD
+    assets:opencollective:brew               8000.00 USD
+
+2022-05-22 Host Fee to Open Collective Foundation  ; id:fc766062, group:7405170d
+    expenses:fees:open-source-collective     21440.00 USD
+    assets:opencollective:brew              -21440.00 USD
+
+2022-07-14 Expense from Bo Anderson - Ephemeral CI project (11th April through 3rd July)  ; id:938576f4, group:ec55b58d, payment-method:, payment-type:
+    expenses:misc:bo98                  4960.00 USD
+    assets:opencollective:brew         -4976.75 USD
+    expenses:fees:unknown-processor       16.75 USD
+
+2022-11-18 Expense from Rylan Polster - API Project (June 13–October 10)  ; id:8184402c, group:ee968734, payment-method:, payment-type:
+    expenses:misc:rylan-polster         6160.00 USD
+    assets:opencollective:brew         -6160.39 USD
+    expenses:fees:unknown-processor        0.39 USD
+
+2022-12-09 Virtual Card charge from GITHUB  ; id:1b5edd69, group:3a0055de, payment-method:, payment-type:
+    expenses:misc:github-667d34       50.00 USD
+    assets:opencollective:brew       -50.00 USD
+    expenses:fees:                     0.00 USD
+
+2022-12-09 Virtual Card charge from GITHUB  ; id:9f0c2b04, group:83d5ef65, payment-method:, payment-type:
+    expenses:misc:github-667d34      100.00 USD
+    assets:opencollective:brew      -100.00 USD
+    expenses:fees:                     0.00 USD
+
+2022-12-09 Virtual Card charge from GITHUB  ; id:3141ba48, group:073cd1f6, payment-method:, payment-type:
+    expenses:misc:github-667d34       50.00 USD
+    assets:opencollective:brew       -50.00 USD
+    expenses:fees:                     0.00 USD
+
+2022-12-09 Virtual Card charge from GITHUB  ; id:813512ee, group:a080b5b0, payment-method:, payment-type:
+    expenses:misc:github-667d34      200.00 USD
+    assets:opencollective:brew      -200.00 USD
+    expenses:fees:                     0.00 USD
+
+2022-12-09 Virtual Card charge from GITHUB  ; id:3a678909, group:aca87721, payment-method:, payment-type:
+    expenses:misc:github-667d34      200.00 USD
+    assets:opencollective:brew      -200.00 USD
+    expenses:fees:                     0.00 USD
+
+2022-12-09 Virtual Card charge from GITHUB  ; id:09594277, group:e101e51e, payment-method:, payment-type:
+    expenses:misc:github-667d34      200.00 USD
+    assets:opencollective:brew      -200.00 USD
+    expenses:fees:                     0.00 USD
+
+2022-12-09 Virtual Card charge from GITHUB  ; id:0a599c83, group:1ac5f854, payment-method:, payment-type:
+    expenses:misc:github-667d34      100.00 USD
+    assets:opencollective:brew      -100.00 USD
+    expenses:fees:                     0.00 USD
+
+2022-12-09 Virtual Card charge from GITHUB  ; id:55c39773, group:a68ffe6e, payment-method:, payment-type:
+    expenses:misc:github-667d34      100.00 USD
+    assets:opencollective:brew      -100.00 USD
+    expenses:fees:                     0.00 USD
+
+2022-12-09 Virtual Card charge from GITHUB  ; id:69aace77, group:d7d9b3fc, payment-method:, payment-type:
+    expenses:misc:github-667d34       50.00 USD
+    assets:opencollective:brew       -50.00 USD
+    expenses:fees:                     0.00 USD
+
+2022-12-09 Virtual Card charge from GITHUB  ; id:e9e74cfe, group:90f5f218, payment-method:, payment-type:
+    expenses:misc:github-667d34      100.00 USD
+    assets:opencollective:brew      -100.00 USD
+    expenses:fees:                     0.00 USD
+
+2022-12-09 Virtual Card charge from GITHUB  ; id:39731ccb, group:3deb5b21, payment-method:, payment-type:
+    expenses:misc:github-667d34      200.00 USD
+    assets:opencollective:brew      -200.00 USD
+    expenses:fees:                     0.00 USD
+
+2022-12-09 Virtual Card charge from GITHUB  ; id:965c958c, group:de6648ac, payment-method:, payment-type:
+    expenses:misc:github-667d34      200.00 USD
+    assets:opencollective:brew      -200.00 USD
+    expenses:fees:                     0.00 USD
+
+2022-12-09 Virtual Card charge from GITHUB  ; id:74cef858, group:cf605add, payment-method:, payment-type:
+    expenses:misc:github-667d34       50.00 USD
+    assets:opencollective:brew       -50.00 USD
+    expenses:fees:                     0.00 USD
+
+2022-12-09 Virtual Card charge from GITHUB  ; id:8d4e4c21, group:2652d881, payment-method:, payment-type:
+    expenses:misc:github-667d34      200.00 USD
+    assets:opencollective:brew      -200.00 USD
+    expenses:fees:                     0.00 USD
+
+2022-12-09 Virtual Card charge from GITHUB  ; id:dfa5a5c8, group:572d48ce, payment-method:, payment-type:
+    expenses:misc:github-667d34       50.00 USD
+    assets:opencollective:brew       -50.00 USD
+    expenses:fees:                     0.00 USD
+
+2022-12-09 Virtual Card charge from GITHUB  ; id:87cf0a89, group:30bd9568, payment-method:, payment-type:
+    expenses:misc:github-667d34      100.00 USD
+    assets:opencollective:brew      -100.00 USD
+    expenses:fees:                     0.00 USD
+
+2022-12-09 Virtual Card charge from GITHUB  ; id:b88e0b34, group:8fd51682, payment-method:, payment-type:
+    expenses:misc:github-667d34      150.00 USD
+    assets:opencollective:brew      -150.00 USD
+    expenses:fees:                     0.00 USD
+
+2022-12-09 Virtual Card charge from GITHUB  ; id:748b57f0, group:1529d315, payment-method:, payment-type:
+    expenses:misc:github-667d34      200.00 USD
+    assets:opencollective:brew      -200.00 USD
+    expenses:fees:                     0.00 USD
+
+2022-12-09 Virtual Card charge from GITHUB  ; id:fc4dd2e1, group:e5cda920, payment-method:, payment-type:
+    expenses:misc:github-667d34      100.00 USD
+    assets:opencollective:brew      -100.00 USD
+    expenses:fees:                     0.00 USD
+
+2022-12-09 Virtual Card charge from GITHUB  ; id:83341f50, group:7b8d8f0b, payment-method:, payment-type:
+    expenses:misc:github-667d34     1350.00 USD
+    assets:opencollective:brew     -1350.00 USD
+    expenses:fees:                     0.00 USD
+
+2022-12-09 Virtual Card charge from GITHUB  ; id:e2abb723, group:81a6247e, payment-method:, payment-type:
+    expenses:misc:github-667d34      150.00 USD
+    assets:opencollective:brew      -150.00 USD
+    expenses:fees:                     0.00 USD
+
+2022-12-09 Virtual Card charge from GITHUB  ; id:a1d5a110, group:34b7da4c, payment-method:, payment-type:
+    expenses:misc:github-667d34      100.00 USD
+    assets:opencollective:brew      -100.00 USD
+    expenses:fees:                     0.00 USD
+
+2022-12-09 Virtual Card charge from GITHUB  ; id:c710485d, group:5088a35a, payment-method:, payment-type:
+    expenses:misc:github-667d34      100.00 USD
+    assets:opencollective:brew      -100.00 USD
+    expenses:fees:                     0.00 USD
+
+2022-12-09 Virtual Card charge from GITHUB  ; id:fa7cecc8, group:e71bc0a4, payment-method:, payment-type:
+    expenses:misc:github-667d34       50.00 USD
+    assets:opencollective:brew       -50.00 USD
+    expenses:fees:                     0.00 USD
+
+2022-12-09 Virtual Card charge from GITHUB  ; id:6dfb2336, group:4599ced9, payment-method:, payment-type:
+    expenses:misc:github-667d34       50.00 USD
+    assets:opencollective:brew       -50.00 USD
+    expenses:fees:                     0.00 USD
+
+2022-12-09 Virtual Card charge from GITHUB  ; id:fc3797f6, group:e60364b8, payment-method:, payment-type:
+    expenses:misc:github-667d34      100.00 USD
+    assets:opencollective:brew      -100.00 USD
+    expenses:fees:                     0.00 USD
+
+2022-12-09 Virtual Card charge from GITHUB  ; id:83426749, group:c84e3043, payment-method:, payment-type:
+    expenses:misc:github-667d34      100.00 USD
+    assets:opencollective:brew      -100.00 USD
+    expenses:fees:                     0.00 USD
+
+2022-12-09 Virtual Card charge from GITHUB  ; id:1ac6b71c, group:d5e65a65, payment-method:, payment-type:
+    expenses:misc:github-667d34      100.00 USD
+    assets:opencollective:brew      -100.00 USD
+    expenses:fees:                     0.00 USD
+
+2022-12-13 Virtual Card charge from GITHUB  ; id:cb88cafe, group:086dc9bc, payment-method:, payment-type:
+    expenses:misc:github-667d34       60.00 USD
+    assets:opencollective:brew       -60.00 USD
+    expenses:fees:                     0.00 USD
+
+2022-12-19 Expense from Issy Long - Thon Hotel Event Hire - AGM  ; id:6d7a0197, group:5b0275ef, payment-method:, payment-type:
+    expenses:misc:issyl0                 254.24 USD
+    assets:opencollective:brew          -255.42 USD
+    expenses:fees:unknown-processor        1.18 USD
+
+2022-12-23 Expense from Issy Long - AGM Travel and Lodging  ; id:54a728c5, group:939671aa, payment-method:, payment-type:
+    expenses:misc:issyl0                 573.30 USD
+    assets:opencollective:brew          -575.47 USD
+    expenses:fees:unknown-processor        2.17 USD
+
+2022-12-23 Expense from Patrick Linnane - AGM Travel & Lodging  ; id:1475d8b5, group:16a3f0b6, payment-method:, payment-type:
+    expenses:misc:patrick-linnane       1728.89 USD
+    assets:opencollective:brew         -1729.28 USD
+    expenses:fees:unknown-processor        0.39 USD
+
+2022-12-28 Virtual Card charge from GITHUB  ; id:c26600a8, group:be36a214, payment-method:, payment-type:
+    expenses:misc:github-667d34      212.90 USD
+    assets:opencollective:brew      -212.90 USD
+    expenses:fees:                     0.00 USD
+
+2023-01-02 Expense from Mike McQuaid - AGM Travel and Lodging  ; id:092df5df, group:a54479ed, payment-method:, payment-type:
+    expenses:misc:mikemcquaid            761.20 USD
+    assets:opencollective:brew          -765.17 USD
+    expenses:fees:unknown-processor        3.97 USD
+
+2023-01-02 Expense from George Adams - Homebrew AGM/Fosden  ; id:e79f4039, group:386b29fa, payment-method:, payment-type:
+    expenses:misc:george-adams           573.37 USD
+    assets:opencollective:brew          -576.46 USD
+    expenses:fees:unknown-processor        3.09 USD
+
+2023-01-03 Virtual Card charge from GITHUB  ; id:0fa92546, group:87b625b7, payment-method:, payment-type:
+    expenses:misc:github-667d34     10551.29 USD
+    assets:opencollective:brew     -10551.29 USD
+    expenses:fees:                      0.00 USD
+
+2023-01-03 Virtual Card charge from GITHUB  ; id:06f481da, group:ae1ae052, payment-method:, payment-type:
+    expenses:misc:github-667d34       77.42 USD
+    assets:opencollective:brew       -77.42 USD
+    expenses:fees:                     0.00 USD
+
+2023-01-06 Expense from SMillerDev - Train travel back after AGM  ; id:c0a2617c, group:f59544f6, payment-method:, payment-type:
+    expenses:misc:smillerdev              64.23 USD
+    assets:opencollective:brew           -64.76 USD
+    expenses:fees:unknown-processor        0.53 USD
+
+2023-01-06 Virtual Card charge from GITHUB  ; id:d2ae1548, group:d02fcb6e, payment-method:, payment-type:
+    expenses:misc:github-667d34      125.81 USD
+    assets:opencollective:brew      -125.81 USD
+    expenses:fees:                     0.00 USD
+
+2023-01-08 Expense from Michka Popoff - AGM/FOSDEM 2023 Hotel  ; id:28d8e33a, group:44722cf1, payment-method:, payment-type:
+    expenses:misc:michka-popoff          479.08 USD
+    assets:opencollective:brew          -481.14 USD
+    expenses:fees:unknown-processor        2.06 USD
+
+2023-01-08 Expense from SMillerDev - Hotel stay AGM  ; id:92e814d4, group:a3723fed, payment-method:, payment-type:
+    expenses:misc:smillerdev             105.39 USD
+    assets:opencollective:brew          -106.07 USD
+    expenses:fees:unknown-processor        0.68 USD
+
+2023-01-09 Expense from William Woodruff - Homebrew AGM/FOSDEM 2023  ; id:4784f172, group:10c66445, payment-method:, payment-type:
+    expenses:misc:woodruffw             1300.04 USD
+    assets:opencollective:brew         -1300.43 USD
+    expenses:fees:unknown-processor        0.39 USD
+
+2023-01-12 Expense from Michka Popoff - FOSDEM 1000 Stickers Transparent Background  ; id:e8cb8526, group:45610407, payment-method:, payment-type:
+    expenses:misc:michka-popoff          234.44 USD
+    assets:opencollective:brew          -235.62 USD
+    expenses:fees:unknown-processor        1.18 USD
+
+2023-01-16 Expense from Issy Long - 2023 AGM event hire, part two.  ; id:a7f90ce1, group:729de48b, payment-method:, payment-type:
+    expenses:misc:issyl0                1854.49 USD
+    assets:opencollective:brew         -1861.74 USD
+    expenses:fees:unknown-processor        7.25 USD
+
+2023-01-24 Expense from Rylan Polster - AGM Travel and Lodging  ; id:c28b503c, group:99ff0a69, payment-method:, payment-type:
+    expenses:misc:rylan-polster         1842.39 USD
+    assets:opencollective:brew         -1842.78 USD
+    expenses:fees:unknown-processor        0.39 USD
+
+2023-01-28 Virtual Card charge from GITHUB  ; id:21ed0dfa, group:24c68ff6, payment-method:, payment-type:
+    expenses:misc:github-667d34      106.45 USD
+    assets:opencollective:brew      -106.45 USD
+    expenses:fees:                     0.00 USD
+
+2023-02-02 Expense from Michka Popoff - Roll-up for FOSDEM  ; id:96815b9f, group:b2064544, payment-method:, payment-type:
+    expenses:misc:michka-popoff           73.18 USD
+    assets:opencollective:brew           -73.84 USD
+    expenses:fees:unknown-processor        0.66 USD
+
+2023-02-02 Expense from Issy Long - More AGM lodging  ; id:8941273a, group:79bd7e57, payment-method:, payment-type:
+    expenses:misc:issyl0                 160.59 USD
+    assets:opencollective:brew          -161.74 USD
+    expenses:fees:unknown-processor        1.15 USD
+
+2023-02-05 Expense from Issy Long - Mike’s Costume  ; id:f09c0716, group:4a5c03a4, payment-method:, payment-type:
+    expenses:misc:issyl0                  43.28 USD
+    assets:opencollective:brew           -43.88 USD
+    expenses:fees:unknown-processor        0.60 USD
+
+2023-02-08 Virtual Card charge from GITHUB  ; id:666cacf9, group:e3e5ccca, payment-method:, payment-type:
+    expenses:misc:github-667d34     11307.89 USD
+    assets:opencollective:brew     -11307.89 USD
+    expenses:fees:                      0.00 USD
+
+2023-02-08 Expense from Issy Long - AGM dinner  ; id:20addb68, group:c1a972c1, payment-method:, payment-type:
+    expenses:misc:issyl0                 478.43 USD
+    assets:opencollective:brew          -481.07 USD
+    expenses:fees:unknown-processor        2.64 USD
+
+2023-02-10 Expense from Markus Reiter - AGM Hotel & Travel  ; id:612c0864, group:e5746529, payment-method:, payment-type:
+    expenses:misc:reitermarkus           912.34 USD
+    assets:opencollective:brew          -916.93 USD
+    expenses:fees:unknown-processor        4.59 USD
+
+2023-02-16 Expense from Issy Long - 2023 AGM event hire, part three.  ; id:f6f0d0cd, group:a7953610, payment-method:, payment-type:
+    expenses:misc:issyl0                 514.66 USD
+    assets:opencollective:brew          -517.47 USD
+    expenses:fees:unknown-processor        2.81 USD
+
+2023-02-16 Expense from Michka Popoff - FOSDEM travel  ; id:b173ecd4, group:3dd6a434, payment-method:, payment-type:
+    expenses:misc:michka-popoff           39.43 USD
+    assets:opencollective:brew           -39.92 USD
+    expenses:fees:unknown-processor        0.49 USD
+
+2023-02-16 Expense from Michka Popoff - FOSDEM Hotel City Taxes  ; id:4d2f2104, group:cf646a86, payment-method:, payment-type:
+    expenses:misc:michka-popoff           18.12 USD
+    assets:opencollective:brew           -18.51 USD
+    expenses:fees:unknown-processor        0.39 USD
+
+2023-02-16 Expense from Eric Knibbe - AGM Flights  ; id:6cdd02be, group:798ae329, payment-method:, payment-type:
+    expenses:misc:eric-knibbe            744.11 USD
+    assets:opencollective:brew          -748.13 USD
+    expenses:fees:unknown-processor        4.02 USD
+
+2023-02-17 Expense from Rylan Polster - AGM Travel and Lodging Part 2  ; id:2b5c7d53, group:ac9ed655, payment-method:, payment-type:
+    expenses:misc:rylan-polster           61.55 USD
+    assets:opencollective:brew           -61.94 USD
+    expenses:fees:unknown-processor        0.39 USD
+
+2023-02-19 Virtual Card charge from GITHUB  ; id:1b1dc8f3, group:3162be4a, payment-method:, payment-type:
+    expenses:misc:github-667d34     9955.07 USD
+    assets:opencollective:brew     -9955.07 USD
+    expenses:fees:                     0.00 USD
+
+2023-02-23 Expense from Michka Popoff - FOSDEM 1000 Stickers White Background  ; id:a7aa55b7, group:bdc9e0f9, payment-method:, payment-type:
+    expenses:misc:michka-popoff          279.22 USD
+    assets:opencollective:brew          -280.82 USD
+    expenses:fees:unknown-processor        1.60 USD
+
+2023-02-23 Expense from Eric Knibbe - AGM Hotel & Transit  ; id:77e962b2, group:3ddd225b, payment-method:, payment-type:
+    expenses:misc:eric-knibbe            539.85 USD
+    assets:opencollective:brew          -542.89 USD
+    expenses:fees:unknown-processor        3.04 USD
+
+2023-02-27 Expense from Patrick Linnane - AGM Hotel City Taxes  ; id:284cdc7c, group:52da1433, payment-method:, payment-type:
+    expenses:misc:patrick-linnane         18.71 USD
+    assets:opencollective:brew           -19.10 USD
+    expenses:fees:unknown-processor        0.39 USD
+
+2023-02-27 Expense from Bo Anderson - Ephemeral CI project & related ops work (10th July 2022 through 10th Februrary 2023)  ; id:b148f610, group:57f752a6, payment-method:, payment-type:
+    expenses:misc:bo98                  5200.00 USD
+    assets:opencollective:brew         -5219.63 USD
+    expenses:fees:unknown-processor       19.63 USD
+
+2023-02-28 Expense from Colin Dean - AGM & FOSDEM expenses  ; id:95e41620, group:9dc17791, payment-method:, payment-type:
+    expenses:misc:colindean             1955.67 USD
+    assets:opencollective:brew         -1956.06 USD
+    expenses:fees:unknown-processor        0.39 USD
+
+2023-03-07 Expense from Sam Ford - AGM 2023 Hotel/Travel  ; id:5fbd8425, group:6c75858d, payment-method:, payment-type:
+    expenses:misc:samford               1534.32 USD
+    assets:opencollective:brew         -1534.71 USD
+    expenses:fees:unknown-processor        0.39 USD
+
+2023-03-19 Virtual Card charge from GITHUB  ; id:ba4938d8, group:9e5761fb, payment-method:, payment-type:
+    expenses:misc:github-667d34     9950.00 USD
+    assets:opencollective:brew     -9950.00 USD
+    expenses:fees:                     0.00 USD
+
+2023-03-26 Virtual Card charge from GITHUB, INC.  ; id:be4015ab, group:655ee78b, payment-method:, payment-type:
+    expenses:misc:github-inc-3e770c       24.60 USD
+    assets:opencollective:brew           -24.60 USD
+    expenses:fees:                         0.00 USD
+
+2023-03-31 Virtual Card charge from GITHUB  ; id:2b12936f, group:2a335617, payment-method:, payment-type:
+    expenses:misc:github-667d34      183.87 USD
+    assets:opencollective:brew      -183.87 USD
+    expenses:fees:                     0.00 USD
+
+2023-03-31 Virtual Card charge from GITHUB  ; id:97f77e94, group:f5206173, payment-method:, payment-type:
+    expenses:misc:github-667d34      183.87 USD
+    assets:opencollective:brew      -183.87 USD
+    expenses:fees:                     0.00 USD
+
+2023-04-03 Virtual Card charge from GITHUB  ; id:33e99721, group:71b0daee, payment-method:, payment-type:
+    expenses:misc:github-667d34      154.84 USD
+    assets:opencollective:brew      -154.84 USD
+    expenses:fees:                     0.00 USD
+
+2023-04-19 Virtual Card charge from GITHUB, INC.  ; id:945fae3a, group:e92592a9, payment-method:, payment-type:
+    expenses:misc:github-inc-3e770c       12.24 USD
+    assets:opencollective:brew           -12.24 USD
+    expenses:fees:                         0.00 USD
+
+2023-04-19 Virtual Card charge from GITHUB  ; id:46585b5a, group:6e20d3b6, payment-method:, payment-type:
+    expenses:misc:github-667d34     10850.00 USD
+    assets:opencollective:brew     -10850.00 USD
+    expenses:fees:                      0.00 USD
+
+2023-05-18 Virtual Card charge from GITHUB, INC.  ; id:f0d53ace, group:ef597d01, payment-method:, payment-type:
+    expenses:misc:github-inc-3e770c        6.35 USD
+    assets:opencollective:brew            -6.35 USD
+    expenses:fees:                         0.00 USD
+
+2023-05-18 Virtual Card charge from GITHUB  ; id:13a1766b, group:b84a5bd9, payment-method:, payment-type:
+    expenses:misc:github-667d34     10850.00 USD
+    assets:opencollective:brew     -10850.00 USD
+    expenses:fees:                      0.00 USD
+
+2023-06-05 Expense from Colin Dean - OpaVote election  ; id:c6f07c98, group:0eeea3a1, payment-method:, payment-type:
+    expenses:misc:colindean               10.00 USD
+    assets:opencollective:brew           -10.39 USD
+    expenses:fees:unknown-processor        0.39 USD
+
+2023-06-18 Virtual Card charge from GITHUB  ; id:9d6f821b, group:a47b9e26, payment-method:, payment-type:
+    expenses:misc:github-667d34     10850.00 USD
+    assets:opencollective:brew     -10850.00 USD
+    expenses:fees:                      0.00 USD
+
+2023-06-18 Virtual Card charge from GITHUB, INC.  ; id:fb95ab27, group:e97f59ea, payment-method:, payment-type:
+    expenses:misc:github-inc-3e770c       41.04 USD
+    assets:opencollective:brew           -41.04 USD
+    expenses:fees:                         0.00 USD
+
+2023-07-03 Expense from Rui Chen - AGM travel  ; id:58466eac, group:a1c0e9d5, payment-method:, payment-type:
+    expenses:misc:rui-chen              2291.79 USD
+    assets:opencollective:brew         -2292.18 USD
+    expenses:fees:unknown-processor        0.39 USD
+
+2023-07-06 Refund of "Expense from Rui Chen - AGM travel"  ; id:4a846f1e, group:b363ae0a, payment-method:, payment-type:
+    income:unknown                -2291.79 USD
+    assets:opencollective:brew     2291.79 USD
+    expenses:fees:BANK_ACCOUNT        0.00 USD
+
+2023-07-18 Virtual Card charge from GITHUB, INC.  ; id:0250cd74, group:3cb8c2a6, payment-method:, payment-type:
+    expenses:misc:github-inc-3e770c       22.99 USD
+    assets:opencollective:brew           -22.99 USD
+    expenses:fees:                         0.00 USD
+
+2023-07-18 Virtual Card charge from GITHUB  ; id:3fecb491, group:eb254c16, payment-method:, payment-type:
+    expenses:misc:github-667d34     11501.00 USD
+    assets:opencollective:brew     -11501.00 USD
+    expenses:fees:                      0.00 USD
+
+2023-07-21 Expense from Rui Chen - AGM travel  ; id:788f5478, group:7695233f, payment-method:, payment-type:
+    expenses:misc:rui-chen              2291.79 USD
+    assets:opencollective:brew         -2292.18 USD
+    expenses:fees:unknown-processor        0.39 USD
+
+2023-07-25 Expense from Issy Long - Google Cloud (Apr-Jun)  ; id:7914574c, group:e6bcf145, payment-method:, payment-type:
+    expenses:misc:issyl0                 823.73 USD
+    assets:opencollective:brew          -827.37 USD
+    expenses:fees:unknown-processor        3.64 USD
+
+2023-09-04 Expense from Mike McQuaid - Quarterly Homebrew maintenance  ; id:ebe4159e, group:46dda590, payment-method:, payment-type:
+    expenses:misc:mikemcquaid            899.99 USD
+    assets:opencollective:brew          -904.82 USD
+    expenses:fees:unknown-processor        4.83 USD
+
+2023-09-11 Virtual Card charge from GITHUB, INC.  ; id:e91f5337, group:e9dbb991, payment-method:, payment-type:
+    expenses:misc:github-inc-3e770c        4.06 USD
+    assets:opencollective:brew            -4.06 USD
+    expenses:fees:                         0.00 USD
+
+2023-09-11 Expense from Ruoyu Zhong - Quarterly Homebrew maintenance  ; id:82a4c62c, group:3d698fe0, payment-method:, payment-type:
+    expenses:misc:zhongruoyu             900.00 USD
+    assets:opencollective:brew          -905.67 USD
+    expenses:fees:unknown-processor        5.67 USD
+
+2023-09-11 Expense from François-Xavier Coudert - Quarterly Homebrew maintenance  ; id:63d6e3a8, group:8406d45d, payment-method:, payment-type:
+    expenses:misc:francois-xavier-coudert      900.01 USD
+    assets:opencollective:brew                -904.74 USD
+    expenses:fees:unknown-processor              4.73 USD
+
+2023-09-11 Expense from Michka Popoff - Quarterly Homebrew maintenance  ; id:69503d66, group:1235d514, payment-method:, payment-type:
+    expenses:misc:michka-popoff          900.01 USD
+    assets:opencollective:brew          -904.74 USD
+    expenses:fees:unknown-processor        4.73 USD
+
+2023-09-11 Expense from SMillerDev - Quarterly Homebrew maintainership  ; id:e296eac2, group:5def9a35, payment-method:, payment-type:
+    expenses:misc:smillerdev             900.01 USD
+    assets:opencollective:brew          -904.74 USD
+    expenses:fees:unknown-processor        4.73 USD
+
+2023-09-11 Expense from Nanda H Krishna - Quarterly Homebrew maintenance  ; id:8e32029c, group:318c018a, payment-method:, payment-type:
+    expenses:misc:nandahkrishna          900.00 USD
+    assets:opencollective:brew          -905.25 USD
+    expenses:fees:unknown-processor        5.25 USD
+
+2023-09-11 Expense from Miccal Matthews - Homebrew maintenance (3 months * $300)  ; id:c867f37c, group:3839fc52, payment-method:, payment-type:
+    expenses:misc:miccal-matthews        900.00 USD
+    assets:opencollective:brew          -904.60 USD
+    expenses:fees:unknown-processor        4.60 USD
+
+2023-09-11 Expense from Bevan Kay - Quarterly Homebrew maintenance  ; id:a7be15b8, group:480eee70, payment-method:, payment-type:
+    expenses:misc:bevan-kay              900.00 USD
+    assets:opencollective:brew          -904.60 USD
+    expenses:fees:unknown-processor        4.60 USD
+
+2023-09-12 Expense from Patrick Linnane - Quarterly Homebrew maintenance  ; id:9cf02177, group:1f48c5d3, payment-method:, payment-type:
+    expenses:misc:patrick-linnane        900.00 USD
+    assets:opencollective:brew          -900.39 USD
+    expenses:fees:unknown-processor        0.39 USD
+
+2023-09-12 Expense from David Baumgold - Quarterly Homebrew maintenance  ; id:d09c1425, group:98eb0417, payment-method:, payment-type:
+    expenses:misc:singingwolfboy         900.00 USD
+    assets:opencollective:brew          -900.39 USD
+    expenses:fees:unknown-processor        0.39 USD
+
+2023-09-12 Expense from Justin Krehel - Quarterly Homebrew Maintenance  ; id:1ff55266, group:9e83165b, payment-method:, payment-type:
+    expenses:misc:justin-krehel          900.00 USD
+    assets:opencollective:brew          -900.39 USD
+    expenses:fees:unknown-processor        0.39 USD
+
+2023-09-12 Expense from Dustin Rodrigues - Quarterly Homebrew maintenance  ; id:e1f498a9, group:a578a499, payment-method:, payment-type:
+    expenses:misc:dustin-rodrigues       900.00 USD
+    assets:opencollective:brew          -900.39 USD
+    expenses:fees:unknown-processor        0.39 USD
+
+2023-09-13 Refund of "Expense from Bevan Kay - Quarterly Homebrew maintenance"  ; id:aacffd0a, group:6abe12dd, payment-method:, payment-type:
+    income:unknown                 -900.00 USD
+    assets:opencollective:brew      900.00 USD
+    expenses:fees:BANK_ACCOUNT        0.00 USD
+
+2023-09-15 Expense from Bevan Kay - Quarterly Homebrew maintenance  ; id:b36c30e4, group:0dc70b7d, payment-method:, payment-type:
+    expenses:misc:bevan-kay              900.00 USD
+    assets:opencollective:brew          -904.60 USD
+    expenses:fees:unknown-processor        4.60 USD
+
+2023-09-18 Expense from Thierry Moisan - Quarterly Homebrew maintenance  ; id:86794be3, group:af6cbe7d, payment-method:, payment-type:
+    expenses:misc:thierry-moisan         900.00 USD
+    assets:opencollective:brew          -904.35 USD
+    expenses:fees:unknown-processor        4.35 USD
+
+2023-09-18 Virtual Card charge from GITHUB, INC.  ; id:0ed46d69, group:03abf0ef, payment-method:, payment-type:
+    expenses:misc:github-inc-3e770c        4.69 USD
+    assets:opencollective:brew            -4.69 USD
+    expenses:fees:                         0.00 USD
+
+2023-09-22 Expense from Razvan Azamfirei - Quarterly Homebrew maintenance  ; id:6562895b, group:225d0068, payment-method:, payment-type:
+    expenses:misc:razvan-azamfirei       900.00 USD
+    assets:opencollective:brew          -900.39 USD
+    expenses:fees:unknown-processor        0.39 USD
+
+2023-09-29 Virtual Card charge from MACSTADIUM  ; id:25cb4e8c, group:f33193d9, payment-method:, payment-type:
+    expenses:misc:macstadium-35821f       95.80 USD
+    assets:opencollective:brew           -95.80 USD
+    expenses:fees:                         0.00 USD
+
+2023-10-02 Virtual Card charge from MACSTADIUM  ; id:a5f7aae3, group:e7b9e8cb, payment-method:, payment-type:
+    expenses:misc:macstadium-35821f      718.20 USD
+    assets:opencollective:brew          -718.20 USD
+    expenses:fees:                         0.00 USD
+
+2023-10-05 Expense from Sam Ford - Quarterly Homebrew maintenance  ; id:d7f8d77c, group:d7890698, payment-method:, payment-type:
+    expenses:misc:samford                900.00 USD
+    assets:opencollective:brew          -900.39 USD
+    expenses:fees:unknown-processor        0.39 USD
+
+2023-10-13 Virtual Card charge from MACSTADIUM  ; id:628ae363, group:8d82e7dd, payment-method:, payment-type:
+    expenses:misc:macstadium-35821f      102.88 USD
+    assets:opencollective:brew          -102.88 USD
+    expenses:fees:                         0.00 USD
+
+2023-10-18 Virtual Card charge from GITHUB, INC.  ; id:601a5f4e, group:afebc110, payment-method:, payment-type:
+    expenses:misc:github-inc-3e770c        7.87 USD
+    assets:opencollective:brew            -7.87 USD
+    expenses:fees:                         0.00 USD
+
+2023-11-02 Virtual Card charge from MACSTADIUM  ; id:a6243ec7, group:efc27b28, payment-method:, payment-type:
+    expenses:misc:macstadium-35821f      718.20 USD
+    assets:opencollective:brew          -718.20 USD
+    expenses:fees:                         0.00 USD
+
+2023-11-10 Expense from Issy Long - Google Cloud (Jul-Oct)  ; id:3dbb3fb8, group:6a649686, payment-method:, payment-type:
+    expenses:misc:issyl0                 965.50 USD
+    assets:opencollective:brew          -970.65 USD
+    expenses:fees:unknown-processor        5.15 USD
+
+2023-11-18 Virtual Card charge from GITHUB, INC.  ; id:afdd25a0, group:f3533121, payment-method:, payment-type:
+    expenses:misc:github-inc-3e770c        8.83 USD
+    assets:opencollective:brew            -8.83 USD
+    expenses:fees:                         0.00 USD
+
+2023-11-28 Expense from Michka Popoff - FOSDEM stickers  ; id:3a24671d, group:a798e891, payment-method:, payment-type:
+    expenses:misc:michka-popoff          547.56 USD
+    assets:opencollective:brew          -550.56 USD
+    expenses:fees:unknown-processor        3.00 USD
+
+2023-11-29 Expense from SMillerDev - First deposit Thon booking  ; id:0a5fbf1e, group:59d45deb, payment-method:, payment-type:
+    expenses:misc:smillerdev             261.14 USD
+    assets:opencollective:brew          -262.75 USD
+    expenses:fees:unknown-processor        1.61 USD
+
+2023-12-01 Expense from Mike McQuaid - Quarterly Homebrew maintenance  ; id:0cc1a9f2, group:212991fe, payment-method:, payment-type:
+    expenses:misc:mikemcquaid            900.00 USD
+    assets:opencollective:brew          -904.83 USD
+    expenses:fees:unknown-processor        4.83 USD
+
+2023-12-03 Expense from Miccal Matthews - Quarterly Homebrew maintenance  ; id:838ab111, group:d384147a, payment-method:, payment-type:
+    expenses:misc:miccal-matthews        900.00 USD
+    assets:opencollective:brew          -904.61 USD
+    expenses:fees:unknown-processor        4.61 USD
+
+2023-12-04 Expense from Ruoyu Zhong - Quarterly Homebrew maintenance  ; id:161180c4, group:8e48991d, payment-method:, payment-type:
+    expenses:misc:zhongruoyu             900.00 USD
+    assets:opencollective:brew          -905.69 USD
+    expenses:fees:unknown-processor        5.69 USD
+
+2023-12-04 Expense from Bevan Kay - Quarterly Homebrew maintenance  ; id:bf6fe67d, group:2cf7db30, payment-method:, payment-type:
+    expenses:misc:bevan-kay              900.00 USD
+    assets:opencollective:brew          -904.61 USD
+    expenses:fees:unknown-processor        4.61 USD
+
+2023-12-04 Expense from Nanda H Krishna - Quarterly Homebrew maintenance  ; id:adbbcec5, group:7990558f, payment-method:, payment-type:
+    expenses:misc:nandahkrishna          900.00 USD
+    assets:opencollective:brew          -905.25 USD
+    expenses:fees:unknown-processor        5.25 USD
+
+2023-12-04 Expense from Thierry Moisan - Quarterly Homebrew maintenance  ; id:2394c477, group:ba98bbfe, payment-method:, payment-type:
+    expenses:misc:thierry-moisan         900.00 USD
+    assets:opencollective:brew          -905.25 USD
+    expenses:fees:unknown-processor        5.25 USD
+
+2023-12-04 Expense from Michka Popoff - Quarterly Homebrew maintenance  ; id:1a5ce654, group:9f16fb1d, payment-method:, payment-type:
+    expenses:misc:michka-popoff          900.00 USD
+    assets:opencollective:brew          -904.73 USD
+    expenses:fees:unknown-processor        4.73 USD
+
+2023-12-04 Expense from François-Xavier Coudert - Quarterly Homebrew maintenance  ; id:c405e7fc, group:51751132, payment-method:, payment-type:
+    expenses:misc:francois-xavier-coudert      900.00 USD
+    assets:opencollective:brew                -904.73 USD
+    expenses:fees:unknown-processor              4.73 USD
+
+2023-12-04 Expense from Eric Knibbe - Quarterly Homebrew maintenance  ; id:da27670a, group:2866fd9e, payment-method:, payment-type:
+    expenses:misc:eric-knibbe            900.00 USD
+    assets:opencollective:brew          -905.25 USD
+    expenses:fees:unknown-processor        5.25 USD
+
+2023-12-04 Expense from Patrick Linnane - Quarterly Homebrew maintenance  ; id:988f113c, group:4203d4f8, payment-method:, payment-type:
+    expenses:misc:patrick-linnane        900.00 USD
+    assets:opencollective:brew          -900.39 USD
+    expenses:fees:unknown-processor        0.39 USD
+
+2023-12-14 Expense from Issy Long - 2024 AGM Travel and Hotel  ; id:6b4927dc, group:3c57a3f4, payment-method:, payment-type:
+    expenses:misc:issyl0                 676.12 USD
+    assets:opencollective:brew          -679.83 USD
+    expenses:fees:unknown-processor        3.71 USD
+
+2023-12-14 Expense from Bevan Kay - AGM Travel & Accommodation Expenses  ; id:9c3e6373, group:68d6ad36, payment-method:, payment-type:
+    expenses:misc:bevan-kay             1479.39 USD
+    assets:opencollective:brew         -1486.74 USD
+    expenses:fees:unknown-processor        7.35 USD
+
+2023-12-14 Expense from Bevan Kay - AGM Hotel Reimbursement  ; id:4a62d2e9, group:d00003b4, payment-method:, payment-type:
+    expenses:misc:bevan-kay              530.49 USD
+    assets:opencollective:brew          -533.37 USD
+    expenses:fees:unknown-processor        2.88 USD
+
+2023-12-15 Expense from Patrick Linnane - AGM Hotel  ; id:071238f1, group:f67753dc, payment-method:, payment-type:
+    expenses:misc:patrick-linnane        518.93 USD
+    assets:opencollective:brew          -519.32 USD
+    expenses:fees:unknown-processor        0.39 USD
+
+2023-12-15 Expense from SMillerDev - Quarterly Homebrew maintainership  ; id:22092c01, group:94c81756, payment-method:, payment-type:
+    expenses:misc:smillerdev             900.01 USD
+    assets:opencollective:brew          -904.74 USD
+    expenses:fees:unknown-processor        4.73 USD
+
+2023-12-15 Expense from Markus Reiter - 2024 AGM Travel  ; id:5f0b511a, group:3da41e31, payment-method:, payment-type:
+    expenses:misc:reitermarkus           206.93 USD
+    assets:opencollective:brew          -208.26 USD
+    expenses:fees:unknown-processor        1.33 USD
+
+2023-12-18 Expense from Michael Cho - Quarterly Homebrew maintenance  ; id:ee6658d0, group:70bc60f7, payment-method:, payment-type:
+    expenses:misc:cho-m                  900.00 USD
+    assets:opencollective:brew          -900.39 USD
+    expenses:fees:unknown-processor        0.39 USD
+
+2023-12-18 Expense from William Woodruff - 2024 AGM Travel Rembursement  ; id:1baa1d2a, group:d78a179b, payment-method:, payment-type:
+    expenses:misc:woodruffw              730.00 USD
+    assets:opencollective:brew          -730.39 USD
+    expenses:fees:unknown-processor        0.39 USD
+
+2023-12-18 Expense from Razvan Azamfirei - Quarterly Homebrew maintenance  ; id:b19e6027, group:4bd82f74, payment-method:, payment-type:
+    expenses:misc:razvan-azamfirei       900.00 USD
+    assets:opencollective:brew          -900.39 USD
+    expenses:fees:unknown-processor        0.39 USD
+
+2023-12-18 Expense from Dustin Rodrigues - Quarterly Homebrew maintenance  ; id:fdcacf6f, group:5167082c, payment-method:, payment-type:
+    expenses:misc:dustin-rodrigues       900.00 USD
+    assets:opencollective:brew          -900.39 USD
+    expenses:fees:unknown-processor        0.39 USD
+
+2023-12-18 Expense from David Baumgold - Quarterly Homebrew maintenance  ; id:60b43c4a, group:6058330a, payment-method:, payment-type:
+    expenses:misc:singingwolfboy         900.00 USD
+    assets:opencollective:brew          -900.39 USD
+    expenses:fees:unknown-processor        0.39 USD
+
+2023-12-18 Expense from William Woodruff - 2024 Homebrew AGM Hotel  ; id:ef4172fe, group:5066d6ec, payment-method:, payment-type:
+    expenses:misc:woodruffw              399.27 USD
+    assets:opencollective:brew          -399.66 USD
+    expenses:fees:unknown-processor        0.39 USD
+
+2023-12-18 Expense from Patrick Linnane - 2024 AGM Travel  ; id:f9c06d6f, group:e532d070, payment-method:, payment-type:
+    expenses:misc:patrick-linnane       1652.50 USD
+    assets:opencollective:brew         -1652.89 USD
+    expenses:fees:unknown-processor        0.39 USD
+
+2023-12-19 Expense from Caleb Xu - Maintainer Hardware Grant  ; id:571ab249, group:c8ba2295, payment-method:, payment-type:
+    expenses:misc:alebcay               1578.11 USD
+    assets:opencollective:brew         -1578.50 USD
+    expenses:fees:unknown-processor        0.39 USD
+
+2023-12-27 Expense from Ruoyu Zhong - 2024 AGM Travel, Hotel, and Visa Expenses  ; id:7519800e, group:0fbcd808, payment-method:, payment-type:
+    expenses:misc:zhongruoyu            1615.08 USD
+    assets:opencollective:brew         -1623.23 USD
+    expenses:fees:unknown-processor        8.15 USD
+
+2024-01-02 Expense from Colin Dean - 2024 AGM prepaid travel expenses  ; id:a248f3fc, group:3fd185eb, payment-method:, payment-type:
+    expenses:misc:colindean             1602.02 USD
+    assets:opencollective:brew         -1602.41 USD
+    expenses:fees:unknown-processor        0.39 USD
+
+2024-01-08 Expense from Carlo Cabrera - 2023 Homebrew maintenance  ; id:3349e59c, group:a48c2934, payment-method:, payment-type:
+    expenses:misc:carlo-cabrera         3600.01 USD
+    assets:opencollective:brew         -3618.34 USD
+    expenses:fees:unknown-processor       18.33 USD
+
+2024-01-08 Expense from SMillerDev - Thon secondary AGM payment  ; id:bc04bb54, group:ad7bd04c, payment-method:, payment-type:
+    expenses:misc:smillerdev            1821.66 USD
+    assets:opencollective:brew         -1830.91 USD
+    expenses:fees:unknown-processor        9.25 USD
+
+2024-01-08 Expense from Michael Cho - 2024 AGM Travel  ; id:c8384534, group:e2e85f1a, payment-method:, payment-type:
+    expenses:misc:cho-m                  630.30 USD
+    assets:opencollective:brew          -630.69 USD
+    expenses:fees:unknown-processor        0.39 USD
+
+2024-01-08 Expense from Michael Cho - 2024 AGM Hotel  ; id:ae5d4361, group:1e4b7035, payment-method:, payment-type:
+    expenses:misc:cho-m                  531.56 USD
+    assets:opencollective:brew          -531.95 USD
+    expenses:fees:unknown-processor        0.39 USD
+
+2024-01-08 Expense from Justin Krehel - 2024 AGM Prepaid Expenses  ; id:5d45e702, group:41fc66d3, payment-method:, payment-type:
+    expenses:misc:justin-krehel         1612.76 USD
+    assets:opencollective:brew         -1613.15 USD
+    expenses:fees:unknown-processor        0.39 USD
+
+2024-01-09 Expense from MacStadium, Inc - MacStadium, Invoice # 85497  ; id:d6fdf114, group:5e229bd6, payment-method:, payment-type:
+    expenses:misc:11049-macstadium-inc-1051b897      718.20 USD
+    assets:opencollective:brew                      -718.59 USD
+    expenses:fees:unknown-processor                    0.39 USD
+
+2024-01-10 Expense from Carlo Cabrera - 2024 AGM Flight  ; id:045e68d8, group:eba8d3da, payment-method:, payment-type:
+    expenses:misc:carlo-cabrera         1508.23 USD
+    assets:opencollective:brew         -1518.05 USD
+    expenses:fees:unknown-processor        9.82 USD
+
+2024-01-10 Expense from Michka Popoff - Hotel AGM 2024  ; id:3bd30271, group:6e55eed1, payment-method:, payment-type:
+    expenses:misc:michka-popoff          526.63 USD
+    assets:opencollective:brew          -529.53 USD
+    expenses:fees:unknown-processor        2.90 USD
+
+2024-01-11 Expense from George Adams - Homebrew AGM  ; id:7dd0c4a9, group:52f89164, payment-method:, payment-type:
+    expenses:misc:george-adams          1083.34 USD
+    assets:opencollective:brew         -1089.09 USD
+    expenses:fees:unknown-processor        5.75 USD
+
+2024-01-11 Expense from Eric Knibbe - AGM flights  ; id:e2fcbabf, group:e816de3f, payment-method:, payment-type:
+    expenses:misc:eric-knibbe            498.15 USD
+    assets:opencollective:brew          -501.29 USD
+    expenses:fees:unknown-processor        3.14 USD
+
+2024-01-11 Expense from Eric Knibbe - AGM hotel  ; id:8e9a0fef, group:909e0304, payment-method:, payment-type:
+    expenses:misc:eric-knibbe            522.65 USD
+    assets:opencollective:brew          -525.91 USD
+    expenses:fees:unknown-processor        3.26 USD
+
+2024-01-13 Expense from Michka Popoff - AGM 2024 Train tickets  ; id:b30578e6, group:f009bb05, payment-method:, payment-type:
+    expenses:misc:michka-popoff           65.70 USD
+    assets:opencollective:brew           -66.35 USD
+    expenses:fees:unknown-processor        0.65 USD
+
+2024-01-14 Expense from Michka Popoff - FOSDEM Tablecloth 350x170cm  ; id:d5222669, group:6462b6ab, payment-method:, payment-type:
+    expenses:misc:michka-popoff          115.62 USD
+    assets:opencollective:brew          -116.51 USD
+    expenses:fees:unknown-processor        0.89 USD
+
+2024-01-16 Expense from Justin Krehel - Quarterly Homebrew Maintenance  ; id:2e24a3d3, group:d8afc7d3, payment-method:, payment-type:
+    expenses:misc:justin-krehel          900.00 USD
+    assets:opencollective:brew          -900.39 USD
+    expenses:fees:unknown-processor        0.39 USD
+
+2024-01-16 Expense from Sam Ford - Quarterly Homebrew maintenance  ; id:f080c7fc, group:fed85446, payment-method:, payment-type:
+    expenses:misc:samford                900.00 USD
+    assets:opencollective:brew          -900.39 USD
+    expenses:fees:unknown-processor        0.39 USD
+
+2024-01-17 Expense from SMillerDev - Travel to AGM  ; id:b5996462, group:dd8c22d5, payment-method:, payment-type:
+    expenses:misc:smillerdev             109.84 USD
+    assets:opencollective:brew          -110.70 USD
+    expenses:fees:unknown-processor        0.86 USD
+
+2024-01-18 Expense from Rui Chen - AGM 2024  ; id:4fe19e99, group:2771fe05, payment-method:, payment-type:
+    expenses:misc:rui-chen              2109.40 USD
+    assets:opencollective:brew         -2109.79 USD
+    expenses:fees:unknown-processor        0.39 USD
+
