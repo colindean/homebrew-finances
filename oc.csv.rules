@@ -84,8 +84,8 @@ if %kind (CONTRIBUTION|EXPENSE)
 ^ %payoutMethodType ^$
  account3 expenses:fees:unknown-processor
 
-# Handle added funds
-if %kind ADDED_FUNDS
+# Handle added funds or payment processor covers
+if %kind (ADDED_FUNDS|PAYMENT_PROCESSOR_COVER)
  comment id:%shortId, group:%shortGroup, payment-method:%paymentMethodService, payment-type:%paymentMethodType
  amount2  %netAmount %currency_
  account2 assets:opencollective:%accountslug
