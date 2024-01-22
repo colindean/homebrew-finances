@@ -77,9 +77,9 @@ reports() {  # show main README reports in terminal. Add -o html for HTML.
     echo
     is "$@"
     echo
-    bs -Y -b2017 "$@"
+    bs -Y -b2021 "$@"
     echo
-    is -T -Y -b2017 "$@"
+    is -T -Y -b2021 "$@"
     echo
 }
 
