@@ -61,6 +61,7 @@ if %date ^(2021-(0[6-9]|1)|202[2-9]|20[3-9]|2[1-9]|[3-9])
  amount1  -%amount %currency_
  amount2  %netAmount %currency_
  account2 assets:opencollective:%accountslug
+ balance2 %balance_ %currency_
  amount3  -%paymentProcessorFee %currency_
  account3 expenses:fees:%paymentMethodService%payoutMethodType
 
@@ -69,9 +70,10 @@ if %date ^(2021-(0[6-9]|1)|202[2-9]|20[3-9]|2[1-9]|[3-9])
  comment id:%shortId, group:%shortGroup
  amount2  %netAmount %currency_
  account2 assets:opencollective:%accountslug
+ balance2 %balance_ %currency_
  amount1  -%amount %currency_
- account1 expenses:fees:open-source-collective
-#                    ^ fiscal host name, could use %oppositeAccountSlug
+ account1 expenses:fees:%oppositeAccountSlug
+#                    ^ fiscal host name, could use hardcoded "open-source-collective"
 
 # ** Misc (all dates)
 
@@ -82,6 +84,19 @@ if %kind (CONTRIBUTION|EXPENSE)
 ^ %payoutMethodType ^$
  account3 expenses:fees:unknown-processor
 
+# Handle added funds
+if %kind ADDED_FUNDS
+ comment id:%shortId, group:%shortGroup, payment-method:%paymentMethodService, payment-type:%paymentMethodType
+ amount2  %netAmount %currency_
+ account2 assets:opencollective:%accountslug
+ balance2 %balance_ %currency_
+ amount1  -%amount %currency_
+ account1 revenues:donations:%oppositeAccountSlug
+
+#### 
+## LEGACY FROM hledger FINANCIALS CODEBASE
+## probably not relevant but kept as an example
+####
 # In the 2023-11 download, some records (october swimmer from 2020 to
 # 2023-07, brandon j wong from 2021 to 2023) lost their previous
 # paymentMethodService, paymentMethodType values (STRIPE, CREDITCARD).
