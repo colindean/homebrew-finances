@@ -8,7 +8,7 @@ HLEDGER=hledger
 
 # the API URL from which to retrieve
 # use COLLECTIVENAME as a variable for the collective, which will be later substituted
-CSV_DOWNLOAD_URL=https://rest.opencollective.com/v2/COLLECTIVENAME/transactions.csv?fetchAll=1&includeGiftCardTransactions=1&includeIncognitoTransactions=1&includeChildrenTransactions=1&kind=CONTRIBUTION%2CEXPENSE%2CHOST_FEE&fields=datetime%2CshortId%2CshortGroup%2Cdescription%2Ctype%2Ckind%2CisRefund%2CisRefunded%2CshortRefundId%2CdisplayAmount%2Camount%2CpaymentProcessorFee%2CnetAmount%2Cbalance%2Ccurrency%2CaccountSlug%2CaccountName%2CoppositeAccountSlug%2CoppositeAccountName%2CpaymentMethodService%2CpaymentMethodType%2CexpenseType%2CexpenseTags%2CpayoutMethodType%2CmerchantId%2CorderMemo
+CSV_DOWNLOAD_URL=https://rest.opencollective.com/v2/COLLECTIVENAME/transactions.csv?fetchAll=1&includeGiftCardTransactions=1&includeIncognitoTransactions=1&includeChildrenTransactions=1&kind=ADDED_FUNDS%2CCONTRIBUTION%2CEXPENSE%2CHOST_FEE&fields=datetime%2CshortId%2CshortGroup%2Cdescription%2Ctype%2Ckind%2CisRefund%2CisRefunded%2CshortRefundId%2CdisplayAmount%2Camount%2CpaymentProcessorFee%2CnetAmount%2Cbalance%2Ccurrency%2CaccountSlug%2CaccountName%2CoppositeAccountSlug%2CoppositeAccountName%2CpaymentMethodService%2CpaymentMethodType%2CexpenseType%2CexpenseTags%2CpayoutMethodType%2CmerchantId%2CorderMemo
 
 # persisted files calculated from the names of the contents of $(COLLECTIVES)
 WITH_OC=$(addprefix oc-,$(COLLECTIVES))
