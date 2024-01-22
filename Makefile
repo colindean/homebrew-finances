@@ -16,12 +16,6 @@ CSVS=$(addsuffix .csv,$(WITH_OC))
 JOURNALS=$(CSVS:csv=journal)
 ACCOUNTS=$(CSVS:csv=accounts)
 
-varcheck:
-	@echo WITH_OC=$(WITH_OC)
-	@echo CSVS=$(CSVS)
-	@echo JOURNALS=$(JOURNALS)
-	@echo ACCOUNTS=$(ACCOUNTS)
-
 help: # list make targets
 	@printf "OpenCollective finances analysis for collectives [ $(COLLECTIVES) ]. This mainly manages data, for reports see ./hlfi\nTargets:\n"
 	@$(RG) '^(\w[^:]*): [^#]*(# .*)|^# \*\* (.*)' -or '$$3 $$1|$$2' $(MAKEFILE_LIST) | column -t -s'|' || true
@@ -29,6 +23,12 @@ help: # list make targets
 
 help-%: # list make targets matching a pattern
 	@make -s help | $(RG) -i "$*" || true
+
+varcheck: # show calculated variables for Makefile debugging
+	@echo WITH_OC=$(WITH_OC)
+	@echo CSVS=$(CSVS)
+	@echo JOURNALS=$(JOURNALS)
+	@echo ACCOUNTS=$(ACCOUNTS)
 
 csvs: $(CSVS) # retrieve all CSVs
 	@echo "Retrieved $^"
