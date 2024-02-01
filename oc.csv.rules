@@ -60,6 +60,34 @@ if %type DEBIT
  account1 expenses:hosting:github
 
 if %type DEBIT
+& %oppositeAccountSlug ^dnsimple
+ account1 expenses:hosting:dnsimple
+
+if %type DEBIT
+& %oppositeAccountSlug ^amazon-web-services
+ account1 expenses:hosting:aws
+
+if %type DEBIT
+& %oppositeAccountSlug ^google-cloud
+ account1 expenses:hosting:google-cloud
+
+if %type DEBIT
+& %oppositeAccountSlug ^(google-gsuite|google-llc-gsuite)
+ account1 expenses:hosting:google-gsuite
+
+if %type DEBIT
+& %oppositeAccountSlug ^opavote
+ account1 expenses:hosting:opavote
+
+if %type DEBIT
+& %oppositeAccountSlug ^twilio-com
+ account1 expenses:hosting:twilio
+
+if %type DEBIT
+& %oppositeAccountSlug ^buttondown-llc
+ account1 expenses:publicrelations:buttondown
+
+if %type DEBIT
 & %oppositeAccountSlug ^(macstadium|11049-macstadium-inc)
  account1 expenses:hosting:macstadium
 
