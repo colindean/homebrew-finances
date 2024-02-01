@@ -55,6 +55,18 @@ if %type DEBIT
 if %description bounty
  account1 expenses:bounties:%oppositeAccountSlug
 
+if %type DEBIT
+& %oppositeAccountSlug ^github
+ account1 expenses:hosting:github
+
+if %type DEBIT
+& %oppositeAccountSlug ^(macstadium|11049-macstadium-inc)
+ account1 expenses:hosting:macstadium
+
+if %type DEBIT
+& %oppositeAccountSlug (alebcay|bevan-kay|bo98|carlo-cabrera|cho-m|colindean|dustin-rodrigues|eric-knibbe|francois-xavier-coudert|george-adams|issyl0|justin-krehel|miccal-matthews|michka-popoff|mikemcquaid|nandahkrishna|patrick-linnane|razvan-azamfirei|reitermarkus|rylan-polster|rui-chen|samford|singingwolfboy|smillerdev|thierry-moisan|woodruffw|zhongruoyu)
+ account1 expenses:volunteers:%oppositeAccountSlug
+
 if %date ^(2021-(0[6-9]|1)|202[2-9]|20[3-9]|2[1-9]|[3-9])
 & %kind EXPENSE
  comment id:%shortId, group:%shortGroup, payment-method:%paymentMethodService, payment-type:%paymentMethodType
