@@ -133,6 +133,22 @@ if %kind (ADDED_FUNDS|PAYMENT_PROCESSOR_COVER)
  amount1  -%amount %currency_
  account1 revenues:donations:%oppositeAccountSlug
 
+if %kind PAYMENT_PROCESSOR_FEE
+ comment id:%shortId, group:%shortGroup
+ amount1  %amount %currency_
+ account1 assets:opencollective:%accountslug
+ balance1 %balance_ %currency_
+ amount2  -%netAmount %currency_
+ account2 expenses:fees:%oppositeAccountSlug
+
+if %kind PAYMENT_PROCESSOR_FEE
+& %oppositeAccountSlug ^stripe-payment-processor-vendor
+  account2 expenses:fees:stripe
+
+if %kind PAYMENT_PROCESSOR_FEE
+& %oppositeAccountSlug ^paypal-payment-processor-vendor
+  account2 expenses:fees:paypal
+
 #### 
 ## LEGACY FROM hledger FINANCIALS CODEBASE
 ## probably not relevant but kept as an example
