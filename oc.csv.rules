@@ -92,7 +92,7 @@ if %type DEBIT
  account1 expenses:hosting:macstadium
 
 if %type DEBIT
-& %oppositeAccountSlug (alebcay|bevan-kay|bo98|carlo-cabrera|cho-m|colindean|dustin-rodrigues|eric-knibbe|francois-xavier-coudert|george-adams|issyl0|justin-krehel|miccal-matthews|michka-popoff|mikemcquaid|nandahkrishna|patrick-linnane|razvan-azamfirei|reitermarkus|rylan-polster|rui-chen|samford|singingwolfboy|smillerdev|thierry-moisan|woodruffw|zhongruoyu)
+& %oppositeAccountSlug (alebcay|bayandin|bevan-kay|bo98|carlo-cabrera|cho-m|colindean|doug-eichelberger|dustin-rodrigues|eric-knibbe|francois-xavier-coudert|george-adams|issyl0|justin-krehel|miccal-matthews|michka-popoff|mikemcquaid|nandahkrishna|patrick-linnane|razvan-azamfirei|reitermarkus|rylan-polster|rui-chen|samford|singingwolfboy|smillerdev|thierry-moisan|woodruffw|zhongruoyu)
  account1 expenses:volunteers:%oppositeAccountSlug
 
 if %date ^(2021-(0[6-9]|1)|202[2-9]|20[3-9]|2[1-9]|[3-9])
