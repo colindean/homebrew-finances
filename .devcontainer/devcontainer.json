@@ -9,5 +9,14 @@
       "HOMEBREW_GITHUB_API_TOKEN": "${localEnv:GITHUB_TOKEN}",
       "EDITOR": "code --wait",
       "VISUAL": "code --wait"
+    },
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "mark-hansen.hledger-vscode",
+                "ms-vscode.makefile-tools",
+                "mechatroner.rainbow-csv"
+            ]
+        }
     }
   }
