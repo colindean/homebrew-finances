@@ -11,6 +11,7 @@ account expenses:fees:PAYPAL
 account expenses:fees:stripe
 account expenses:fees:STRIPE
 account expenses:fees:unknown-processor
+account expenses:fees:WISEBANK_ACCOUNT
 account expenses:hosting:aws
 account expenses:hosting:dnsimple
 account expenses:hosting:github
@@ -59,6 +60,7 @@ account revenues:donations:appbrew
 account revenues:donations:arthur-fritzsche
 account revenues:donations:artur-sentsov
 account revenues:donations:bill-roth
+account revenues:donations:bloomberg-foss-fund
 account revenues:donations:borland502
 account revenues:donations:broganbranstetter
 account revenues:donations:brook-harste
@@ -85,11 +87,13 @@ account revenues:donations:francescrosas
 account revenues:donations:frank-harper
 account revenues:donations:frans-guelinckx
 account revenues:donations:fuller-inc
+account revenues:donations:gabriele-guarnieri
 account revenues:donations:geoff-wright
 account revenues:donations:george-thompson
 account revenues:donations:github-sponsors
 account revenues:donations:gkahn
 account revenues:donations:gnrlbzik
+account revenues:donations:greg-dosh
 account revenues:donations:guest-00f9c603
 account revenues:donations:guest-0141569e
 account revenues:donations:guest-01b1c12d
@@ -109,6 +113,7 @@ account revenues:donations:guest-1c77d09d
 account revenues:donations:guest-1ca89ec0
 account revenues:donations:guest-1d5b5c61
 account revenues:donations:guest-1e67e4b4
+account revenues:donations:guest-1ea40eb3
 account revenues:donations:guest-1eb2f6da
 account revenues:donations:guest-1f6bc671
 account revenues:donations:guest-2060fe39
@@ -129,6 +134,7 @@ account revenues:donations:guest-3860e51e
 account revenues:donations:guest-3cd7df40
 account revenues:donations:guest-4096c0e8
 account revenues:donations:guest-43629531
+account revenues:donations:guest-45ed20e2
 account revenues:donations:guest-46e28715
 account revenues:donations:guest-481bab1b
 account revenues:donations:guest-48cfa9b3
@@ -144,6 +150,7 @@ account revenues:donations:guest-51356f60
 account revenues:donations:guest-51708a20
 account revenues:donations:guest-524e1d5b
 account revenues:donations:guest-5273bae2
+account revenues:donations:guest-52a3c32d
 account revenues:donations:guest-5324921e
 account revenues:donations:guest-54b069f5
 account revenues:donations:guest-55315aba
@@ -171,6 +178,7 @@ account revenues:donations:guest-7230aa8e
 account revenues:donations:guest-749c1d0d
 account revenues:donations:guest-7636da76
 account revenues:donations:guest-77717f5a
+account revenues:donations:guest-77fa45bb
 account revenues:donations:guest-7803a1c6
 account revenues:donations:guest-79a7cf24
 account revenues:donations:guest-7abcaa5c
@@ -189,6 +197,7 @@ account revenues:donations:guest-873e2dda
 account revenues:donations:guest-8757f8ba
 account revenues:donations:guest-89420e30
 account revenues:donations:guest-8c086883
+account revenues:donations:guest-8efec84a
 account revenues:donations:guest-90be3f90
 account revenues:donations:guest-91015e7f
 account revenues:donations:guest-9171f570
@@ -204,6 +213,7 @@ account revenues:donations:guest-994a4225
 account revenues:donations:guest-9a2f6462
 account revenues:donations:guest-9e6c1019
 account revenues:donations:guest-9f05409e
+account revenues:donations:guest-a31ddbae
 account revenues:donations:guest-a3b703b2
 account revenues:donations:guest-a5a536c9
 account revenues:donations:guest-a7c08911
@@ -226,6 +236,7 @@ account revenues:donations:guest-ccd8b717
 account revenues:donations:guest-cd90fc5f
 account revenues:donations:guest-ce4d7c49
 account revenues:donations:guest-ce8b7ffe
+account revenues:donations:guest-ceaaef43
 account revenues:donations:guest-d0cfa96b
 account revenues:donations:guest-d14eb771
 account revenues:donations:guest-d3018bb3
@@ -243,6 +254,7 @@ account revenues:donations:guest-ebe6bf91
 account revenues:donations:guest-ec742592
 account revenues:donations:guest-ed159154
 account revenues:donations:guest-ed24dd00
+account revenues:donations:guest-ee881e6b
 account revenues:donations:guest-f0b62bce
 account revenues:donations:guest-f38c0ac8
 account revenues:donations:guest-f3bb19c7
@@ -253,6 +265,7 @@ account revenues:donations:guest-f6fbaf84
 account revenues:donations:guest-f8e8d543
 account revenues:donations:guest-f9bac70d
 account revenues:donations:guest-fac766c9
+account revenues:donations:guest-fbd021dd
 account revenues:donations:guest-fd7b9c01
 account revenues:donations:guest-fe864700
 account revenues:donations:guido-panebianco
@@ -312,6 +325,7 @@ account revenues:donations:steph974
 account revenues:donations:stephan-hesse-emliri-ltd
 account revenues:donations:stephan-mauermann
 account revenues:donations:sughosh-kadkol
+account revenues:donations:target-tech
 account revenues:donations:taylor-ray-howard
 account revenues:donations:thomas-j-munn
 account revenues:donations:tony43

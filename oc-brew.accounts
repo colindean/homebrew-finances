@@ -4,6 +4,7 @@ account expenses:fees:BANK_ACCOUNT
 account expenses:fees:foundation
 account expenses:fees:other-payment-processor-vendor
 account expenses:fees:unknown-processor
+account expenses:fees:WISEBANK_ACCOUNT
 account expenses:hosting:github
 account expenses:hosting:macstadium
 account expenses:volunteers:alebcay

@@ -154,10 +154,10 @@
     expenses:fees:opensource              2.00 USD
     assets:opencollective:homebrew       -2.00 USD = 8565.38 USD
 
-2022-01-02 Monthly contribution from Julio Jordán (backer)  ; id:4aea24d2, group:b9f76e9e, payment-method:, payment-type:
-    revenues:donations:juliojordan        -5.00 USD
-    assets:opencollective:homebrew         4.50 USD = 8569.88 USD
-    expenses:fees:unknown-processor        0.50 USD
+2022-01-02 Monthly contribution from Julio Jordán (backer)  ; id:4aea24d2, group:b9f76e9e, payment-method:STRIPE, payment-type:CREDITCARD
+    revenues:donations:juliojordan       -5.00 USD
+    assets:opencollective:homebrew        4.50 USD = 8569.88 USD
+    expenses:fees:STRIPE                  0.50 USD
 
 2022-01-02 Host Fee to Open Source Collective  ; id:ed42df5e, group:b9f76e9e
     expenses:fees:opensource              0.50 USD
@@ -527,10 +527,10 @@
     expenses:fees:opensource              1.00 USD
     assets:opencollective:homebrew       -1.00 USD = 15437.20 USD
 
-2022-03-10 Monthly contribution from Clémence  ; id:47c46983, group:ad8f138b, payment-method:, payment-type:
-    revenues:donations:clemlesne          -1.00 USD
-    assets:opencollective:homebrew         0.66 USD = 15437.86 USD
-    expenses:fees:unknown-processor        0.34 USD
+2022-03-10 Monthly contribution from Clémence  ; id:47c46983, group:ad8f138b, payment-method:STRIPE, payment-type:CREDITCARD
+    revenues:donations:clemlesne         -1.00 USD
+    assets:opencollective:homebrew        0.66 USD = 15437.86 USD
+    expenses:fees:STRIPE                  0.34 USD
 
 2022-03-10 Host Fee to Open Source Collective  ; id:6f39948f, group:ad8f138b
     expenses:fees:opensource              0.10 USD
@@ -603,10 +603,10 @@
     expenses:fees:opensource              0.50 USD
     assets:opencollective:homebrew       -0.50 USD = 14482.64 USD
 
-2022-03-29 Monthly contribution from Infinum  ; id:8089c579, group:6c19bb1c, payment-method:, payment-type:
-    revenues:donations:infinum           -20.00 USD
-    assets:opencollective:homebrew        18.92 USD = 14501.56 USD
-    expenses:fees:unknown-processor        1.08 USD
+2022-03-29 Monthly contribution from Infinum  ; id:8089c579, group:6c19bb1c, payment-method:STRIPE, payment-type:CREDITCARD
+    revenues:donations:infinum          -20.00 USD
+    assets:opencollective:homebrew       18.92 USD = 14501.56 USD
+    expenses:fees:STRIPE                  1.08 USD
 
 2022-03-29 Host Fee to Open Source Collective  ; id:df55163b, group:6c19bb1c
     expenses:fees:opensource              2.00 USD
@@ -655,10 +655,10 @@
     expenses:fees:opensource              2.00 USD
     assets:opencollective:homebrew       -2.00 USD = 14281.05 USD
 
-2022-04-01 Monthly contribution from Clémence  ; id:0a80c805, group:56633327, payment-method:, payment-type:
-    revenues:donations:clemlesne          -1.00 USD
-    assets:opencollective:homebrew         0.66 USD = 14281.71 USD
-    expenses:fees:unknown-processor        0.34 USD
+2022-04-01 Monthly contribution from Clémence  ; id:0a80c805, group:56633327, payment-method:STRIPE, payment-type:CREDITCARD
+    revenues:donations:clemlesne         -1.00 USD
+    assets:opencollective:homebrew        0.66 USD = 14281.71 USD
+    expenses:fees:STRIPE                  0.34 USD
 
 2022-04-01 Host Fee to Open Source Collective  ; id:3772cb75, group:56633327
     expenses:fees:opensource              0.10 USD
@@ -849,10 +849,10 @@
     expenses:fees:opensource            170.00 USD
     assets:opencollective:homebrew     -170.00 USD = 26059.93 USD
 
-2022-05-01 Monthly contribution from Infinum  ; id:621f4075, group:95b10b61, payment-method:, payment-type:
-    revenues:donations:infinum           -20.00 USD
-    assets:opencollective:homebrew        18.92 USD = 26078.85 USD
-    expenses:fees:unknown-processor        1.08 USD
+2022-05-01 Monthly contribution from Infinum  ; id:621f4075, group:95b10b61, payment-method:STRIPE, payment-type:CREDITCARD
+    revenues:donations:infinum          -20.00 USD
+    assets:opencollective:homebrew       18.92 USD = 26078.85 USD
+    expenses:fees:STRIPE                  1.08 USD
 
 2022-05-01 Host Fee to Open Source Collective  ; id:d70ebb0a, group:95b10b61
     expenses:fees:opensource              2.00 USD
@@ -863,10 +863,10 @@
     assets:opencollective:homebrew      250.00 USD = 26326.85 USD
     expenses:fees:OPENCOLLECTIVE          0.00 USD
 
-2022-05-01 Monthly contribution from Clémence  ; id:f4a92e07, group:c3f5edde, payment-method:, payment-type:
-    revenues:donations:clemlesne          -1.00 USD
-    assets:opencollective:homebrew         0.66 USD = 26327.51 USD
-    expenses:fees:unknown-processor        0.34 USD
+2022-05-01 Monthly contribution from Clémence  ; id:f4a92e07, group:c3f5edde, payment-method:STRIPE, payment-type:CREDITCARD
+    revenues:donations:clemlesne         -1.00 USD
+    assets:opencollective:homebrew        0.66 USD = 26327.51 USD
+    expenses:fees:STRIPE                  0.34 USD
 
 2022-05-01 Host Fee to Open Source Collective  ; id:969c06b9, group:c3f5edde
     expenses:fees:opensource              0.10 USD
@@ -1037,10 +1037,10 @@
     expenses:fees:opensource              0.50 USD
     assets:opencollective:homebrew       -0.50 USD = 31342.84 USD
 
-2022-06-01 Monthly contribution from Infinum  ; id:cfb7aa51, group:983184d1, payment-method:, payment-type:
-    revenues:donations:infinum           -20.00 USD
-    assets:opencollective:homebrew        18.92 USD = 31361.76 USD
-    expenses:fees:unknown-processor        1.08 USD
+2022-06-01 Monthly contribution from Infinum  ; id:cfb7aa51, group:983184d1, payment-method:STRIPE, payment-type:CREDITCARD
+    revenues:donations:infinum          -20.00 USD
+    assets:opencollective:homebrew       18.92 USD = 31361.76 USD
+    expenses:fees:STRIPE                  1.08 USD
 
 2022-06-01 Host Fee to Open Source Collective  ; id:1774bde6, group:983184d1
     expenses:fees:opensource              2.00 USD
@@ -1051,10 +1051,10 @@
     assets:opencollective:homebrew      250.00 USD = 31609.76 USD
     expenses:fees:OPENCOLLECTIVE          0.00 USD
 
-2022-06-01 Monthly contribution from Clémence  ; id:65c030c5, group:e47e6b51, payment-method:, payment-type:
-    revenues:donations:clemlesne          -1.00 USD
-    assets:opencollective:homebrew         0.66 USD = 31610.42 USD
-    expenses:fees:unknown-processor        0.34 USD
+2022-06-01 Monthly contribution from Clémence  ; id:65c030c5, group:e47e6b51, payment-method:STRIPE, payment-type:CREDITCARD
+    revenues:donations:clemlesne         -1.00 USD
+    assets:opencollective:homebrew        0.66 USD = 31610.42 USD
+    expenses:fees:STRIPE                  0.34 USD
 
 2022-06-01 Host Fee to Open Source Collective  ; id:fae02939, group:e47e6b51
     expenses:fees:opensource              0.10 USD
@@ -1244,10 +1244,10 @@
     expenses:fees:opensource              0.50 USD
     assets:opencollective:homebrew       -0.50 USD = 34622.04 USD
 
-2022-07-01 Monthly contribution from Infinum  ; id:4cae481b, group:81ae8e88, payment-method:, payment-type:
-    revenues:donations:infinum           -20.00 USD
-    assets:opencollective:homebrew        18.92 USD = 34640.96 USD
-    expenses:fees:unknown-processor        1.08 USD
+2022-07-01 Monthly contribution from Infinum  ; id:4cae481b, group:81ae8e88, payment-method:STRIPE, payment-type:CREDITCARD
+    revenues:donations:infinum          -20.00 USD
+    assets:opencollective:homebrew       18.92 USD = 34640.96 USD
+    expenses:fees:STRIPE                  1.08 USD
 
 2022-07-01 Host Fee to Open Source Collective  ; id:d5ec1039, group:81ae8e88
     expenses:fees:opensource              2.00 USD
@@ -1258,10 +1258,10 @@
     assets:opencollective:homebrew      250.00 USD = 34888.96 USD
     expenses:fees:OPENCOLLECTIVE          0.00 USD
 
-2022-07-01 Monthly contribution from Clémence  ; id:a91e9f72, group:c2ff6777, payment-method:, payment-type:
-    revenues:donations:clemlesne          -1.00 USD
-    assets:opencollective:homebrew         0.66 USD = 34889.62 USD
-    expenses:fees:unknown-processor        0.34 USD
+2022-07-01 Monthly contribution from Clémence  ; id:a91e9f72, group:c2ff6777, payment-method:STRIPE, payment-type:CREDITCARD
+    revenues:donations:clemlesne         -1.00 USD
+    assets:opencollective:homebrew        0.66 USD = 34889.62 USD
+    expenses:fees:STRIPE                  0.34 USD
 
 2022-07-01 Host Fee to Open Source Collective  ; id:302458f9, group:c2ff6777
     expenses:fees:opensource              0.10 USD
@@ -1417,7 +1417,7 @@
     expenses:fees:opensource              2.00 USD
     assets:opencollective:homebrew       -2.00 USD = 45266.77 USD
 
-2022-08-01 Contribution from Felipe Azevedo  ; id:3161c7a2, group:c9f6592d, payment-method:STRIPE, payment-type:CREDITCARD
+2022-08-01 Contribution from Felipe  ; id:3161c7a2, group:c9f6592d, payment-method:STRIPE, payment-type:CREDITCARD
     revenues:donations:guest-fd7b9c01       -5.00 USD
     assets:opencollective:homebrew           4.50 USD = 45271.27 USD
     expenses:fees:STRIPE                     0.50 USD
@@ -1426,10 +1426,10 @@
     expenses:fees:opensource              0.50 USD
     assets:opencollective:homebrew       -0.50 USD = 45270.77 USD
 
-2022-08-01 Monthly contribution from Infinum  ; id:c9716492, group:88b4a693, payment-method:, payment-type:
-    revenues:donations:infinum           -20.00 USD
-    assets:opencollective:homebrew        18.92 USD = 45289.69 USD
-    expenses:fees:unknown-processor        1.08 USD
+2022-08-01 Monthly contribution from Infinum  ; id:c9716492, group:88b4a693, payment-method:STRIPE, payment-type:CREDITCARD
+    revenues:donations:infinum          -20.00 USD
+    assets:opencollective:homebrew       18.92 USD = 45289.69 USD
+    expenses:fees:STRIPE                  1.08 USD
 
 2022-08-01 Host Fee to Open Source Collective  ; id:0e04d312, group:88b4a693
     expenses:fees:opensource              2.00 USD
@@ -1440,10 +1440,10 @@
     assets:opencollective:homebrew      250.00 USD = 45537.69 USD
     expenses:fees:OPENCOLLECTIVE          0.00 USD
 
-2022-08-01 Monthly contribution from Clémence  ; id:28341bbe, group:947bbb74, payment-method:, payment-type:
-    revenues:donations:clemlesne          -1.00 USD
-    assets:opencollective:homebrew         0.66 USD = 45538.35 USD
-    expenses:fees:unknown-processor        0.34 USD
+2022-08-01 Monthly contribution from Clémence  ; id:28341bbe, group:947bbb74, payment-method:STRIPE, payment-type:CREDITCARD
+    revenues:donations:clemlesne         -1.00 USD
+    assets:opencollective:homebrew        0.66 USD = 45538.35 USD
+    expenses:fees:STRIPE                  0.34 USD
 
 2022-08-01 Host Fee to Open Source Collective  ; id:65fca68c, group:947bbb74
     expenses:fees:opensource              0.10 USD
@@ -1556,10 +1556,10 @@
     expenses:fees:opensource              0.20 USD
     assets:opencollective:homebrew       -0.20 USD = 49348.50 USD
 
-2022-08-23 Monthly contribution from MacPaw (sponsor)  ; id:d95dadde, group:f16435e5, payment-method:, payment-type:
-    revenues:donations:macpaw           -100.00 USD
-    assets:opencollective:homebrew        95.80 USD = 49444.30 USD
-    expenses:fees:unknown-processor        4.20 USD
+2022-08-23 Monthly contribution from MacPaw (sponsor)  ; id:d95dadde, group:f16435e5, payment-method:STRIPE, payment-type:CREDITCARD
+    revenues:donations:macpaw          -100.00 USD
+    assets:opencollective:homebrew       95.80 USD = 49444.30 USD
+    expenses:fees:STRIPE                  4.20 USD
 
 2022-08-23 Host Fee to Open Source Collective  ; id:e6ee2f5c, group:f16435e5
     expenses:fees:opensource             10.00 USD
@@ -1583,10 +1583,10 @@
     expenses:fees:opensource              1.50 USD
     assets:opencollective:homebrew       -1.50 USD = 49450.32 USD
 
-2022-08-27 Monthly contribution from Incognito (backer)  ; id:fff73eee, group:72eac9e4, payment-method:, payment-type:
+2022-08-27 Monthly contribution from Incognito (backer)  ; id:fff73eee, group:72eac9e4, payment-method:STRIPE, payment-type:CREDITCARD
     revenues:donations:user-5ce0359e       -5.00 USD
     assets:opencollective:homebrew          4.50 USD = 49454.82 USD
-    expenses:fees:unknown-processor         0.50 USD
+    expenses:fees:STRIPE                    0.50 USD
 
 2022-08-27 Host Fee to Open Source Collective  ; id:1e488727, group:72eac9e4
     expenses:fees:opensource              0.50 USD
@@ -1618,10 +1618,10 @@
     expenses:fees:opensource              0.20 USD
     assets:opencollective:homebrew       -0.20 USD = 53575.67 USD
 
-2022-09-02 Monthly contribution from Infinum  ; id:3ea03662, group:28d1df68, payment-method:, payment-type:
-    revenues:donations:infinum           -20.00 USD
-    assets:opencollective:homebrew        18.92 USD = 53594.59 USD
-    expenses:fees:unknown-processor        1.08 USD
+2022-09-02 Monthly contribution from Infinum  ; id:3ea03662, group:28d1df68, payment-method:STRIPE, payment-type:CREDITCARD
+    revenues:donations:infinum          -20.00 USD
+    assets:opencollective:homebrew       18.92 USD = 53594.59 USD
+    expenses:fees:STRIPE                  1.08 USD
 
 2022-09-02 Host Fee to Open Source Collective  ; id:cf41e750, group:28d1df68
     expenses:fees:opensource              2.00 USD
@@ -1632,10 +1632,10 @@
     assets:opencollective:homebrew      250.00 USD = 53842.59 USD
     expenses:fees:OPENCOLLECTIVE          0.00 USD
 
-2022-09-02 Monthly contribution from Clémence  ; id:73286ad7, group:42afb55c, payment-method:, payment-type:
-    revenues:donations:clemlesne          -1.00 USD
-    assets:opencollective:homebrew         0.66 USD = 53843.25 USD
-    expenses:fees:unknown-processor        0.34 USD
+2022-09-02 Monthly contribution from Clémence  ; id:73286ad7, group:42afb55c, payment-method:STRIPE, payment-type:CREDITCARD
+    revenues:donations:clemlesne         -1.00 USD
+    assets:opencollective:homebrew        0.66 USD = 53843.25 USD
+    expenses:fees:STRIPE                  0.34 USD
 
 2022-09-02 Host Fee to Open Source Collective  ; id:b04bc843, group:42afb55c
     expenses:fees:opensource              0.10 USD
@@ -1847,10 +1847,10 @@
     expenses:fees:opensource              2.00 USD
     assets:opencollective:homebrew       -2.00 USD = 61647.69 USD
 
-2022-10-01 Monthly contribution from Infinum  ; id:e1c9fd00, group:ffd3040a, payment-method:, payment-type:
-    revenues:donations:infinum           -20.00 USD
-    assets:opencollective:homebrew        18.92 USD = 61666.61 USD
-    expenses:fees:unknown-processor        1.08 USD
+2022-10-01 Monthly contribution from Infinum  ; id:e1c9fd00, group:ffd3040a, payment-method:STRIPE, payment-type:CREDITCARD
+    revenues:donations:infinum          -20.00 USD
+    assets:opencollective:homebrew       18.92 USD = 61666.61 USD
+    expenses:fees:STRIPE                  1.08 USD
 
 2022-10-01 Host Fee to Open Source Collective  ; id:658ad38b, group:ffd3040a
     expenses:fees:opensource              2.00 USD
@@ -1861,10 +1861,10 @@
     assets:opencollective:homebrew      250.00 USD = 61914.61 USD
     expenses:fees:OPENCOLLECTIVE          0.00 USD
 
-2022-10-01 Monthly contribution from Clémence  ; id:03ce0f81, group:6342ce46, payment-method:, payment-type:
-    revenues:donations:clemlesne          -1.00 USD
-    assets:opencollective:homebrew         0.66 USD = 61915.27 USD
-    expenses:fees:unknown-processor        0.34 USD
+2022-10-01 Monthly contribution from Clémence  ; id:03ce0f81, group:6342ce46, payment-method:STRIPE, payment-type:CREDITCARD
+    revenues:donations:clemlesne         -1.00 USD
+    assets:opencollective:homebrew        0.66 USD = 61915.27 USD
+    expenses:fees:STRIPE                  0.34 USD
 
 2022-10-01 Host Fee to Open Source Collective  ; id:979dc33f, group:6342ce46
     expenses:fees:opensource              0.10 USD
@@ -1915,19 +1915,19 @@
     expenses:fees:opensource              0.50 USD
     assets:opencollective:homebrew       -0.50 USD = 61931.94 USD
 
-2022-10-02 Monthly contribution from MacPaw (sponsor)  ; id:632330f5, group:c599e41e, payment-method:, payment-type:
-    revenues:donations:macpaw           -100.00 USD
-    assets:opencollective:homebrew        95.80 USD = 62027.74 USD
-    expenses:fees:unknown-processor        4.20 USD
+2022-10-02 Monthly contribution from MacPaw (sponsor)  ; id:632330f5, group:c599e41e, payment-method:STRIPE, payment-type:CREDITCARD
+    revenues:donations:macpaw          -100.00 USD
+    assets:opencollective:homebrew       95.80 USD = 62027.74 USD
+    expenses:fees:STRIPE                  4.20 USD
 
 2022-10-02 Host Fee to Open Source Collective  ; id:8f23d2fb, group:c599e41e
     expenses:fees:opensource             10.00 USD
     assets:opencollective:homebrew      -10.00 USD = 62017.74 USD
 
-2022-10-02 Monthly contribution from Incognito (backer)  ; id:d51441cd, group:d7c9685c, payment-method:, payment-type:
+2022-10-02 Monthly contribution from Incognito (backer)  ; id:d51441cd, group:d7c9685c, payment-method:STRIPE, payment-type:CREDITCARD
     revenues:donations:user-5ce0359e       -5.00 USD
     assets:opencollective:homebrew          4.50 USD = 62022.24 USD
-    expenses:fees:unknown-processor         0.50 USD
+    expenses:fees:STRIPE                    0.50 USD
 
 2022-10-02 Host Fee to Open Source Collective  ; id:8b11386b, group:d7c9685c
     expenses:fees:opensource              0.50 USD
@@ -2000,10 +2000,10 @@
     expenses:fees:opensource              0.50 USD
     assets:opencollective:homebrew       -0.50 USD = 63894.32 USD
 
-2022-10-26 Contribution from AppBrew, Inc.  ; id:b3c178a2, group:3b3e51a6, payment-method:, payment-type:
-    revenues:donations:appbrew          -100.00 USD
-    assets:opencollective:homebrew        95.80 USD = 63990.12 USD
-    expenses:fees:unknown-processor        4.20 USD
+2022-10-26 Contribution from AppBrew, Inc.  ; id:b3c178a2, group:3b3e51a6, payment-method:STRIPE, payment-type:CREDITCARD
+    revenues:donations:appbrew         -100.00 USD
+    assets:opencollective:homebrew       95.80 USD = 63990.12 USD
+    expenses:fees:STRIPE                  4.20 USD
 
 2022-10-26 Host Fee to Open Source Collective  ; id:d312c707, group:3b3e51a6
     expenses:fees:opensource             10.00 USD
@@ -2035,10 +2035,10 @@
     expenses:fees:opensource            547.92 USD
     assets:opencollective:homebrew     -547.92 USD = 68923.36 USD
 
-2022-11-01 Monthly contribution from Infinum  ; id:91635462, group:dc976f7e, payment-method:, payment-type:
-    revenues:donations:infinum           -20.00 USD
-    assets:opencollective:homebrew        18.92 USD = 68942.28 USD
-    expenses:fees:unknown-processor        1.08 USD
+2022-11-01 Monthly contribution from Infinum  ; id:91635462, group:dc976f7e, payment-method:STRIPE, payment-type:CREDITCARD
+    revenues:donations:infinum          -20.00 USD
+    assets:opencollective:homebrew       18.92 USD = 68942.28 USD
+    expenses:fees:STRIPE                  1.08 USD
 
 2022-11-01 Host Fee to Open Source Collective  ; id:1738ed2d, group:dc976f7e
     expenses:fees:opensource              2.00 USD
@@ -2049,10 +2049,10 @@
     assets:opencollective:homebrew      250.00 USD = 69190.28 USD
     expenses:fees:OPENCOLLECTIVE          0.00 USD
 
-2022-11-01 Monthly contribution from Clémence  ; id:9bbc350d, group:579d389b, payment-method:, payment-type:
-    revenues:donations:clemlesne          -1.00 USD
-    assets:opencollective:homebrew         0.66 USD = 69190.94 USD
-    expenses:fees:unknown-processor        0.34 USD
+2022-11-01 Monthly contribution from Clémence  ; id:9bbc350d, group:579d389b, payment-method:STRIPE, payment-type:CREDITCARD
+    revenues:donations:clemlesne         -1.00 USD
+    assets:opencollective:homebrew        0.66 USD = 69190.94 USD
+    expenses:fees:STRIPE                  0.34 USD
 
 2022-11-01 Host Fee to Open Source Collective  ; id:fcbd0ab0, group:579d389b
     expenses:fees:opensource              0.10 USD
@@ -2112,19 +2112,19 @@
     expenses:fees:opensource              0.50 USD
     assets:opencollective:homebrew       -0.50 USD = 69211.66 USD
 
-2022-11-02 Monthly contribution from MacPaw (sponsor)  ; id:9803dfe6, group:047415e8, payment-method:, payment-type:
-    revenues:donations:macpaw           -100.00 USD
-    assets:opencollective:homebrew        95.80 USD = 69307.46 USD
-    expenses:fees:unknown-processor        4.20 USD
+2022-11-02 Monthly contribution from MacPaw (sponsor)  ; id:9803dfe6, group:047415e8, payment-method:STRIPE, payment-type:CREDITCARD
+    revenues:donations:macpaw          -100.00 USD
+    assets:opencollective:homebrew       95.80 USD = 69307.46 USD
+    expenses:fees:STRIPE                  4.20 USD
 
 2022-11-02 Host Fee to Open Source Collective  ; id:d86604d6, group:047415e8
     expenses:fees:opensource             10.00 USD
     assets:opencollective:homebrew      -10.00 USD = 69297.46 USD
 
-2022-11-02 Monthly contribution from Incognito (backer)  ; id:1a737dfb, group:c0bdac2f, payment-method:, payment-type:
+2022-11-02 Monthly contribution from Incognito (backer)  ; id:1a737dfb, group:c0bdac2f, payment-method:STRIPE, payment-type:CREDITCARD
     revenues:donations:user-5ce0359e       -5.00 USD
     assets:opencollective:homebrew          4.50 USD = 69301.96 USD
-    expenses:fees:unknown-processor         0.50 USD
+    expenses:fees:STRIPE                    0.50 USD
 
 2022-11-02 Host Fee to Open Source Collective  ; id:f7762dc3, group:c0bdac2f
     expenses:fees:opensource              0.50 USD
@@ -2260,10 +2260,10 @@
     expenses:fees:opensource            525.36 USD
     assets:opencollective:homebrew     -525.36 USD = 76020.04 USD
 
-2022-11-23 Monthly contribution from Incognito (backer)  ; id:409d01cc, group:3b9676bf, payment-method:, payment-type:
+2022-11-23 Monthly contribution from Incognito (backer)  ; id:409d01cc, group:3b9676bf, payment-method:STRIPE, payment-type:CREDITCARD
     revenues:donations:user-359ded12       -5.00 USD
     assets:opencollective:homebrew          4.50 USD = 76024.54 USD
-    expenses:fees:unknown-processor         0.50 USD
+    expenses:fees:STRIPE                    0.50 USD
 
 2022-11-23 Host Fee to Open Source Collective  ; id:03ae50b8, group:3b9676bf
     expenses:fees:opensource              0.50 USD
@@ -2323,10 +2323,10 @@
     expenses:fees:opensource              0.50 USD
     assets:opencollective:homebrew       -0.50 USD = 76491.08 USD
 
-2022-12-01 Monthly contribution from Clémence  ; id:15e5a946, group:c76dc81b, payment-method:, payment-type:
-    revenues:donations:clemlesne          -1.00 USD
-    assets:opencollective:homebrew         0.66 USD = 76491.74 USD
-    expenses:fees:unknown-processor        0.34 USD
+2022-12-01 Monthly contribution from Clémence  ; id:15e5a946, group:c76dc81b, payment-method:STRIPE, payment-type:CREDITCARD
+    revenues:donations:clemlesne         -1.00 USD
+    assets:opencollective:homebrew        0.66 USD = 76491.74 USD
+    expenses:fees:STRIPE                  0.34 USD
 
 2022-12-01 Host Fee to Open Source Collective  ; id:a18fb3d9, group:c76dc81b
     expenses:fees:opensource              0.10 USD
@@ -2341,10 +2341,10 @@
     expenses:fees:opensource              0.10 USD
     assets:opencollective:homebrew       -0.10 USD = 76492.21 USD
 
-2022-12-01 Monthly contribution from Infinum  ; id:38a18a63, group:9c80ae29, payment-method:, payment-type:
-    revenues:donations:infinum           -20.00 USD
-    assets:opencollective:homebrew        18.92 USD = 76511.13 USD
-    expenses:fees:unknown-processor        1.08 USD
+2022-12-01 Monthly contribution from Infinum  ; id:38a18a63, group:9c80ae29, payment-method:STRIPE, payment-type:CREDITCARD
+    revenues:donations:infinum          -20.00 USD
+    assets:opencollective:homebrew       18.92 USD = 76511.13 USD
+    expenses:fees:STRIPE                  1.08 USD
 
 2022-12-01 Host Fee to Open Source Collective  ; id:6daad8d7, group:9c80ae29
     expenses:fees:opensource              2.00 USD
@@ -2373,19 +2373,19 @@
     expenses:fees:opensource              0.50 USD
     assets:opencollective:homebrew       -0.50 USD = 76767.23 USD
 
-2022-12-02 Monthly contribution from MacPaw (sponsor)  ; id:59aab4d8, group:871aeb65, payment-method:, payment-type:
-    revenues:donations:macpaw           -100.00 USD
-    assets:opencollective:homebrew        95.80 USD = 76863.03 USD
-    expenses:fees:unknown-processor        4.20 USD
+2022-12-02 Monthly contribution from MacPaw (sponsor)  ; id:59aab4d8, group:871aeb65, payment-method:STRIPE, payment-type:CREDITCARD
+    revenues:donations:macpaw          -100.00 USD
+    assets:opencollective:homebrew       95.80 USD = 76863.03 USD
+    expenses:fees:STRIPE                  4.20 USD
 
 2022-12-02 Host Fee to Open Source Collective  ; id:2d850be6, group:871aeb65
     expenses:fees:opensource             10.00 USD
     assets:opencollective:homebrew      -10.00 USD = 76853.03 USD
 
-2022-12-02 Monthly contribution from Incognito (backer)  ; id:8df4ab53, group:893d5712, payment-method:, payment-type:
+2022-12-02 Monthly contribution from Incognito (backer)  ; id:8df4ab53, group:893d5712, payment-method:STRIPE, payment-type:CREDITCARD
     revenues:donations:user-5ce0359e       -5.00 USD
     assets:opencollective:homebrew          4.50 USD = 76857.53 USD
-    expenses:fees:unknown-processor         0.50 USD
+    expenses:fees:STRIPE                    0.50 USD
 
 2022-12-02 Host Fee to Open Source Collective  ; id:6cbe29b7, group:893d5712
     expenses:fees:opensource              0.50 USD
@@ -2867,10 +2867,10 @@
     expenses:fees:opensource              0.50 USD
     assets:opencollective:homebrew       -0.50 USD = 83881.45 USD
 
-2023-01-01 Monthly contribution from Clémence  ; id:4d119d67, group:730c2bfa, payment-method:, payment-type:
-    revenues:donations:clemlesne          -1.00 USD
-    assets:opencollective:homebrew         0.66 USD = 83882.11 USD
-    expenses:fees:unknown-processor        0.34 USD
+2023-01-01 Monthly contribution from Clémence  ; id:4d119d67, group:730c2bfa, payment-method:STRIPE, payment-type:CREDITCARD
+    revenues:donations:clemlesne         -1.00 USD
+    assets:opencollective:homebrew        0.66 USD = 83882.11 USD
+    expenses:fees:STRIPE                  0.34 USD
 
 2023-01-01 Host Fee to Open Source Collective  ; id:65f28b01, group:730c2bfa
     expenses:fees:opensource              0.10 USD
@@ -2885,10 +2885,10 @@
     expenses:fees:opensource              0.10 USD
     assets:opencollective:homebrew       -0.10 USD = 83882.58 USD
 
-2023-01-01 Monthly contribution from Infinum  ; id:082bf589, group:66001b10, payment-method:, payment-type:
-    revenues:donations:infinum           -20.00 USD
-    assets:opencollective:homebrew        18.92 USD = 83901.50 USD
-    expenses:fees:unknown-processor        1.08 USD
+2023-01-01 Monthly contribution from Infinum  ; id:082bf589, group:66001b10, payment-method:STRIPE, payment-type:CREDITCARD
+    revenues:donations:infinum          -20.00 USD
+    assets:opencollective:homebrew       18.92 USD = 83901.50 USD
+    expenses:fees:STRIPE                  1.08 USD
 
 2023-01-01 Host Fee to Open Source Collective  ; id:2899d6f2, group:66001b10
     expenses:fees:opensource              2.00 USD
@@ -2917,19 +2917,19 @@
     expenses:fees:opensource              0.50 USD
     assets:opencollective:homebrew       -0.50 USD = 84157.60 USD
 
-2023-01-02 Monthly contribution from MacPaw (sponsor)  ; id:a8f8eb49, group:7b9334a1, payment-method:, payment-type:
-    revenues:donations:macpaw           -100.00 USD
-    assets:opencollective:homebrew        95.80 USD = 84253.40 USD
-    expenses:fees:unknown-processor        4.20 USD
+2023-01-02 Monthly contribution from MacPaw (sponsor)  ; id:a8f8eb49, group:7b9334a1, payment-method:STRIPE, payment-type:CREDITCARD
+    revenues:donations:macpaw          -100.00 USD
+    assets:opencollective:homebrew       95.80 USD = 84253.40 USD
+    expenses:fees:STRIPE                  4.20 USD
 
 2023-01-02 Host Fee to Open Source Collective  ; id:488b6269, group:7b9334a1
     expenses:fees:opensource             10.00 USD
     assets:opencollective:homebrew      -10.00 USD = 84243.40 USD
 
-2023-01-02 Monthly contribution from Incognito (backer)  ; id:be006b77, group:3378fd36, payment-method:, payment-type:
+2023-01-02 Monthly contribution from Incognito (backer)  ; id:be006b77, group:3378fd36, payment-method:STRIPE, payment-type:CREDITCARD
     revenues:donations:user-5ce0359e       -5.00 USD
     assets:opencollective:homebrew          4.50 USD = 84247.90 USD
-    expenses:fees:unknown-processor         0.50 USD
+    expenses:fees:STRIPE                    0.50 USD
 
 2023-01-02 Host Fee to Open Source Collective  ; id:9494b77f, group:3378fd36
     expenses:fees:opensource              0.50 USD
@@ -2953,10 +2953,10 @@
     expenses:fees:opensource              0.25 USD
     assets:opencollective:homebrew       -0.25 USD = 84253.30 USD
 
-2023-01-02 Monthly contribution from Incognito (backer)  ; id:3f0ef062, group:d6503dec, payment-method:, payment-type:
+2023-01-02 Monthly contribution from Incognito (backer)  ; id:3f0ef062, group:d6503dec, payment-method:STRIPE, payment-type:CREDITCARD
     revenues:donations:user-359ded12       -5.00 USD
     assets:opencollective:homebrew          4.50 USD = 84257.80 USD
-    expenses:fees:unknown-processor         0.50 USD
+    expenses:fees:STRIPE                    0.50 USD
 
 2023-01-02 Host Fee to Open Source Collective  ; id:26ab6f8a, group:d6503dec
     expenses:fees:opensource              0.50 USD
@@ -3015,10 +3015,10 @@
     assets:opencollective:brew     -125.81 USD = 215928.88 USD
     expenses:fees:                    0.00 USD
 
-2023-01-07 Monthly contribution from Stéphane (backer)  ; id:7b08b0d1, group:e9f6b4be, payment-method:, payment-type:
-    revenues:donations:steph974           -5.00 USD
-    assets:opencollective:homebrew         4.50 USD = 84025.38 USD
-    expenses:fees:unknown-processor        0.50 USD
+2023-01-07 Monthly contribution from Stéphane (backer)  ; id:7b08b0d1, group:e9f6b4be, payment-method:STRIPE, payment-type:CREDITCARD
+    revenues:donations:steph974          -5.00 USD
+    assets:opencollective:homebrew        4.50 USD = 84025.38 USD
+    expenses:fees:STRIPE                  0.50 USD
 
 2023-01-07 Host Fee to Open Source Collective  ; id:c2d329ee, group:e9f6b4be
     expenses:fees:opensource              0.50 USD
@@ -3193,10 +3193,10 @@
     expenses:fees:opensource              0.50 USD
     assets:opencollective:homebrew       -0.50 USD = 91897.52 USD
 
-2023-02-01 Monthly contribution from Clémence  ; id:8a2e770c, group:928dc1f8, payment-method:, payment-type:
-    revenues:donations:clemlesne          -1.00 USD
-    assets:opencollective:homebrew         0.66 USD = 91898.18 USD
-    expenses:fees:unknown-processor        0.34 USD
+2023-02-01 Monthly contribution from Clémence  ; id:8a2e770c, group:928dc1f8, payment-method:STRIPE, payment-type:CREDITCARD
+    revenues:donations:clemlesne         -1.00 USD
+    assets:opencollective:homebrew        0.66 USD = 91898.18 USD
+    expenses:fees:STRIPE                  0.34 USD
 
 2023-02-01 Host Fee to Open Source Collective  ; id:a641a991, group:928dc1f8
     expenses:fees:opensource              0.10 USD
@@ -3211,10 +3211,10 @@
     expenses:fees:opensource              0.10 USD
     assets:opencollective:homebrew       -0.10 USD = 91898.65 USD
 
-2023-02-01 Monthly contribution from Infinum  ; id:ad1d23c3, group:44692dab, payment-method:, payment-type:
-    revenues:donations:infinum           -20.00 USD
-    assets:opencollective:homebrew        18.92 USD = 91917.57 USD
-    expenses:fees:unknown-processor        1.08 USD
+2023-02-01 Monthly contribution from Infinum  ; id:ad1d23c3, group:44692dab, payment-method:STRIPE, payment-type:CREDITCARD
+    revenues:donations:infinum          -20.00 USD
+    assets:opencollective:homebrew       18.92 USD = 91917.57 USD
+    expenses:fees:STRIPE                  1.08 USD
 
 2023-02-01 Host Fee to Open Source Collective  ; id:789cb0e7, group:44692dab
     expenses:fees:opensource              2.00 USD
@@ -3243,19 +3243,19 @@
     expenses:fees:opensource              0.50 USD
     assets:opencollective:homebrew       -0.50 USD = 92173.67 USD
 
-2023-02-02 Monthly contribution from MacPaw (sponsor)  ; id:efb74a40, group:9a598b78, payment-method:, payment-type:
-    revenues:donations:macpaw           -100.00 USD
-    assets:opencollective:homebrew        95.80 USD = 92269.47 USD
-    expenses:fees:unknown-processor        4.20 USD
+2023-02-02 Monthly contribution from MacPaw (sponsor)  ; id:efb74a40, group:9a598b78, payment-method:STRIPE, payment-type:CREDITCARD
+    revenues:donations:macpaw          -100.00 USD
+    assets:opencollective:homebrew       95.80 USD = 92269.47 USD
+    expenses:fees:STRIPE                  4.20 USD
 
 2023-02-02 Host Fee to Open Source Collective  ; id:516f7c45, group:9a598b78
     expenses:fees:opensource             10.00 USD
     assets:opencollective:homebrew      -10.00 USD = 92259.47 USD
 
-2023-02-02 Monthly contribution from Incognito (backer)  ; id:9ff357d9, group:928135d5, payment-method:, payment-type:
+2023-02-02 Monthly contribution from Incognito (backer)  ; id:9ff357d9, group:928135d5, payment-method:STRIPE, payment-type:CREDITCARD
     revenues:donations:user-5ce0359e       -5.00 USD
     assets:opencollective:homebrew          4.50 USD = 92263.97 USD
-    expenses:fees:unknown-processor         0.50 USD
+    expenses:fees:STRIPE                    0.50 USD
 
 2023-02-02 Host Fee to Open Source Collective  ; id:5f6a290b, group:928135d5
     expenses:fees:opensource              0.50 USD
@@ -3279,10 +3279,10 @@
     expenses:fees:opensource              0.25 USD
     assets:opencollective:homebrew       -0.25 USD = 92269.37 USD
 
-2023-02-02 Monthly contribution from Incognito (backer)  ; id:08ab3756, group:e6f81e2b, payment-method:, payment-type:
+2023-02-02 Monthly contribution from Incognito (backer)  ; id:08ab3756, group:e6f81e2b, payment-method:STRIPE, payment-type:CREDITCARD
     revenues:donations:user-359ded12       -5.00 USD
     assets:opencollective:homebrew          4.50 USD = 92273.87 USD
-    expenses:fees:unknown-processor         0.50 USD
+    expenses:fees:STRIPE                    0.50 USD
 
 2023-02-02 Host Fee to Open Source Collective  ; id:0e321694, group:e6f81e2b
     expenses:fees:opensource              0.50 USD
@@ -3302,10 +3302,10 @@
     assets:opencollective:homebrew     -246.51 USD = 92030.86 USD
     expenses:fees:                        0.00 USD
 
-2023-02-02 Monthly contribution from Stéphane (backer)  ; id:caad2165, group:1ebf8770, payment-method:, payment-type:
-    revenues:donations:steph974           -5.00 USD
-    assets:opencollective:homebrew         4.50 USD = 92035.36 USD
-    expenses:fees:unknown-processor        0.50 USD
+2023-02-02 Monthly contribution from Stéphane (backer)  ; id:caad2165, group:1ebf8770, payment-method:STRIPE, payment-type:CREDITCARD
+    revenues:donations:steph974          -5.00 USD
+    assets:opencollective:homebrew        4.50 USD = 92035.36 USD
+    expenses:fees:STRIPE                  0.50 USD
 
 2023-02-02 Host Fee to Open Source Collective  ; id:f654473b, group:1ebf8770
     expenses:fees:opensource              0.50 USD
@@ -3630,10 +3630,10 @@
     expenses:fees:opensource              0.50 USD
     assets:opencollective:homebrew       -0.50 USD = 94012.38 USD
 
-2023-03-01 Monthly contribution from Clémence  ; id:7ff4a80e, group:fec26e3b, payment-method:, payment-type:
-    revenues:donations:clemlesne          -1.00 USD
-    assets:opencollective:homebrew         0.66 USD = 94013.04 USD
-    expenses:fees:unknown-processor        0.34 USD
+2023-03-01 Monthly contribution from Clémence  ; id:7ff4a80e, group:fec26e3b, payment-method:STRIPE, payment-type:CREDITCARD
+    revenues:donations:clemlesne         -1.00 USD
+    assets:opencollective:homebrew        0.66 USD = 94013.04 USD
+    expenses:fees:STRIPE                  0.34 USD
 
 2023-03-01 Host Fee to Open Source Collective  ; id:36afa352, group:fec26e3b
     expenses:fees:opensource              0.10 USD
@@ -3671,19 +3671,19 @@
     expenses:fees:opensource              0.50 USD
     assets:opencollective:homebrew       -0.50 USD = 94271.61 USD
 
-2023-03-02 Monthly contribution from MacPaw (sponsor)  ; id:ef2a561e, group:1d2342e2, payment-method:, payment-type:
-    revenues:donations:macpaw           -100.00 USD
-    assets:opencollective:homebrew        95.80 USD = 94367.41 USD
-    expenses:fees:unknown-processor        4.20 USD
+2023-03-02 Monthly contribution from MacPaw (sponsor)  ; id:ef2a561e, group:1d2342e2, payment-method:STRIPE, payment-type:CREDITCARD
+    revenues:donations:macpaw          -100.00 USD
+    assets:opencollective:homebrew       95.80 USD = 94367.41 USD
+    expenses:fees:STRIPE                  4.20 USD
 
 2023-03-02 Host Fee to Open Source Collective  ; id:3bfbf037, group:1d2342e2
     expenses:fees:opensource             10.00 USD
     assets:opencollective:homebrew      -10.00 USD = 94357.41 USD
 
-2023-03-02 Monthly contribution from Incognito (backer)  ; id:7c1547ee, group:886df872, payment-method:, payment-type:
+2023-03-02 Monthly contribution from Incognito (backer)  ; id:7c1547ee, group:886df872, payment-method:STRIPE, payment-type:CREDITCARD
     revenues:donations:user-5ce0359e       -5.00 USD
     assets:opencollective:homebrew          4.50 USD = 94361.91 USD
-    expenses:fees:unknown-processor         0.50 USD
+    expenses:fees:STRIPE                    0.50 USD
 
 2023-03-02 Host Fee to Open Source Collective  ; id:c72a5d1c, group:886df872
     expenses:fees:opensource              0.50 USD
@@ -3707,10 +3707,10 @@
     expenses:fees:opensource              0.25 USD
     assets:opencollective:homebrew       -0.25 USD = 94367.31 USD
 
-2023-03-02 Monthly contribution from Incognito (backer)  ; id:54389284, group:d4544de4, payment-method:, payment-type:
+2023-03-02 Monthly contribution from Incognito (backer)  ; id:54389284, group:d4544de4, payment-method:STRIPE, payment-type:CREDITCARD
     revenues:donations:user-359ded12       -5.00 USD
     assets:opencollective:homebrew          4.50 USD = 94371.81 USD
-    expenses:fees:unknown-processor         0.50 USD
+    expenses:fees:STRIPE                    0.50 USD
 
 2023-03-02 Host Fee to Open Source Collective  ; id:897b5c72, group:d4544de4
     expenses:fees:opensource              0.50 USD
@@ -3725,10 +3725,10 @@
     expenses:fees:opensource              0.50 USD
     assets:opencollective:homebrew       -0.50 USD = 94375.31 USD
 
-2023-03-02 Monthly contribution from Stéphane (backer)  ; id:f6ec8fe5, group:c94bd82d, payment-method:, payment-type:
-    revenues:donations:steph974           -5.00 USD
-    assets:opencollective:homebrew         4.50 USD = 94379.81 USD
-    expenses:fees:unknown-processor        0.50 USD
+2023-03-02 Monthly contribution from Stéphane (backer)  ; id:f6ec8fe5, group:c94bd82d, payment-method:STRIPE, payment-type:CREDITCARD
+    revenues:donations:steph974          -5.00 USD
+    assets:opencollective:homebrew        4.50 USD = 94379.81 USD
+    expenses:fees:STRIPE                  0.50 USD
 
 2023-03-02 Host Fee to Open Source Collective  ; id:5a4825a4, group:c94bd82d
     expenses:fees:opensource              0.50 USD
@@ -4009,10 +4009,10 @@
     expenses:fees:opensource              0.50 USD
     assets:opencollective:homebrew       -0.50 USD = 104035.53 USD
 
-2023-04-01 Monthly contribution from Clémence  ; id:07da6c55, group:8f895d81, payment-method:, payment-type:
-    revenues:donations:clemlesne          -1.00 USD
-    assets:opencollective:homebrew         0.66 USD = 104036.19 USD
-    expenses:fees:unknown-processor        0.34 USD
+2023-04-01 Monthly contribution from Clémence  ; id:07da6c55, group:8f895d81, payment-method:STRIPE, payment-type:CREDITCARD
+    revenues:donations:clemlesne         -1.00 USD
+    assets:opencollective:homebrew        0.66 USD = 104036.19 USD
+    expenses:fees:STRIPE                  0.34 USD
 
 2023-04-01 Host Fee to Open Source Collective  ; id:a3f8942d, group:8f895d81
     expenses:fees:opensource              0.10 USD
@@ -4050,10 +4050,10 @@
     expenses:fees:opensource              0.50 USD
     assets:opencollective:homebrew       -0.50 USD = 104307.63 USD
 
-2023-04-01 Monthly contribution from MacPaw (sponsor)  ; id:12d3f5dd, group:e2634e43, payment-method:, payment-type:
-    revenues:donations:macpaw           -100.00 USD
-    assets:opencollective:homebrew        95.80 USD = 104403.43 USD
-    expenses:fees:unknown-processor        4.20 USD
+2023-04-01 Monthly contribution from MacPaw (sponsor)  ; id:12d3f5dd, group:e2634e43, payment-method:STRIPE, payment-type:CREDITCARD
+    revenues:donations:macpaw          -100.00 USD
+    assets:opencollective:homebrew       95.80 USD = 104403.43 USD
+    expenses:fees:STRIPE                  4.20 USD
 
 2023-04-01 Host Fee to Open Source Collective  ; id:93867548, group:e2634e43
     expenses:fees:opensource             10.00 USD
@@ -4068,10 +4068,10 @@
     expenses:fees:opensource              0.50 USD
     assets:opencollective:homebrew       -0.50 USD = 104397.48 USD
 
-2023-04-02 Monthly contribution from Incognito (backer)  ; id:6b07a112, group:8d59ddc9, payment-method:, payment-type:
+2023-04-02 Monthly contribution from Incognito (backer)  ; id:6b07a112, group:8d59ddc9, payment-method:STRIPE, payment-type:CREDITCARD
     revenues:donations:user-359ded12       -5.00 USD
     assets:opencollective:homebrew          4.50 USD = 104401.98 USD
-    expenses:fees:unknown-processor         0.50 USD
+    expenses:fees:STRIPE                    0.50 USD
 
 2023-04-02 Host Fee to Open Source Collective  ; id:24fc9f75, group:8d59ddc9
     expenses:fees:opensource              0.50 USD
@@ -4104,19 +4104,19 @@
     expenses:fees:opensource              0.25 USD
     assets:opencollective:homebrew       -0.25 USD = 104411.38 USD
 
-2023-04-02 Monthly contribution from Incognito (backer)  ; id:6658a938, group:57303bee, payment-method:, payment-type:
+2023-04-02 Monthly contribution from Incognito (backer)  ; id:6658a938, group:57303bee, payment-method:STRIPE, payment-type:CREDITCARD
     revenues:donations:user-5ce0359e       -5.00 USD
     assets:opencollective:homebrew          4.50 USD = 104415.88 USD
-    expenses:fees:unknown-processor         0.50 USD
+    expenses:fees:STRIPE                    0.50 USD
 
 2023-04-02 Host Fee to Open Source Collective  ; id:d44413da, group:57303bee
     expenses:fees:opensource              0.50 USD
     assets:opencollective:homebrew       -0.50 USD = 104415.38 USD
 
-2023-04-02 Monthly contribution from Stéphane (backer)  ; id:ada8a17d, group:52afd098, payment-method:, payment-type:
-    revenues:donations:steph974           -5.00 USD
-    assets:opencollective:homebrew         4.50 USD = 104419.88 USD
-    expenses:fees:unknown-processor        0.50 USD
+2023-04-02 Monthly contribution from Stéphane (backer)  ; id:ada8a17d, group:52afd098, payment-method:STRIPE, payment-type:CREDITCARD
+    revenues:donations:steph974          -5.00 USD
+    assets:opencollective:homebrew        4.50 USD = 104419.88 USD
+    expenses:fees:STRIPE                  0.50 USD
 
 2023-04-02 Host Fee to Open Source Collective  ; id:d5ea1fc3, group:52afd098
     expenses:fees:opensource              0.50 USD
@@ -4386,10 +4386,10 @@
     expenses:fees:opensource              0.50 USD
     assets:opencollective:homebrew       -0.50 USD = 116561.82 USD
 
-2023-05-01 Monthly contribution from Clémence  ; id:a2a46ec9, group:16dfb943, payment-method:, payment-type:
-    revenues:donations:clemlesne          -1.00 USD
-    assets:opencollective:homebrew         0.66 USD = 116562.48 USD
-    expenses:fees:unknown-processor        0.34 USD
+2023-05-01 Monthly contribution from Clémence  ; id:a2a46ec9, group:16dfb943, payment-method:STRIPE, payment-type:CREDITCARD
+    revenues:donations:clemlesne         -1.00 USD
+    assets:opencollective:homebrew        0.66 USD = 116562.48 USD
+    expenses:fees:STRIPE                  0.34 USD
 
 2023-05-01 Host Fee to Open Source Collective  ; id:08bfb8e7, group:16dfb943
     expenses:fees:opensource              0.10 USD
@@ -4427,10 +4427,10 @@
     assets:opencollective:homebrew      250.00 USD = 116833.92 USD
     expenses:fees:OPENCOLLECTIVE          0.00 USD
 
-2023-05-01 Monthly contribution from MacPaw (sponsor)  ; id:239f90bb, group:aa1987df, payment-method:, payment-type:
-    revenues:donations:macpaw           -100.00 USD
-    assets:opencollective:homebrew        95.80 USD = 116929.72 USD
-    expenses:fees:unknown-processor        4.20 USD
+2023-05-01 Monthly contribution from MacPaw (sponsor)  ; id:239f90bb, group:aa1987df, payment-method:STRIPE, payment-type:CREDITCARD
+    revenues:donations:macpaw          -100.00 USD
+    assets:opencollective:homebrew       95.80 USD = 116929.72 USD
+    expenses:fees:STRIPE                  4.20 USD
 
 2023-05-01 Host Fee to Open Source Collective  ; id:1ca124c5, group:aa1987df
     expenses:fees:opensource             10.00 USD
@@ -4454,19 +4454,19 @@
     expenses:fees:opensource              0.25 USD
     assets:opencollective:homebrew       -0.25 USD = 116925.62 USD
 
-2023-05-02 Monthly contribution from Incognito (backer)  ; id:7dfd1254, group:640ef62c, payment-method:, payment-type:
+2023-05-02 Monthly contribution from Incognito (backer)  ; id:7dfd1254, group:640ef62c, payment-method:STRIPE, payment-type:CREDITCARD
     revenues:donations:user-359ded12       -5.00 USD
     assets:opencollective:homebrew          4.50 USD = 116930.12 USD
-    expenses:fees:unknown-processor         0.50 USD
+    expenses:fees:STRIPE                    0.50 USD
 
 2023-05-02 Host Fee to Open Source Collective  ; id:2f0aeaba, group:640ef62c
     expenses:fees:opensource              0.50 USD
     assets:opencollective:homebrew       -0.50 USD = 116929.62 USD
 
-2023-05-02 Monthly contribution from Stéphane (backer)  ; id:ef579635, group:cc97ff50, payment-method:, payment-type:
-    revenues:donations:steph974           -5.00 USD
-    assets:opencollective:homebrew         4.50 USD = 116934.12 USD
-    expenses:fees:unknown-processor        0.50 USD
+2023-05-02 Monthly contribution from Stéphane (backer)  ; id:ef579635, group:cc97ff50, payment-method:STRIPE, payment-type:CREDITCARD
+    revenues:donations:steph974          -5.00 USD
+    assets:opencollective:homebrew        4.50 USD = 116934.12 USD
+    expenses:fees:STRIPE                  0.50 USD
 
 2023-05-02 Host Fee to Open Source Collective  ; id:661a3f95, group:cc97ff50
     expenses:fees:opensource              0.50 USD
@@ -4499,10 +4499,10 @@
     expenses:fees:opensource              0.50 USD
     assets:opencollective:homebrew       -0.50 USD = 116945.67 USD
 
-2023-05-02 Monthly contribution from Incognito (backer)  ; id:a77e0570, group:8259b736, payment-method:, payment-type:
+2023-05-02 Monthly contribution from Incognito (backer)  ; id:a77e0570, group:8259b736, payment-method:STRIPE, payment-type:CREDITCARD
     revenues:donations:user-5ce0359e       -5.00 USD
     assets:opencollective:homebrew          4.50 USD = 116950.17 USD
-    expenses:fees:unknown-processor         0.50 USD
+    expenses:fees:STRIPE                    0.50 USD
 
 2023-05-02 Host Fee to Open Source Collective  ; id:f19f7a68, group:8259b736
     expenses:fees:opensource              0.50 USD
@@ -4724,10 +4724,10 @@
     expenses:fees:opensource              0.50 USD
     assets:opencollective:homebrew       -0.50 USD = 124411.93 USD
 
-2023-06-01 Monthly contribution from Clémence  ; id:6431e33a, group:05b79d29, payment-method:, payment-type:
-    revenues:donations:clemlesne          -1.00 USD
-    assets:opencollective:homebrew         0.66 USD = 124412.59 USD
-    expenses:fees:unknown-processor        0.34 USD
+2023-06-01 Monthly contribution from Clémence  ; id:6431e33a, group:05b79d29, payment-method:STRIPE, payment-type:CREDITCARD
+    revenues:donations:clemlesne         -1.00 USD
+    assets:opencollective:homebrew        0.66 USD = 124412.59 USD
+    expenses:fees:STRIPE                  0.34 USD
 
 2023-06-01 Host Fee to Open Source Collective  ; id:eca04755, group:05b79d29
     expenses:fees:opensource              0.10 USD
@@ -4774,10 +4774,10 @@
     expenses:fees:opensource              0.50 USD
     assets:opencollective:homebrew       -0.50 USD = 124687.98 USD
 
-2023-06-01 Monthly contribution from Incognito (backer)  ; id:768a5409, group:97117abf, payment-method:, payment-type:
+2023-06-01 Monthly contribution from Incognito (backer)  ; id:768a5409, group:97117abf, payment-method:STRIPE, payment-type:CREDITCARD
     revenues:donations:user-5ce0359e       -5.00 USD
     assets:opencollective:homebrew          4.48 USD = 124692.46 USD
-    expenses:fees:unknown-processor         0.52 USD
+    expenses:fees:STRIPE                    0.52 USD
 
 2023-06-01 Host Fee to Open Source Collective  ; id:55317e64, group:97117abf
     expenses:fees:opensource              0.50 USD
@@ -4801,10 +4801,10 @@
     expenses:fees:opensource              0.25 USD
     assets:opencollective:homebrew       -0.25 USD = 124697.85 USD
 
-2023-06-02 Monthly contribution from Incognito (backer)  ; id:2e776ae5, group:a7c7d764, payment-method:, payment-type:
+2023-06-02 Monthly contribution from Incognito (backer)  ; id:2e776ae5, group:a7c7d764, payment-method:STRIPE, payment-type:CREDITCARD
     revenues:donations:user-359ded12       -5.00 USD
     assets:opencollective:homebrew          4.48 USD = 124702.33 USD
-    expenses:fees:unknown-processor         0.52 USD
+    expenses:fees:STRIPE                    0.52 USD
 
 2023-06-02 Host Fee to Open Source Collective  ; id:0f006be5, group:a7c7d764
     expenses:fees:opensource              0.50 USD
@@ -4855,10 +4855,10 @@
     expenses:fees:opensource              0.50 USD
     assets:opencollective:homebrew       -0.50 USD = 124718.39 USD
 
-2023-06-03 Monthly contribution from MacPaw (sponsor)  ; id:aa625651, group:68efbd26, payment-method:, payment-type:
-    revenues:donations:macpaw           -100.00 USD
-    assets:opencollective:homebrew        95.30 USD = 124813.69 USD
-    expenses:fees:unknown-processor        4.70 USD
+2023-06-03 Monthly contribution from MacPaw (sponsor)  ; id:aa625651, group:68efbd26, payment-method:STRIPE, payment-type:CREDITCARD
+    revenues:donations:macpaw          -100.00 USD
+    assets:opencollective:homebrew       95.30 USD = 124813.69 USD
+    expenses:fees:STRIPE                  4.70 USD
 
 2023-06-03 Host Fee to Open Source Collective  ; id:5bf35884, group:68efbd26
     expenses:fees:opensource             10.00 USD
@@ -4886,10 +4886,10 @@
     expenses:fees:opensource              0.50 USD
     assets:opencollective:homebrew       -0.50 USD = 126683.19 USD
 
-2023-06-14 Contribution from Cybozu  ; id:332ddd01, group:87a3cebe, payment-method:, payment-type:
-    revenues:donations:cybozu          -3576.00 USD
-    assets:opencollective:homebrew      3418.36 USD = 130101.55 USD
-    expenses:fees:unknown-processor      157.64 USD
+2023-06-14 Contribution from Cybozu  ; id:332ddd01, group:87a3cebe, payment-method:STRIPE, payment-type:CREDITCARD
+    revenues:donations:cybozu         -3576.00 USD
+    assets:opencollective:homebrew     3418.36 USD = 130101.55 USD
+    expenses:fees:STRIPE                157.64 USD
 
 2023-06-14 Host Fee to Open Source Collective  ; id:a0ac3aad, group:87a3cebe
     expenses:fees:opensource            357.60 USD
@@ -5072,10 +5072,10 @@
     expenses:fees:opensource              0.50 USD
     assets:opencollective:homebrew       -0.50 USD = 130081.07 USD
 
-2023-07-01 Monthly contribution from MacPaw (sponsor)  ; id:ae1d1bd3, group:747a8ae7, payment-method:, payment-type:
-    revenues:donations:macpaw           -100.00 USD
-    assets:opencollective:homebrew        95.30 USD = 130176.37 USD
-    expenses:fees:unknown-processor        4.70 USD
+2023-07-01 Monthly contribution from MacPaw (sponsor)  ; id:ae1d1bd3, group:747a8ae7, payment-method:STRIPE, payment-type:CREDITCARD
+    revenues:donations:macpaw          -100.00 USD
+    assets:opencollective:homebrew       95.30 USD = 130176.37 USD
+    expenses:fees:STRIPE                  4.70 USD
 
 2023-07-01 Host Fee to Open Source Collective  ; id:f2045ed5, group:747a8ae7
     expenses:fees:opensource             10.00 USD
@@ -5104,10 +5104,10 @@
     assets:opencollective:homebrew      -14.00 USD = 130158.26 USD
     expenses:fees:                        0.00 USD
 
-2023-07-02 Monthly contribution from Incognito (backer)  ; id:2889e4e0, group:491a5814, payment-method:, payment-type:
+2023-07-02 Monthly contribution from Incognito (backer)  ; id:2889e4e0, group:491a5814, payment-method:STRIPE, payment-type:CREDITCARD
     revenues:donations:user-359ded12       -5.00 USD
     assets:opencollective:homebrew          4.48 USD = 130162.74 USD
-    expenses:fees:unknown-processor         0.52 USD
+    expenses:fees:STRIPE                    0.52 USD
 
 2023-07-02 Host Fee to Open Source Collective  ; id:30afd188, group:491a5814
     expenses:fees:opensource              0.50 USD
@@ -5168,10 +5168,10 @@
     expenses:fees:opensource              0.50 USD
     assets:opencollective:homebrew       -0.50 USD = 130148.37 USD
 
-2023-07-02 Monthly contribution from Incognito (backer)  ; id:111b556d, group:ac5b82e3, payment-method:, payment-type:
+2023-07-02 Monthly contribution from Incognito (backer)  ; id:111b556d, group:ac5b82e3, payment-method:STRIPE, payment-type:CREDITCARD
     revenues:donations:user-5ce0359e       -5.00 USD
     assets:opencollective:homebrew          4.48 USD = 130152.85 USD
-    expenses:fees:unknown-processor         0.52 USD
+    expenses:fees:STRIPE                    0.52 USD
 
 2023-07-02 Host Fee to Open Source Collective  ; id:ac09eb34, group:ac5b82e3
     expenses:fees:opensource              0.50 USD
@@ -5312,10 +5312,10 @@
     expenses:fees:opensource              0.50 USD
     assets:opencollective:homebrew       -0.50 USD = 137705.21 USD
 
-2023-07-24 Contribution from Tony  ; id:d467f660, group:509b6661, payment-method:, payment-type:
-    revenues:donations:tony43             -5.00 USD
-    assets:opencollective:homebrew         4.55 USD = 137709.76 USD
-    expenses:fees:unknown-processor        0.45 USD
+2023-07-24 Contribution from Tony  ; id:d467f660, group:509b6661, payment-method:STRIPE, payment-type:CREDITCARD
+    revenues:donations:tony43            -5.00 USD
+    assets:opencollective:homebrew        4.55 USD = 137709.76 USD
+    expenses:fees:STRIPE                  0.45 USD
 
 2023-07-24 Host Fee to Open Source Collective  ; id:d2ac95c9, group:509b6661
     expenses:fees:opensource              0.50 USD
@@ -5456,19 +5456,19 @@
     expenses:fees:opensource              0.50 USD
     assets:opencollective:homebrew       -0.50 USD = 144785.54 USD
 
-2023-08-01 Monthly contribution from MacPaw (sponsor)  ; id:7eed953c, group:8b6c37ff, payment-method:, payment-type:
-    revenues:donations:macpaw           -100.00 USD
-    assets:opencollective:homebrew        95.30 USD = 144880.84 USD
-    expenses:fees:unknown-processor        4.70 USD
+2023-08-01 Monthly contribution from MacPaw (sponsor)  ; id:7eed953c, group:8b6c37ff, payment-method:STRIPE, payment-type:CREDITCARD
+    revenues:donations:macpaw          -100.00 USD
+    assets:opencollective:homebrew       95.30 USD = 144880.84 USD
+    expenses:fees:STRIPE                  4.70 USD
 
 2023-08-01 Host Fee to Open Source Collective  ; id:4f455042, group:8b6c37ff
     expenses:fees:opensource             10.00 USD
     assets:opencollective:homebrew      -10.00 USD = 144870.84 USD
 
-2023-08-01 Monthly contribution from Incognito (backer)  ; id:14982bf3, group:995ef4c0, payment-method:, payment-type:
+2023-08-01 Monthly contribution from Incognito (backer)  ; id:14982bf3, group:995ef4c0, payment-method:STRIPE, payment-type:CREDITCARD
     revenues:donations:user-5ce0359e       -5.00 USD
     assets:opencollective:homebrew          4.48 USD = 144875.32 USD
-    expenses:fees:unknown-processor         0.52 USD
+    expenses:fees:STRIPE                    0.52 USD
 
 2023-08-01 Host Fee to Open Source Collective  ; id:db0bfaa6, group:995ef4c0
     expenses:fees:opensource              0.50 USD
@@ -5492,10 +5492,10 @@
     expenses:fees:opensource              0.25 USD
     assets:opencollective:homebrew       -0.25 USD = 144880.71 USD
 
-2023-08-02 Monthly contribution from Incognito (backer)  ; id:f455a63e, group:5848b61e, payment-method:, payment-type:
+2023-08-02 Monthly contribution from Incognito (backer)  ; id:f455a63e, group:5848b61e, payment-method:STRIPE, payment-type:CREDITCARD
     revenues:donations:user-359ded12       -5.00 USD
     assets:opencollective:homebrew          4.48 USD = 144885.19 USD
-    expenses:fees:unknown-processor         0.52 USD
+    expenses:fees:STRIPE                    0.52 USD
 
 2023-08-02 Host Fee to Open Source Collective  ; id:d603af2b, group:5848b61e
     expenses:fees:opensource              0.50 USD
@@ -5811,10 +5811,10 @@
     expenses:fees:opensource              0.50 USD
     assets:opencollective:homebrew       -0.50 USD = 152207.64 USD
 
-2023-09-01 Monthly contribution from Incognito (backer)  ; id:88a2a4e2, group:e898b286, payment-method:, payment-type:
+2023-09-01 Monthly contribution from Incognito (backer)  ; id:88a2a4e2, group:e898b286, payment-method:STRIPE, payment-type:CREDITCARD
     revenues:donations:user-5ce0359e       -5.00 USD
     assets:opencollective:homebrew          4.48 USD = 152212.12 USD
-    expenses:fees:unknown-processor         0.52 USD
+    expenses:fees:STRIPE                    0.52 USD
 
 2023-09-01 Host Fee to Open Source Collective  ; id:0e89877b, group:e898b286
     expenses:fees:opensource              0.50 USD
@@ -5838,10 +5838,10 @@
     expenses:fees:opensource              0.25 USD
     assets:opencollective:homebrew       -0.25 USD = 152217.51 USD
 
-2023-09-02 Monthly contribution from Incognito (backer)  ; id:d51de443, group:7dfd9d2f, payment-method:, payment-type:
+2023-09-02 Monthly contribution from Incognito (backer)  ; id:d51de443, group:7dfd9d2f, payment-method:STRIPE, payment-type:CREDITCARD
     revenues:donations:user-359ded12       -5.00 USD
     assets:opencollective:homebrew          4.48 USD = 152221.99 USD
-    expenses:fees:unknown-processor         0.52 USD
+    expenses:fees:STRIPE                    0.52 USD
 
 2023-09-02 Host Fee to Open Source Collective  ; id:348d3d65, group:7dfd9d2f
     expenses:fees:opensource              0.50 USD
@@ -6210,10 +6210,10 @@
     expenses:fees:opensource             10.00 USD
     assets:opencollective:homebrew      -10.00 USD = 160094.64 USD
 
-2023-10-01 Monthly contribution from Incognito (backer)  ; id:498a3960, group:26c095aa, payment-method:, payment-type:
+2023-10-01 Monthly contribution from Incognito (backer)  ; id:498a3960, group:26c095aa, payment-method:STRIPE, payment-type:CREDITCARD
     revenues:donations:user-5ce0359e       -5.00 USD
     assets:opencollective:homebrew          4.48 USD = 160099.12 USD
-    expenses:fees:unknown-processor         0.52 USD
+    expenses:fees:STRIPE                    0.52 USD
 
 2023-10-01 Host Fee to Open Source Collective  ; id:9b398ad4, group:26c095aa
     expenses:fees:opensource              0.50 USD
@@ -7709,10 +7709,10 @@
     expenses:fees:opensource              1.00 USD
     assets:opencollective:homebrew       -1.00 USD = 178075.76 USD
 
-2024-01-02 Expense from Colin Dean - 2024 AGM prepaid travel expenses  ; id:a248f3fc, group:3fd185eb, payment-method:, payment-type:
-    expenses:volunteers:colindean     1602.02 USD
-    assets:opencollective:brew       -1602.02 USD = 76798.12 USD
-    expenses:fees:BANK_ACCOUNT           0.00 USD
+2024-01-02 Expense from Colin Dean - 2024 AGM prepaid travel expenses  ; id:a248f3fc, group:3fd185eb, payment-method:WISE, payment-type:BANK_TRANSFER
+    expenses:volunteers:colindean      1602.02 USD
+    assets:opencollective:brew        -1602.02 USD = 76798.12 USD
+    expenses:fees:WISEBANK_ACCOUNT        0.00 USD
 
 2024-01-02 Transaction to Other Payment Processor  ; id:4cd68e8e, group:3fd185eb
     assets:opencollective:brew                         -0.39 USD = 76797.73 USD
@@ -7757,46 +7757,46 @@
     expenses:fees:opensource              1.00 USD
     assets:opencollective:homebrew       -1.00 USD = 178131.23 USD
 
-2024-01-08 Expense from Carlo Cabrera - 2023 Homebrew maintenance  ; id:3349e59c, group:a48c2934, payment-method:, payment-type:
+2024-01-08 Expense from Carlo Cabrera - 2023 Homebrew maintenance  ; id:3349e59c, group:a48c2934, payment-method:WISE, payment-type:BANK_TRANSFER
     expenses:volunteers:carlo-cabrera     3600.01 USD
     assets:opencollective:brew           -3600.01 USD = 73197.72 USD
-    expenses:fees:BANK_ACCOUNT               0.00 USD
+    expenses:fees:WISEBANK_ACCOUNT           0.00 USD
 
 2024-01-08 Transaction to Other Payment Processor  ; id:9d854720, group:a48c2934
     assets:opencollective:brew                        -18.33 USD = 73179.39 USD
     expenses:fees:other-payment-processor-vendor       18.33 USD
 
-2024-01-08 Expense from SMillerDev - Thon secondary AGM payment  ; id:bc04bb54, group:ad7bd04c, payment-method:, payment-type:
+2024-01-08 Expense from SMillerDev - Thon secondary AGM payment  ; id:bc04bb54, group:ad7bd04c, payment-method:WISE, payment-type:BANK_TRANSFER
     expenses:volunteers:smillerdev     1821.66 USD
     assets:opencollective:brew        -1821.66 USD = 71357.73 USD
-    expenses:fees:BANK_ACCOUNT            0.00 USD
+    expenses:fees:WISEBANK_ACCOUNT        0.00 USD
 
 2024-01-08 Transaction to Other Payment Processor  ; id:92cecbbc, group:ad7bd04c
     assets:opencollective:brew                         -9.25 USD = 71348.48 USD
     expenses:fees:other-payment-processor-vendor        9.25 USD
 
-2024-01-08 Expense from Michael Cho - 2024 AGM Travel  ; id:c8384534, group:e2e85f1a, payment-method:, payment-type:
-    expenses:volunteers:cho-m       630.30 USD
-    assets:opencollective:brew     -630.30 USD = 70718.18 USD
-    expenses:fees:BANK_ACCOUNT        0.00 USD
+2024-01-08 Expense from Michael Cho - 2024 AGM Travel  ; id:c8384534, group:e2e85f1a, payment-method:WISE, payment-type:BANK_TRANSFER
+    expenses:volunteers:cho-m           630.30 USD
+    assets:opencollective:brew         -630.30 USD = 70718.18 USD
+    expenses:fees:WISEBANK_ACCOUNT        0.00 USD
 
 2024-01-08 Transaction to Other Payment Processor  ; id:eafe5f5f, group:e2e85f1a
     assets:opencollective:brew                         -0.39 USD = 70717.79 USD
     expenses:fees:other-payment-processor-vendor        0.39 USD
 
-2024-01-08 Expense from Michael Cho - 2024 AGM Hotel  ; id:ae5d4361, group:1e4b7035, payment-method:, payment-type:
-    expenses:volunteers:cho-m       531.56 USD
-    assets:opencollective:brew     -531.56 USD = 70186.23 USD
-    expenses:fees:BANK_ACCOUNT        0.00 USD
+2024-01-08 Expense from Michael Cho - 2024 AGM Hotel  ; id:ae5d4361, group:1e4b7035, payment-method:WISE, payment-type:BANK_TRANSFER
+    expenses:volunteers:cho-m           531.56 USD
+    assets:opencollective:brew         -531.56 USD = 70186.23 USD
+    expenses:fees:WISEBANK_ACCOUNT        0.00 USD
 
 2024-01-08 Transaction to Other Payment Processor  ; id:31246cdd, group:1e4b7035
     assets:opencollective:brew                         -0.39 USD = 70185.84 USD
     expenses:fees:other-payment-processor-vendor        0.39 USD
 
-2024-01-08 Expense from Justin Krehel - 2024 AGM Prepaid Expenses  ; id:5d45e702, group:41fc66d3, payment-method:, payment-type:
+2024-01-08 Expense from Justin Krehel - 2024 AGM Prepaid Expenses  ; id:5d45e702, group:41fc66d3, payment-method:WISE, payment-type:BANK_TRANSFER
     expenses:volunteers:justin-krehel     1612.76 USD
     assets:opencollective:brew           -1612.76 USD = 68573.08 USD
-    expenses:fees:BANK_ACCOUNT               0.00 USD
+    expenses:fees:WISEBANK_ACCOUNT           0.00 USD
 
 2024-01-08 Transaction to Other Payment Processor  ; id:9176d4e9, group:41fc66d3
     assets:opencollective:brew                         -0.39 USD = 68572.69 USD
@@ -7810,10 +7810,10 @@
     expenses:fees:opensource            193.30 USD
     assets:opencollective:homebrew     -193.30 USD = 179870.88 USD
 
-2024-01-09 Expense from MacStadium, Inc - MacStadium, Invoice # 85497  ; id:d6fdf114, group:5e229bd6, payment-method:, payment-type:
-    expenses:hosting:macstadium      718.20 USD
-    assets:opencollective:brew      -718.20 USD = 67854.49 USD
-    expenses:fees:BANK_ACCOUNT         0.00 USD
+2024-01-09 Expense from MacStadium, Inc - MacStadium, Invoice # 85497  ; id:d6fdf114, group:5e229bd6, payment-method:WISE, payment-type:BANK_TRANSFER
+    expenses:hosting:macstadium         718.20 USD
+    assets:opencollective:brew         -718.20 USD = 67854.49 USD
+    expenses:fees:WISEBANK_ACCOUNT        0.00 USD
 
 2024-01-09 Transaction to Other Payment Processor  ; id:23b4bbc9, group:5e229bd6
     assets:opencollective:brew                         -0.39 USD = 67854.10 USD
@@ -7832,46 +7832,46 @@
     expenses:fees:opensource              2.00 USD
     assets:opencollective:homebrew       -2.00 USD = 179887.70 USD
 
-2024-01-10 Expense from Carlo Cabrera - 2024 AGM Flight  ; id:045e68d8, group:eba8d3da, payment-method:, payment-type:
+2024-01-10 Expense from Carlo Cabrera - 2024 AGM Flight  ; id:045e68d8, group:eba8d3da, payment-method:WISE, payment-type:BANK_TRANSFER
     expenses:volunteers:carlo-cabrera     1508.23 USD
     assets:opencollective:brew           -1508.23 USD = 66345.87 USD
-    expenses:fees:BANK_ACCOUNT               0.00 USD
+    expenses:fees:WISEBANK_ACCOUNT           0.00 USD
 
 2024-01-10 Transaction to Other Payment Processor  ; id:80adebd5, group:eba8d3da
     assets:opencollective:brew                         -9.82 USD = 66336.05 USD
     expenses:fees:other-payment-processor-vendor        9.82 USD
 
-2024-01-10 Expense from Michka Popoff - Hotel AGM 2024  ; id:3bd30271, group:6e55eed1, payment-method:, payment-type:
+2024-01-10 Expense from Michka Popoff - Hotel AGM 2024  ; id:3bd30271, group:6e55eed1, payment-method:WISE, payment-type:BANK_TRANSFER
     expenses:volunteers:michka-popoff      526.63 USD
     assets:opencollective:brew            -526.63 USD = 65809.42 USD
-    expenses:fees:BANK_ACCOUNT               0.00 USD
+    expenses:fees:WISEBANK_ACCOUNT           0.00 USD
 
 2024-01-10 Transaction to Other Payment Processor  ; id:53292753, group:6e55eed1
     assets:opencollective:brew                         -2.90 USD = 65806.52 USD
     expenses:fees:other-payment-processor-vendor        2.90 USD
 
-2024-01-11 Expense from George Adams - Homebrew AGM  ; id:7dd0c4a9, group:52f89164, payment-method:, payment-type:
+2024-01-11 Expense from George Adams - Homebrew AGM  ; id:7dd0c4a9, group:52f89164, payment-method:WISE, payment-type:BANK_TRANSFER
     expenses:volunteers:george-adams     1083.34 USD
     assets:opencollective:brew          -1083.34 USD = 64723.18 USD
-    expenses:fees:BANK_ACCOUNT              0.00 USD
+    expenses:fees:WISEBANK_ACCOUNT          0.00 USD
 
 2024-01-11 Transaction to Other Payment Processor  ; id:98b85344, group:52f89164
     assets:opencollective:brew                         -5.75 USD = 64717.43 USD
     expenses:fees:other-payment-processor-vendor        5.75 USD
 
-2024-01-11 Expense from Eric Knibbe - AGM flights  ; id:e2fcbabf, group:e816de3f, payment-method:, payment-type:
+2024-01-11 Expense from Eric Knibbe - AGM flights  ; id:e2fcbabf, group:e816de3f, payment-method:WISE, payment-type:BANK_TRANSFER
     expenses:volunteers:eric-knibbe      498.15 USD
     assets:opencollective:brew          -498.15 USD = 64219.28 USD
-    expenses:fees:BANK_ACCOUNT             0.00 USD
+    expenses:fees:WISEBANK_ACCOUNT         0.00 USD
 
 2024-01-11 Transaction to Other Payment Processor  ; id:131f83af, group:e816de3f
     assets:opencollective:brew                         -3.14 USD = 64216.14 USD
     expenses:fees:other-payment-processor-vendor        3.14 USD
 
-2024-01-11 Expense from Eric Knibbe - AGM hotel  ; id:8e9a0fef, group:909e0304, payment-method:, payment-type:
+2024-01-11 Expense from Eric Knibbe - AGM hotel  ; id:8e9a0fef, group:909e0304, payment-method:WISE, payment-type:BANK_TRANSFER
     expenses:volunteers:eric-knibbe      522.65 USD
     assets:opencollective:brew          -522.65 USD = 63693.49 USD
-    expenses:fees:BANK_ACCOUNT             0.00 USD
+    expenses:fees:WISEBANK_ACCOUNT         0.00 USD
 
 2024-01-11 Transaction to Other Payment Processor  ; id:f10e55dd, group:909e0304
     assets:opencollective:brew                         -3.26 USD = 63690.23 USD
@@ -7903,10 +7903,10 @@
     expenses:fees:opensource              0.50 USD
     assets:opencollective:homebrew       -0.50 USD = 179908.36 USD
 
-2024-01-13 Expense from Michka Popoff - AGM 2024 Train tickets  ; id:b30578e6, group:f009bb05, payment-method:, payment-type:
+2024-01-13 Expense from Michka Popoff - AGM 2024 Train tickets  ; id:b30578e6, group:f009bb05, payment-method:WISE, payment-type:BANK_TRANSFER
     expenses:volunteers:michka-popoff       65.70 USD
     assets:opencollective:brew             -65.70 USD = 63624.53 USD
-    expenses:fees:BANK_ACCOUNT               0.00 USD
+    expenses:fees:WISEBANK_ACCOUNT           0.00 USD
 
 2024-01-13 Transaction to Other Payment Processor  ; id:de2c7d38, group:f009bb05
     assets:opencollective:brew                         -0.65 USD = 63623.88 USD
@@ -7925,10 +7925,10 @@
     expenses:fees:opensource              0.10 USD
     assets:opencollective:homebrew       -0.10 USD = 179908.93 USD
 
-2024-01-14 Expense from Michka Popoff - FOSDEM Tablecloth 350x170cm  ; id:d5222669, group:6462b6ab, payment-method:, payment-type:
+2024-01-14 Expense from Michka Popoff - FOSDEM Tablecloth 350x170cm  ; id:d5222669, group:6462b6ab, payment-method:WISE, payment-type:BANK_TRANSFER
     expenses:volunteers:michka-popoff      115.62 USD
     assets:opencollective:brew            -115.62 USD = 63508.26 USD
-    expenses:fees:BANK_ACCOUNT               0.00 USD
+    expenses:fees:WISEBANK_ACCOUNT           0.00 USD
 
 2024-01-14 Transaction to Other Payment Processor  ; id:77fa15e7, group:6462b6ab
     assets:opencollective:brew                         -0.89 USD = 63507.37 USD
@@ -7955,19 +7955,19 @@
     expenses:fees:opensource            557.33 USD
     assets:opencollective:homebrew     -557.33 USD = 184926.11 USD
 
-2024-01-16 Expense from Justin Krehel - Quarterly Homebrew Maintenance  ; id:2e24a3d3, group:d8afc7d3, payment-method:, payment-type:
+2024-01-16 Expense from Justin Krehel - Quarterly Homebrew Maintenance  ; id:2e24a3d3, group:d8afc7d3, payment-method:WISE, payment-type:BANK_TRANSFER
     expenses:volunteers:justin-krehel      900.00 USD
     assets:opencollective:brew            -900.00 USD = 62607.37 USD
-    expenses:fees:BANK_ACCOUNT               0.00 USD
+    expenses:fees:WISEBANK_ACCOUNT           0.00 USD
 
 2024-01-16 Transaction to Other Payment Processor  ; id:6d6f71b2, group:d8afc7d3
     assets:opencollective:brew                         -0.39 USD = 62606.98 USD
     expenses:fees:other-payment-processor-vendor        0.39 USD
 
-2024-01-16 Expense from Sam Ford - Quarterly Homebrew maintenance  ; id:f080c7fc, group:fed85446, payment-method:, payment-type:
-    expenses:volunteers:samford      900.00 USD
-    assets:opencollective:brew      -900.00 USD = 61706.98 USD
-    expenses:fees:BANK_ACCOUNT         0.00 USD
+2024-01-16 Expense from Sam Ford - Quarterly Homebrew maintenance  ; id:f080c7fc, group:fed85446, payment-method:WISE, payment-type:BANK_TRANSFER
+    expenses:volunteers:samford         900.00 USD
+    assets:opencollective:brew         -900.00 USD = 61706.98 USD
+    expenses:fees:WISEBANK_ACCOUNT        0.00 USD
 
 2024-01-16 Transaction to Other Payment Processor  ; id:6dfc69a2, group:fed85446
     assets:opencollective:brew                         -0.39 USD = 61706.59 USD
@@ -7986,10 +7986,10 @@
     expenses:fees:opensource              0.50 USD
     assets:opencollective:homebrew       -0.50 USD = 184929.95 USD
 
-2024-01-17 Expense from SMillerDev - Travel to AGM  ; id:b5996462, group:dd8c22d5, payment-method:, payment-type:
+2024-01-17 Expense from SMillerDev - Travel to AGM  ; id:b5996462, group:dd8c22d5, payment-method:WISE, payment-type:BANK_TRANSFER
     expenses:volunteers:smillerdev      109.84 USD
     assets:opencollective:brew         -109.84 USD = 61596.75 USD
-    expenses:fees:BANK_ACCOUNT            0.00 USD
+    expenses:fees:WISEBANK_ACCOUNT        0.00 USD
 
 2024-01-17 Transaction to Other Payment Processor  ; id:c6555d6f, group:dd8c22d5
     assets:opencollective:brew                         -0.86 USD = 61595.89 USD
@@ -8021,15 +8021,15 @@
     expenses:fees:opensource              2.00 USD
     assets:opencollective:homebrew       -2.00 USD = 184951.12 USD
 
-2024-01-18 Virtual Card charge from GITHUB, INC.  ; id:a850fc5b, group:6b86044a, payment-method:, payment-type:
+2024-01-18 Virtual Card charge from GITHUB, INC.  ; id:a850fc5b, group:6b86044a, payment-method:STRIPE, payment-type:VIRTUAL_CARD
     expenses:hosting:github               5.29 USD
     assets:opencollective:homebrew       -5.29 USD = 184945.83 USD
-    expenses:fees:                        0.00 USD
+    expenses:fees:STRIPE                  0.00 USD
 
-2024-01-18 Expense from Rui Chen - AGM 2024  ; id:4fe19e99, group:2771fe05, payment-method:, payment-type:
-    expenses:volunteers:rui-chen     2109.40 USD
-    assets:opencollective:brew      -2109.40 USD = 59486.49 USD
-    expenses:fees:BANK_ACCOUNT          0.00 USD
+2024-01-18 Expense from Rui Chen - AGM 2024  ; id:4fe19e99, group:2771fe05, payment-method:WISE, payment-type:BANK_TRANSFER
+    expenses:volunteers:rui-chen       2109.40 USD
+    assets:opencollective:brew        -2109.40 USD = 59486.49 USD
+    expenses:fees:WISEBANK_ACCOUNT        0.00 USD
 
 2024-01-18 Transaction to Other Payment Processor  ; id:426f6700, group:2771fe05
     assets:opencollective:brew                         -0.39 USD = 59486.10 USD
@@ -8074,10 +8074,10 @@
     expenses:fees:opensource              0.50 USD
     assets:opencollective:homebrew       -0.50 USD = 184967.31 USD
 
-2024-01-24 Expense from SMillerDev - Thon final payment  ; id:7f27b85e, group:ce606974, payment-method:, payment-type:
+2024-01-24 Expense from SMillerDev - Thon final payment  ; id:7f27b85e, group:ce606974, payment-method:WISE, payment-type:BANK_TRANSFER
     expenses:volunteers:smillerdev      518.21 USD
     assets:opencollective:brew         -518.21 USD = 58967.89 USD
-    expenses:fees:BANK_ACCOUNT            0.00 USD
+    expenses:fees:WISEBANK_ACCOUNT        0.00 USD
 
 2024-01-24 Transaction to Other Payment Processor  ; id:88c78650, group:ce606974
     assets:opencollective:brew                         -2.34 USD = 58965.55 USD
@@ -8091,10 +8091,10 @@
     expenses:fees:opensource            549.63 USD
     assets:opencollective:homebrew     -549.63 USD = 189913.96 USD
 
-2024-01-25 Expense from Carlo Cabrera - 2024 AGM Hotel  ; id:13e27444, group:3825195b, payment-method:, payment-type:
+2024-01-25 Expense from Carlo Cabrera - 2024 AGM Hotel  ; id:13e27444, group:3825195b, payment-method:WISE, payment-type:BANK_TRANSFER
     expenses:volunteers:carlo-cabrera      620.65 USD
     assets:opencollective:brew            -620.65 USD = 58344.90 USD
-    expenses:fees:BANK_ACCOUNT               0.00 USD
+    expenses:fees:WISEBANK_ACCOUNT           0.00 USD
 
 2024-01-25 Transaction to Other Payment Processor  ; id:73f8de0c, group:3825195b
     assets:opencollective:brew                         -3.86 USD = 58341.04 USD
@@ -8126,28 +8126,28 @@
     expenses:fees:opensource              0.50 USD
     assets:opencollective:homebrew       -0.50 USD = 189918.08 USD
 
-2024-01-26 Expense from Doug Eichelberger - Homebrew 2024 AGM Accomodations  ; id:167bc068, group:52746742, payment-method:, payment-type:
+2024-01-26 Expense from Doug Eichelberger - Homebrew 2024 AGM Accomodations  ; id:167bc068, group:52746742, payment-method:WISE, payment-type:BANK_TRANSFER
     expenses:volunteers:doug-eichelberger      521.46 USD
     assets:opencollective:brew                -521.46 USD = 57819.58 USD
-    expenses:fees:BANK_ACCOUNT                   0.00 USD
+    expenses:fees:WISEBANK_ACCOUNT               0.00 USD
 
 2024-01-26 Transaction to Other Payment Processor  ; id:1051a03f, group:52746742
     assets:opencollective:brew                         -0.39 USD = 57819.19 USD
     expenses:fees:other-payment-processor-vendor        0.39 USD
 
-2024-01-26 Expense from Doug Eichelberger - AGM 2024 Travel  ; id:d2addacf, group:6149acbe, payment-method:, payment-type:
+2024-01-26 Expense from Doug Eichelberger - AGM 2024 Travel  ; id:d2addacf, group:6149acbe, payment-method:WISE, payment-type:BANK_TRANSFER
     expenses:volunteers:doug-eichelberger     1176.30 USD
     assets:opencollective:brew               -1176.30 USD = 56642.89 USD
-    expenses:fees:BANK_ACCOUNT                   0.00 USD
+    expenses:fees:WISEBANK_ACCOUNT               0.00 USD
 
 2024-01-26 Transaction to Other Payment Processor  ; id:60b45f89, group:6149acbe
     assets:opencollective:brew                         -0.39 USD = 56642.50 USD
     expenses:fees:other-payment-processor-vendor        0.39 USD
 
-2024-01-26 Expense from Rylan Polster - AGM 2024 Travel and Lodging  ; id:dd6ac530, group:b493deac, payment-method:, payment-type:
+2024-01-26 Expense from Rylan Polster - AGM 2024 Travel and Lodging  ; id:dd6ac530, group:b493deac, payment-method:WISE, payment-type:BANK_TRANSFER
     expenses:volunteers:rylan-polster     1585.94 USD
     assets:opencollective:brew           -1585.94 USD = 55056.56 USD
-    expenses:fees:BANK_ACCOUNT               0.00 USD
+    expenses:fees:WISEBANK_ACCOUNT           0.00 USD
 
 2024-01-26 Transaction to Other Payment Processor  ; id:34d25b32, group:b493deac
     assets:opencollective:brew                         -0.39 USD = 55056.17 USD
@@ -8166,10 +8166,10 @@
     expenses:fees:opensource              0.50 USD
     assets:opencollective:homebrew       -0.50 USD = 189921.92 USD
 
-2024-01-28 Expense from Carlo Cabrera - 2024 AGM Visa Fees  ; id:cc964696, group:b355eff1, payment-method:, payment-type:
+2024-01-28 Expense from Carlo Cabrera - 2024 AGM Visa Fees  ; id:cc964696, group:b355eff1, payment-method:WISE, payment-type:BANK_TRANSFER
     expenses:volunteers:carlo-cabrera      120.14 USD
     assets:opencollective:brew            -120.14 USD = 54936.03 USD
-    expenses:fees:BANK_ACCOUNT               0.00 USD
+    expenses:fees:WISEBANK_ACCOUNT           0.00 USD
 
 2024-01-28 Transaction to Other Payment Processor  ; id:556027a6, group:b355eff1
     assets:opencollective:brew                         -1.37 USD = 54934.66 USD
@@ -8226,6 +8226,1141 @@
 2024-01-31 Host Fee to Open Source Collective  ; id:f9984266, group:ad5266c0
     expenses:fees:opensource              1.00 USD
     assets:opencollective:homebrew       -1.00 USD = 189946.17 USD
+
+2024-02-01 Monthly contribution from François Hodierne (backer)  ; id:34181572, group:330472b9, payment-method:OPENCOLLECTIVE, payment-type:GIFTCARD
+    revenues:donations:znarf             -5.00 USD
+    assets:opencollective:homebrew        5.00 USD = 189951.17 USD
+    expenses:fees:OPENCOLLECTIVE          0.00 USD
+
+2024-02-01 Transaction to Stripe  ; id:28974b41, group:330472b9
+    assets:opencollective:homebrew       -0.45 USD = 189950.72 USD
+    expenses:fees:stripe                  0.45 USD
+
+2024-02-01 Host Fee to Open Source Collective  ; id:233e6a15, group:330472b9
+    expenses:fees:opensource              0.50 USD
+    assets:opencollective:homebrew       -0.50 USD = 189950.22 USD
+
+2024-02-01 Monthly contribution from Incognito (backer)  ; id:19bdac55, group:c9e26426, payment-method:STRIPE, payment-type:CREDITCARD
+    revenues:donations:guest-dfda3793       -5.00 USD
+    assets:opencollective:homebrew           5.00 USD = 189955.22 USD
+    expenses:fees:STRIPE                     0.00 USD
+
+2024-02-01 Transaction to Stripe  ; id:c18eccba, group:c9e26426
+    assets:opencollective:homebrew       -0.45 USD = 189954.77 USD
+    expenses:fees:stripe                  0.45 USD
+
+2024-02-01 Host Fee to Open Source Collective  ; id:ef249f85, group:c9e26426
+    expenses:fees:opensource              0.50 USD
+    assets:opencollective:homebrew       -0.50 USD = 189954.27 USD
+
+2024-02-01 Monthly contribution from halprin  ; id:1af4a112, group:3108abb3, payment-method:STRIPE, payment-type:CREDITCARD
+    revenues:donations:halprin           -1.00 USD
+    assets:opencollective:homebrew        1.00 USD = 189955.27 USD
+    expenses:fees:STRIPE                  0.00 USD
+
+2024-02-01 Transaction to Stripe  ; id:c1041f8c, group:3108abb3
+    assets:opencollective:homebrew       -0.33 USD = 189954.94 USD
+    expenses:fees:stripe                  0.33 USD
+
+2024-02-01 Host Fee to Open Source Collective  ; id:caee5aba, group:3108abb3
+    expenses:fees:opensource              0.10 USD
+    assets:opencollective:homebrew       -0.10 USD = 189954.84 USD
+
+2024-02-01 Monthly contribution from Airbnb (sponsor)  ; id:7b7a2cd1, group:bcffe3c4, payment-method:OPENCOLLECTIVE, payment-type:COLLECTIVE
+    revenues:donations:airbnb          -250.00 USD
+    assets:opencollective:homebrew      250.00 USD = 190204.84 USD
+    expenses:fees:OPENCOLLECTIVE          0.00 USD
+
+2024-02-01 Monthly contribution from MFB Technologies (backer)  ; id:acce2174, group:4abb972f, payment-method:STRIPE, payment-type:CREDITCARD
+    revenues:donations:mfbtech           -5.00 USD
+    assets:opencollective:homebrew        5.00 USD = 190209.84 USD
+    expenses:fees:STRIPE                  0.00 USD
+
+2024-02-01 Transaction to Stripe  ; id:5e7c37c2, group:4abb972f
+    assets:opencollective:homebrew       -0.45 USD = 190209.39 USD
+    expenses:fees:stripe                  0.45 USD
+
+2024-02-01 Host Fee to Open Source Collective  ; id:22a8db47, group:4abb972f
+    expenses:fees:opensource              0.50 USD
+    assets:opencollective:homebrew       -0.50 USD = 190208.89 USD
+
+2024-02-01 Monthly contribution from Sean L (backer)  ; id:85f6f3f3, group:8864576c, payment-method:STRIPE, payment-type:CREDITCARD
+    revenues:donations:sean-l            -5.00 USD
+    assets:opencollective:homebrew        5.00 USD = 190213.89 USD
+    expenses:fees:STRIPE                  0.00 USD
+
+2024-02-01 Transaction to Stripe  ; id:d724b149, group:8864576c
+    assets:opencollective:homebrew       -0.45 USD = 190213.44 USD
+    expenses:fees:stripe                  0.45 USD
+
+2024-02-01 Host Fee to Open Source Collective  ; id:97643f7f, group:8864576c
+    expenses:fees:opensource              0.50 USD
+    assets:opencollective:homebrew       -0.50 USD = 190212.94 USD
+
+2024-02-01 Contribution from Bloomberg  ; id:0a9a0395, group:e1bfa25b, payment-method:OPENCOLLECTIVE, payment-type:COLLECTIVE
+    revenues:donations:bloomberg-foss-fund    -10000.00 USD
+    assets:opencollective:homebrew             10000.00 USD = 200212.94 USD
+    expenses:fees:OPENCOLLECTIVE                   0.00 USD
+
+2024-02-01 Monthly contribution from Incognito (backer)  ; id:2a51e6b9, group:b7874e22, payment-method:STRIPE, payment-type:CREDITCARD
+    revenues:donations:user-5ce0359e       -5.00 USD
+    assets:opencollective:homebrew          5.00 USD = 200217.94 USD
+    expenses:fees:STRIPE                    0.00 USD
+
+2024-02-01 Transaction to Stripe  ; id:ddf24ed4, group:b7874e22
+    assets:opencollective:homebrew       -0.52 USD = 200217.42 USD
+    expenses:fees:stripe                  0.52 USD
+
+2024-02-01 Host Fee to Open Source Collective  ; id:b2a7f1de, group:b7874e22
+    expenses:fees:opensource              0.50 USD
+    assets:opencollective:homebrew       -0.50 USD = 200216.92 USD
+
+2024-02-01 Monthly contribution from Kuba =)K  ; id:42476a58, group:21fbb231, payment-method:STRIPE, payment-type:CREDITCARD
+    revenues:donations:otaznik           -2.50 USD
+    assets:opencollective:homebrew        2.50 USD = 200219.42 USD
+    expenses:fees:STRIPE                  0.00 USD
+
+2024-02-01 Transaction to Stripe  ; id:ea58e6d2, group:21fbb231
+    assets:opencollective:homebrew       -0.41 USD = 200219.01 USD
+    expenses:fees:stripe                  0.41 USD
+
+2024-02-01 Host Fee to Open Source Collective  ; id:c1349f54, group:21fbb231
+    expenses:fees:opensource              0.25 USD
+    assets:opencollective:homebrew       -0.25 USD = 200218.76 USD
+
+2024-02-01 Monthly contribution from Fuller, Inc. (backer)  ; id:d48db882, group:b5c86bed, payment-method:STRIPE, payment-type:CREDITCARD
+    revenues:donations:fuller-inc        -5.00 USD
+    assets:opencollective:homebrew        5.00 USD = 200223.76 USD
+    expenses:fees:STRIPE                  0.00 USD
+
+2024-02-01 Transaction to Stripe  ; id:2c523175, group:b5c86bed
+    assets:opencollective:homebrew       -0.52 USD = 200223.24 USD
+    expenses:fees:stripe                  0.52 USD
+
+2024-02-01 Host Fee to Open Source Collective  ; id:186f9ddb, group:b5c86bed
+    expenses:fees:opensource              0.50 USD
+    assets:opencollective:homebrew       -0.50 USD = 200222.74 USD
+
+2024-02-01 Monthly contribution from Stéphane (backer)  ; id:1cdac5aa, group:7703cdee, payment-method:STRIPE, payment-type:CREDITCARD
+    revenues:donations:steph974          -5.00 USD
+    assets:opencollective:homebrew        5.00 USD = 200227.74 USD
+    expenses:fees:STRIPE                  0.00 USD
+
+2024-02-01 Transaction to Stripe  ; id:d842bdfe, group:7703cdee
+    assets:opencollective:homebrew       -0.52 USD = 200227.22 USD
+    expenses:fees:stripe                  0.52 USD
+
+2024-02-01 Host Fee to Open Source Collective  ; id:673dbc40, group:7703cdee
+    expenses:fees:opensource              0.50 USD
+    assets:opencollective:homebrew       -0.50 USD = 200226.72 USD
+
+2024-02-01 Monthly contribution from Geoff Wright (backer)  ; id:700e2f94, group:35ab6d76, payment-method:STRIPE, payment-type:CREDITCARD
+    revenues:donations:geoff-wright       -5.00 USD
+    assets:opencollective:homebrew         5.00 USD = 200231.72 USD
+    expenses:fees:STRIPE                   0.00 USD
+
+2024-02-01 Transaction to Stripe  ; id:9eb56bd4, group:35ab6d76
+    assets:opencollective:homebrew       -0.52 USD = 200231.20 USD
+    expenses:fees:stripe                  0.52 USD
+
+2024-02-01 Host Fee to Open Source Collective  ; id:a96414ab, group:35ab6d76
+    expenses:fees:opensource              0.50 USD
+    assets:opencollective:homebrew       -0.50 USD = 200230.70 USD
+
+2024-02-02 Monthly contribution from James Kingdon  ; id:734a4753, group:e87d7eaf, payment-method:STRIPE, payment-type:CREDITCARD
+    revenues:donations:james-kingdon       -1.00 USD
+    assets:opencollective:homebrew          1.00 USD = 200231.70 USD
+    expenses:fees:STRIPE                    0.00 USD
+
+2024-02-02 Transaction to Stripe  ; id:958b164a, group:e87d7eaf
+    assets:opencollective:homebrew       -0.33 USD = 200231.37 USD
+    expenses:fees:stripe                  0.33 USD
+
+2024-02-02 Host Fee to Open Source Collective  ; id:8b34023b, group:e87d7eaf
+    expenses:fees:opensource              0.10 USD
+    assets:opencollective:homebrew       -0.10 USD = 200231.27 USD
+
+2024-02-02 Contribution from Target Tech  ; id:93946f06, group:14821b5d, payment-method:STRIPE, payment-type:CREDITCARD
+    revenues:donations:target-tech    -2500.00 USD
+    assets:opencollective:homebrew     2500.00 USD = 202731.27 USD
+    expenses:fees:STRIPE                  0.00 USD
+
+2024-02-02 Transaction to Stripe  ; id:c8a1dee4, group:14821b5d
+    assets:opencollective:homebrew      -72.80 USD = 202658.47 USD
+    expenses:fees:stripe                 72.80 USD
+
+2024-02-02 Host Fee to Open Source Collective  ; id:5d979b1a, group:14821b5d
+    expenses:fees:opensource            250.00 USD
+    assets:opencollective:homebrew     -250.00 USD = 202408.47 USD
+
+2024-02-02 Contribution from Guest  ; id:e1b88b3b, group:8bd70258, payment-method:STRIPE, payment-type:CREDITCARD
+    revenues:donations:guest-77fa45bb      -50.00 USD
+    assets:opencollective:homebrew          50.00 USD = 202458.47 USD
+    expenses:fees:STRIPE                     0.00 USD
+
+2024-02-02 Transaction to Stripe  ; id:5f40a0b4, group:8bd70258
+    assets:opencollective:homebrew       -1.75 USD = 202456.72 USD
+    expenses:fees:stripe                  1.75 USD
+
+2024-02-02 Host Fee to Open Source Collective  ; id:f7740a28, group:8bd70258
+    expenses:fees:opensource              5.00 USD
+    assets:opencollective:homebrew       -5.00 USD = 202451.72 USD
+
+2024-02-02 Host Fee to Open Source Collective  ; id:4913db66, group:49cda88e
+    expenses:fees:opensource              0.50 USD
+    assets:opencollective:homebrew       -0.50 USD = 202451.22 USD
+
+2024-02-02 Monthly contribution from Andrew Bailey (backer)  ; id:2de9e96f, group:49cda88e, payment-method:STRIPE, payment-type:CREDITCARD
+    revenues:donations:andrew-bailey       -5.00 USD
+    assets:opencollective:homebrew          5.00 USD = 202456.22 USD
+    expenses:fees:STRIPE                    0.00 USD
+
+2024-02-02 Transaction to Stripe  ; id:8ded0146, group:49cda88e
+    assets:opencollective:homebrew       -0.45 USD = 202455.77 USD
+    expenses:fees:stripe                  0.45 USD
+
+2024-02-02 Monthly contribution from Cybozu  ; id:0b637121, group:8f6e2647, payment-method:STRIPE, payment-type:CREDITCARD
+    revenues:donations:cybozu          -350.00 USD
+    assets:opencollective:homebrew      350.00 USD = 202805.77 USD
+    expenses:fees:STRIPE                  0.00 USD
+
+2024-02-02 Transaction to Stripe  ; id:75028847, group:8f6e2647
+    assets:opencollective:homebrew      -15.70 USD = 202790.07 USD
+    expenses:fees:stripe                 15.70 USD
+
+2024-02-02 Host Fee to Open Source Collective  ; id:4c7761f7, group:8f6e2647
+    expenses:fees:opensource             35.00 USD
+    assets:opencollective:homebrew      -35.00 USD = 202755.07 USD
+
+2024-02-02 Monthly contribution from Flavio Arion (backer)  ; id:5610b764, group:2cad1b9f, payment-method:STRIPE, payment-type:CREDITCARD
+    revenues:donations:flavio-arion       -5.00 USD
+    assets:opencollective:homebrew         5.00 USD = 202760.07 USD
+    expenses:fees:STRIPE                   0.00 USD
+
+2024-02-02 Transaction to Stripe  ; id:767dbc47, group:2cad1b9f
+    assets:opencollective:homebrew       -0.45 USD = 202759.62 USD
+    expenses:fees:stripe                  0.45 USD
+
+2024-02-02 Host Fee to Open Source Collective  ; id:97115f1e, group:2cad1b9f
+    expenses:fees:opensource              0.50 USD
+    assets:opencollective:homebrew       -0.50 USD = 202759.12 USD
+
+2024-02-02 Monthly contribution from kanrasha (backer)  ; id:28852b15, group:27ce31e9, payment-method:STRIPE, payment-type:CREDITCARD
+    revenues:donations:kanrasha          -5.00 USD
+    assets:opencollective:homebrew        5.00 USD = 202764.12 USD
+    expenses:fees:STRIPE                  0.00 USD
+
+2024-02-02 Transaction to Stripe  ; id:e5a87e66, group:27ce31e9
+    assets:opencollective:homebrew       -0.45 USD = 202763.67 USD
+    expenses:fees:stripe                  0.45 USD
+
+2024-02-02 Host Fee to Open Source Collective  ; id:c01ac929, group:27ce31e9
+    expenses:fees:opensource              0.50 USD
+    assets:opencollective:homebrew       -0.50 USD = 202763.17 USD
+
+2024-02-02 Monthly contribution from Guest (backer)  ; id:1d38ee86, group:5b5941f5, payment-method:STRIPE, payment-type:CREDITCARD
+    revenues:donations:guest-749c1d0d       -5.00 USD
+    assets:opencollective:homebrew           5.00 USD = 202768.17 USD
+    expenses:fees:STRIPE                     0.00 USD
+
+2024-02-02 Transaction to Stripe  ; id:4ebf1a99, group:5b5941f5
+    assets:opencollective:homebrew       -0.45 USD = 202767.72 USD
+    expenses:fees:stripe                  0.45 USD
+
+2024-02-02 Host Fee to Open Source Collective  ; id:92ff7ec5, group:5b5941f5
+    expenses:fees:opensource              0.50 USD
+    assets:opencollective:homebrew       -0.50 USD = 202767.22 USD
+
+2024-02-02 Monthly contribution from Robin Syl (backer)  ; id:ed749e61, group:d9955d9a, payment-method:STRIPE, payment-type:CREDITCARD
+    revenues:donations:robinsyl          -5.00 USD
+    assets:opencollective:homebrew        5.00 USD = 202772.22 USD
+    expenses:fees:STRIPE                  0.00 USD
+
+2024-02-02 Transaction to Stripe  ; id:2732ef13, group:d9955d9a
+    assets:opencollective:homebrew       -0.52 USD = 202771.70 USD
+    expenses:fees:stripe                  0.52 USD
+
+2024-02-02 Host Fee to Open Source Collective  ; id:b1b62ab1, group:d9955d9a
+    expenses:fees:opensource              0.50 USD
+    assets:opencollective:homebrew       -0.50 USD = 202771.20 USD
+
+2024-02-02 Monthly contribution from Carlo Zottmann  ; id:d62f230a, group:6b9a34aa, payment-method:STRIPE, payment-type:CREDITCARD
+    revenues:donations:czottmann        -10.00 USD
+    assets:opencollective:homebrew       10.00 USD = 202781.20 USD
+    expenses:fees:STRIPE                  0.00 USD
+
+2024-02-02 Transaction to Stripe  ; id:8dfc7ba0, group:6b9a34aa
+    assets:opencollective:homebrew       -0.74 USD = 202780.46 USD
+    expenses:fees:stripe                  0.74 USD
+
+2024-02-02 Host Fee to Open Source Collective  ; id:fb7b46b9, group:6b9a34aa
+    expenses:fees:opensource              1.00 USD
+    assets:opencollective:homebrew       -1.00 USD = 202779.46 USD
+
+2024-02-02 Monthly contribution from Kyle  ; id:94226879, group:fb3cbf25, payment-method:STRIPE, payment-type:CREDITCARD
+    revenues:donations:kyle20            -1.00 USD
+    assets:opencollective:homebrew        1.00 USD = 202780.46 USD
+    expenses:fees:STRIPE                  0.00 USD
+
+2024-02-02 Transaction to Stripe  ; id:0dd46b7f, group:fb3cbf25
+    assets:opencollective:homebrew       -0.33 USD = 202780.13 USD
+    expenses:fees:stripe                  0.33 USD
+
+2024-02-02 Host Fee to Open Source Collective  ; id:318cea5e, group:fb3cbf25
+    expenses:fees:opensource              0.10 USD
+    assets:opencollective:homebrew       -0.10 USD = 202780.03 USD
+
+2024-02-02 Virtual Card charge from MACSTADIUM  ; id:35d3f938, group:070653ee, payment-method:STRIPE, payment-type:VIRTUAL_CARD
+    expenses:hosting:macstadium         718.20 USD
+    assets:opencollective:homebrew     -718.20 USD = 202061.83 USD
+    expenses:fees:STRIPE                  0.00 USD
+
+2024-02-03 Contribution from Sjoerd  ; id:1f9093c5, group:38208b62, payment-method:STRIPE, payment-type:CREDITCARD
+    revenues:donations:guest-ee881e6b       -5.00 USD
+    assets:opencollective:homebrew           5.00 USD = 202066.83 USD
+    expenses:fees:STRIPE                     0.00 USD
+
+2024-02-03 Transaction to Stripe  ; id:55dbcd58, group:38208b62
+    assets:opencollective:homebrew       -0.52 USD = 202066.31 USD
+    expenses:fees:stripe                  0.52 USD
+
+2024-02-03 Host Fee to Open Source Collective  ; id:090a5a28, group:38208b62
+    expenses:fees:opensource              0.50 USD
+    assets:opencollective:homebrew       -0.50 USD = 202065.81 USD
+
+2024-02-03 Contribution from Guest  ; id:b167cd81, group:0fc02275, payment-method:PAYPAL, payment-type:PAYMENT
+    revenues:donations:guest-1ea40eb3       -5.00 USD
+    assets:opencollective:homebrew           5.00 USD = 202070.81 USD
+    expenses:fees:PAYPAL                     0.00 USD
+
+2024-02-03 Transaction to PayPal  ; id:8f03917a, group:0fc02275
+    assets:opencollective:homebrew       -0.74 USD = 202070.07 USD
+    expenses:fees:paypal                  0.74 USD
+
+2024-02-03 Host Fee to Open Source Collective  ; id:1e78eb53, group:0fc02275
+    expenses:fees:opensource              0.50 USD
+    assets:opencollective:homebrew       -0.50 USD = 202069.57 USD
+
+2024-02-03 Contribution from Guest  ; id:d28094bd, group:5c264bd8, payment-method:PAYPAL, payment-type:PAYMENT
+    revenues:donations:guest-ceaaef43       -5.00 USD
+    assets:opencollective:homebrew           5.00 USD = 202074.57 USD
+    expenses:fees:PAYPAL                     0.00 USD
+
+2024-02-03 Transaction to PayPal  ; id:344cea1f, group:5c264bd8
+    assets:opencollective:homebrew       -0.74 USD = 202073.83 USD
+    expenses:fees:paypal                  0.74 USD
+
+2024-02-03 Host Fee to Open Source Collective  ; id:5ac06d30, group:5c264bd8
+    expenses:fees:opensource              0.50 USD
+    assets:opencollective:homebrew       -0.50 USD = 202073.33 USD
+
+2024-02-03 Expense from Bo Anderson - Maintainer Hardware Grant  ; id:ed01c280, group:7690429e, payment-method:WISE, payment-type:BANK_TRANSFER
+    expenses:volunteers:bo98           4041.29 USD
+    assets:opencollective:brew        -4041.29 USD = 50893.37 USD
+    expenses:fees:WISEBANK_ACCOUNT        0.00 USD
+
+2024-02-03 Transaction to Other Payment Processor  ; id:bbcd0d8d, group:7690429e
+    assets:opencollective:brew                        -20.53 USD = 50872.84 USD
+    expenses:fees:other-payment-processor-vendor       20.53 USD
+
+2024-02-04 Contribution from Guest  ; id:683eb1b2, group:785c233e, payment-method:PAYPAL, payment-type:PAYMENT
+    revenues:donations:guest-a31ddbae      -20.00 USD
+    assets:opencollective:homebrew          20.00 USD = 202093.33 USD
+    expenses:fees:PAYPAL                     0.00 USD
+
+2024-02-04 Transaction to PayPal  ; id:706705af, group:785c233e
+    assets:opencollective:homebrew       -1.19 USD = 202092.14 USD
+    expenses:fees:paypal                  1.19 USD
+
+2024-02-04 Host Fee to Open Source Collective  ; id:8d7b9a8e, group:785c233e
+    expenses:fees:opensource              2.00 USD
+    assets:opencollective:homebrew       -2.00 USD = 202090.14 USD
+
+2024-02-04 Contribution from Jordi  ; id:acf6b8cb, group:822ecbbb, payment-method:PAYPAL, payment-type:PAYMENT
+    revenues:donations:guest-8efec84a       -2.00 USD
+    assets:opencollective:homebrew           2.00 USD = 202092.14 USD
+    expenses:fees:PAYPAL                     0.00 USD
+
+2024-02-04 Transaction to PayPal  ; id:ea808581, group:822ecbbb
+    assets:opencollective:homebrew       -0.59 USD = 202091.55 USD
+    expenses:fees:paypal                  0.59 USD
+
+2024-02-04 Host Fee to Open Source Collective  ; id:91fdc7a7, group:822ecbbb
+    expenses:fees:opensource              0.20 USD
+    assets:opencollective:homebrew       -0.20 USD = 202091.35 USD
+
+2024-02-06 Expense to TWILIO.COM  ; id:748ad5eb, group:58d1195d, payment-method:, payment-type:
+    income:unknown                       -5.17 USD
+    assets:opencollective:homebrew        5.17 USD = 202096.52 USD
+    expenses:fees:                        0.00 USD
+
+2024-02-06 Expense from Bo Anderson - AGM Travel & Hotel  ; id:68db19c7, group:f89be9c1, payment-method:WISE, payment-type:BANK_TRANSFER
+    expenses:volunteers:bo98           1340.17 USD
+    assets:opencollective:brew        -1340.17 USD = 49532.67 USD
+    expenses:fees:WISEBANK_ACCOUNT        0.00 USD
+
+2024-02-06 Transaction to Other Payment Processor  ; id:58ac8b6e, group:f89be9c1
+    assets:opencollective:brew                         -7.03 USD = 49525.64 USD
+    expenses:fees:other-payment-processor-vendor        7.03 USD
+
+2024-02-07 Expense from Carlo Cabrera - 2024 Pre-AGM Accommodation  ; id:40b5864c, group:73ff5d6a, payment-method:WISE, payment-type:BANK_TRANSFER
+    expenses:volunteers:carlo-cabrera      351.21 USD
+    assets:opencollective:brew            -351.21 USD = 49174.43 USD
+    expenses:fees:WISEBANK_ACCOUNT           0.00 USD
+
+2024-02-07 Transaction to Other Payment Processor  ; id:f5f142d8, group:73ff5d6a
+    assets:opencollective:brew                         -2.09 USD = 49172.34 USD
+    expenses:fees:other-payment-processor-vendor        2.09 USD
+
+2024-02-08 Monthly contribution from Gary Kahn (backer)  ; id:012cf388, group:e6ec8711, payment-method:STRIPE, payment-type:US_BANK_ACCOUNT
+    revenues:donations:gkahn            -10.00 USD
+    assets:opencollective:homebrew       10.00 USD = 202106.52 USD
+    expenses:fees:STRIPE                  0.00 USD
+
+2024-02-08 Transaction to Stripe  ; id:a7683a2e, group:e6ec8711
+    assets:opencollective:homebrew       -0.08 USD = 202106.44 USD
+    expenses:fees:stripe                  0.08 USD
+
+2024-02-08 Host Fee to Open Source Collective  ; id:bb13cc7e, group:e6ec8711
+    expenses:fees:opensource              1.00 USD
+    assets:opencollective:homebrew       -1.00 USD = 202105.44 USD
+
+2024-02-08 Added Funds from Patreon - Jan 2024 Patreon  ; id:8208ea31, group:50b2fc18, payment-method:OPENCOLLECTIVE, payment-type:HOST
+    revenues:donations:patreon        -1902.96 USD
+    assets:opencollective:homebrew     1902.96 USD = 204008.40 USD
+
+2024-02-08 Host Fee to Open Source Collective  ; id:9b761c84, group:50b2fc18
+    expenses:fees:opensource            190.30 USD
+    assets:opencollective:homebrew     -190.30 USD = 203818.10 USD
+
+2024-02-08 Expense from SMillerDev - AGM Stay at Thon  ; id:9f44d862, group:2b71f422, payment-method:WISE, payment-type:BANK_TRANSFER
+    expenses:volunteers:smillerdev      575.39 USD
+    assets:opencollective:brew         -575.39 USD = 48596.95 USD
+    expenses:fees:WISEBANK_ACCOUNT        0.00 USD
+
+2024-02-08 Transaction to Other Payment Processor  ; id:8174a361, group:2b71f422
+    assets:opencollective:brew                         -3.15 USD = 48593.80 USD
+    expenses:fees:other-payment-processor-vendor        3.15 USD
+
+2024-02-09 Expense from Issy Long - Google Cloud, January and February  ; id:4e0e4455, group:b81c4880, payment-method:WISE, payment-type:BANK_TRANSFER
+    expenses:volunteers:issyl0          512.20 USD
+    assets:opencollective:brew         -512.20 USD = 48081.60 USD
+    expenses:fees:WISEBANK_ACCOUNT        0.00 USD
+
+2024-02-09 Transaction to Other Payment Processor  ; id:fb1fe9c7, group:b81c4880
+    assets:opencollective:brew                         -2.89 USD = 48078.71 USD
+    expenses:fees:other-payment-processor-vendor        2.89 USD
+
+2024-02-09 Expense from Issy Long - 2024 AGM Maintainer Dinner  ; id:96e9e0df, group:f5411fa5, payment-method:WISE, payment-type:BANK_TRANSFER
+    expenses:volunteers:issyl0         2086.91 USD
+    assets:opencollective:brew        -2086.91 USD = 45991.80 USD
+    expenses:fees:WISEBANK_ACCOUNT        0.00 USD
+
+2024-02-09 Transaction to Other Payment Processor  ; id:3273c459, group:f5411fa5
+    assets:opencollective:brew                        -10.77 USD = 45981.03 USD
+    expenses:fees:other-payment-processor-vendor       10.77 USD
+
+2024-02-11 Contribution from Guest  ; id:68340e79, group:43cd0c9c, payment-method:STRIPE, payment-type:CREDITCARD
+    revenues:donations:guest-45ed20e2       -5.00 USD
+    assets:opencollective:homebrew           5.00 USD = 203823.10 USD
+    expenses:fees:STRIPE                     0.00 USD
+
+2024-02-11 Transaction to Stripe  ; id:15dbf7de, group:43cd0c9c
+    assets:opencollective:homebrew       -0.45 USD = 203822.65 USD
+    expenses:fees:stripe                  0.45 USD
+
+2024-02-11 Host Fee to Open Source Collective  ; id:d31f0e86, group:43cd0c9c
+    expenses:fees:opensource              0.50 USD
+    assets:opencollective:homebrew       -0.50 USD = 203822.15 USD
+
+2024-02-11 Contribution from Guest  ; id:c3fc3bcc, group:085d4e87, payment-method:STRIPE, payment-type:CREDITCARD
+    revenues:donations:guest-45ed20e2      -10.00 USD
+    assets:opencollective:homebrew          10.00 USD = 203832.15 USD
+    expenses:fees:STRIPE                     0.00 USD
+
+2024-02-11 Transaction to Stripe  ; id:3ecdcfda, group:085d4e87
+    assets:opencollective:homebrew       -0.59 USD = 203831.56 USD
+    expenses:fees:stripe                  0.59 USD
+
+2024-02-11 Host Fee to Open Source Collective  ; id:3251ff9c, group:085d4e87
+    expenses:fees:opensource              1.00 USD
+    assets:opencollective:homebrew       -1.00 USD = 203830.56 USD
+
+2024-02-12 Expense from Ruoyu Zhong - 2024 AGM Hotel and Travel Expenses  ; id:974f1029, group:4b7454ca, payment-method:WISE, payment-type:BANK_TRANSFER
+    expenses:volunteers:zhongruoyu       53.17 USD
+    assets:opencollective:brew          -53.17 USD = 45927.86 USD
+    expenses:fees:WISEBANK_ACCOUNT        0.00 USD
+
+2024-02-12 Transaction to Other Payment Processor  ; id:0f533d51, group:4b7454ca
+    assets:opencollective:brew                         -0.86 USD = 45927.00 USD
+    expenses:fees:other-payment-processor-vendor        0.86 USD
+
+2024-02-13 Expense from Markus Reiter - 2024 AGM Train Tickets  ; id:1c6aabc2, group:861960a3, payment-method:WISE, payment-type:BANK_TRANSFER
+    expenses:volunteers:reitermarkus       23.14 USD
+    assets:opencollective:brew            -23.14 USD = 45903.86 USD
+    expenses:fees:WISEBANK_ACCOUNT          0.00 USD
+
+2024-02-13 Transaction to Other Payment Processor  ; id:52e4fecc, group:861960a3
+    assets:opencollective:brew                         -0.42 USD = 45903.44 USD
+    expenses:fees:other-payment-processor-vendor        0.42 USD
+
+2024-02-13 Expense from Markus Reiter - 2024 AGM Hotel  ; id:59e3729a, group:e0dc339f, payment-method:WISE, payment-type:BANK_TRANSFER
+    expenses:volunteers:reitermarkus      531.93 USD
+    assets:opencollective:brew           -531.93 USD = 45371.51 USD
+    expenses:fees:WISEBANK_ACCOUNT          0.00 USD
+
+2024-02-13 Transaction to Other Payment Processor  ; id:c6f47f98, group:e0dc339f
+    assets:opencollective:brew                         -2.93 USD = 45368.58 USD
+    expenses:fees:other-payment-processor-vendor        2.93 USD
+
+2024-02-13 Expense from Markus Reiter - 2024 AGM Public Transport  ; id:0aea84f8, group:b8af1e3d, payment-method:WISE, payment-type:BANK_TRANSFER
+    expenses:volunteers:reitermarkus       11.24 USD
+    assets:opencollective:brew            -11.24 USD = 45357.34 USD
+    expenses:fees:WISEBANK_ACCOUNT          0.00 USD
+
+2024-02-13 Transaction to Other Payment Processor  ; id:6f2243fb, group:b8af1e3d
+    assets:opencollective:brew                         -0.36 USD = 45356.98 USD
+    expenses:fees:other-payment-processor-vendor        0.36 USD
+
+2024-02-14 Contribution from Greg Dosh  ; id:d5368e3d, group:cf6d121e, payment-method:STRIPE, payment-type:CREDITCARD
+    revenues:donations:greg-dosh        -20.00 USD
+    assets:opencollective:homebrew       20.00 USD = 203850.56 USD
+    expenses:fees:STRIPE                  0.00 USD
+
+2024-02-14 Transaction to Stripe  ; id:4fa7d42f, group:cf6d121e
+    assets:opencollective:homebrew       -0.88 USD = 203849.68 USD
+    expenses:fees:stripe                  0.88 USD
+
+2024-02-14 Host Fee to Open Source Collective  ; id:0e615880, group:cf6d121e
+    expenses:fees:opensource              2.00 USD
+    assets:opencollective:homebrew       -2.00 USD = 203847.68 USD
+
+2024-02-14 Expense from Bo Anderson - AGM at-location costs  ; id:e00ddcdf, group:1db5c96e, payment-method:WISE, payment-type:BANK_TRANSFER
+    expenses:volunteers:bo98             40.69 USD
+    assets:opencollective:brew          -40.69 USD = 45316.29 USD
+    expenses:fees:WISEBANK_ACCOUNT        0.00 USD
+
+2024-02-14 Transaction to Other Payment Processor  ; id:44a96998, group:1db5c96e
+    assets:opencollective:brew                         -0.53 USD = 45315.76 USD
+    expenses:fees:other-payment-processor-vendor        0.53 USD
+
+2024-02-15 Expense from Patrick Linnane - AGM Hotel Taxes  ; id:cbb77d72, group:87f4c7b4, payment-method:WISE, payment-type:BANK_TRANSFER
+    expenses:volunteers:patrick-linnane       18.30 USD
+    assets:opencollective:brew               -18.30 USD = 45297.46 USD
+    expenses:fees:WISEBANK_ACCOUNT             0.00 USD
+
+2024-02-15 Transaction to Other Payment Processor  ; id:32629c38, group:87f4c7b4
+    assets:opencollective:brew                         -0.39 USD = 45297.07 USD
+    expenses:fees:other-payment-processor-vendor        0.39 USD
+
+2024-02-16 Monthly contribution from fadersolo  ; id:ee421675, group:54d4dc6f, payment-method:PAYPAL, payment-type:SUBSCRIPTION
+    revenues:donations:fadersolo         -2.00 USD
+    assets:opencollective:homebrew        2.00 USD = 203849.68 USD
+    expenses:fees:PAYPAL                  0.00 USD
+
+2024-02-16 Transaction to PayPal  ; id:fa75a8d3, group:54d4dc6f
+    assets:opencollective:homebrew       -0.56 USD = 203849.12 USD
+    expenses:fees:paypal                  0.56 USD
+
+2024-02-16 Host Fee to Open Source Collective  ; id:bb00697f, group:54d4dc6f
+    expenses:fees:opensource              0.20 USD
+    assets:opencollective:homebrew       -0.20 USD = 203848.92 USD
+
+2024-02-17 Monthly contribution from Incognito (backer)  ; id:2f67900b, group:92deb412, payment-method:PAYPAL, payment-type:SUBSCRIPTION
+    revenues:donations:user-19668dbc       -5.00 USD
+    assets:opencollective:homebrew          5.00 USD = 203853.92 USD
+    expenses:fees:PAYPAL                    0.00 USD
+
+2024-02-17 Transaction to PayPal  ; id:0ca6c547, group:92deb412
+    assets:opencollective:homebrew       -0.66 USD = 203853.26 USD
+    expenses:fees:paypal                  0.66 USD
+
+2024-02-17 Host Fee to Open Source Collective  ; id:dd0d7628, group:92deb412
+    expenses:fees:opensource              0.50 USD
+    assets:opencollective:homebrew       -0.50 USD = 203852.76 USD
+
+2024-02-18 Monthly contribution from Fedor Indunty (backer)  ; id:73299057, group:b6b593e4, payment-method:PAYPAL, payment-type:SUBSCRIPTION
+    revenues:donations:guest-26e9d057       -5.00 USD
+    assets:opencollective:homebrew           5.00 USD = 203857.76 USD
+    expenses:fees:PAYPAL                     0.00 USD
+
+2024-02-18 Transaction to PayPal  ; id:ef6b8ea4, group:b6b593e4
+    assets:opencollective:homebrew       -0.66 USD = 203857.10 USD
+    expenses:fees:paypal                  0.66 USD
+
+2024-02-18 Host Fee to Open Source Collective  ; id:77fd8ad6, group:b6b593e4
+    expenses:fees:opensource              0.50 USD
+    assets:opencollective:homebrew       -0.50 USD = 203856.60 USD
+
+2024-02-18 Virtual Card charge from GITHUB, INC.  ; id:2cc9db33, group:bead84a7, payment-method:STRIPE, payment-type:VIRTUAL_CARD
+    expenses:hosting:github               3.68 USD
+    assets:opencollective:homebrew       -3.68 USD = 203852.92 USD
+    expenses:fees:STRIPE                  0.00 USD
+
+2024-02-20 Expense from Michael Cho - 2024 AGM Hotel City Tax  ; id:9d7541b3, group:7bf3d813, payment-method:WISE, payment-type:BANK_TRANSFER
+    expenses:volunteers:cho-m            18.30 USD
+    assets:opencollective:brew          -18.30 USD = 45278.77 USD
+    expenses:fees:WISEBANK_ACCOUNT        0.00 USD
+
+2024-02-20 Transaction to Other Payment Processor  ; id:f3bbb67f, group:7bf3d813
+    assets:opencollective:brew                         -0.39 USD = 45278.38 USD
+    expenses:fees:other-payment-processor-vendor        0.39 USD
+
+2024-02-21 Expense from Colin Dean - AGM airport parking  ; id:58ded932, group:4d121d6b, payment-method:WISE, payment-type:BANK_TRANSFER
+    expenses:volunteers:colindean       159.79 USD
+    assets:opencollective:brew         -159.79 USD = 45118.59 USD
+    expenses:fees:WISEBANK_ACCOUNT        0.00 USD
+
+2024-02-21 Transaction to Other Payment Processor  ; id:345507fb, group:4d121d6b
+    assets:opencollective:brew                         -0.39 USD = 45118.20 USD
+    expenses:fees:other-payment-processor-vendor        0.39 USD
+
+2024-02-22 Contribution from Carter  ; id:1a471736, group:b92081ff, payment-method:STRIPE, payment-type:CREDITCARD
+    revenues:donations:guest-fbd021dd      -20.00 USD
+    assets:opencollective:homebrew          20.00 USD = 203872.92 USD
+    expenses:fees:STRIPE                     0.00 USD
+
+2024-02-22 Transaction to Stripe  ; id:1fbabcfb, group:b92081ff
+    assets:opencollective:homebrew       -0.88 USD = 203872.04 USD
+    expenses:fees:stripe                  0.88 USD
+
+2024-02-22 Host Fee to Open Source Collective  ; id:7cbf4a24, group:b92081ff
+    expenses:fees:opensource              2.00 USD
+    assets:opencollective:homebrew       -2.00 USD = 203870.04 USD
+
+2024-02-22 Monthly contribution from Guest  ; id:06255d1b, group:05bb8d83, payment-method:PAYPAL, payment-type:SUBSCRIPTION
+    revenues:donations:guest-92e4a2df       -2.00 USD
+    assets:opencollective:homebrew           2.00 USD = 203872.04 USD
+    expenses:fees:PAYPAL                     0.00 USD
+
+2024-02-22 Transaction to PayPal  ; id:49118b5e, group:05bb8d83
+    assets:opencollective:homebrew       -0.59 USD = 203871.45 USD
+    expenses:fees:paypal                  0.59 USD
+
+2024-02-22 Host Fee to Open Source Collective  ; id:806ad97c, group:05bb8d83
+    expenses:fees:opensource              0.20 USD
+    assets:opencollective:homebrew       -0.20 USD = 203871.25 USD
+
+2024-02-22 Expense from Colin Dean - AGM THON hotel city tax  ; id:317b3a36, group:6fdbcf1c, payment-method:WISE, payment-type:BANK_TRANSFER
+    expenses:volunteers:colindean         4.61 USD
+    assets:opencollective:brew           -4.61 USD = 45113.59 USD
+    expenses:fees:WISEBANK_ACCOUNT        0.00 USD
+
+2024-02-22 Transaction to Other Payment Processor  ; id:9848a067, group:6fdbcf1c
+    assets:opencollective:brew                         -0.39 USD = 45113.20 USD
+    expenses:fees:other-payment-processor-vendor        0.39 USD
+
+2024-02-26 Monthly contribution from Peter  ; id:a3e306fc, group:f481070d, payment-method:PAYPAL, payment-type:SUBSCRIPTION
+    revenues:donations:peter63           -1.00 USD
+    assets:opencollective:homebrew        1.00 USD = 203872.25 USD
+    expenses:fees:PAYPAL                  0.00 USD
+
+2024-02-26 Transaction to PayPal  ; id:f0684af0, group:f481070d
+    assets:opencollective:homebrew       -0.54 USD = 203871.71 USD
+    expenses:fees:paypal                  0.54 USD
+
+2024-02-26 Host Fee to Open Source Collective  ; id:dad156d4, group:f481070d
+    expenses:fees:opensource              0.10 USD
+    assets:opencollective:homebrew       -0.10 USD = 203871.61 USD
+
+2024-02-26 Monthly contribution from Guest (backer)  ; id:b462203b, group:69c3a19f, payment-method:PAYPAL, payment-type:SUBSCRIPTION
+    revenues:donations:guest-1f6bc671       -5.00 USD
+    assets:opencollective:homebrew           5.00 USD = 203876.61 USD
+    expenses:fees:PAYPAL                     0.00 USD
+
+2024-02-26 Transaction to PayPal  ; id:fbf2b1a9, group:69c3a19f
+    assets:opencollective:homebrew       -0.74 USD = 203875.87 USD
+    expenses:fees:paypal                  0.74 USD
+
+2024-02-26 Host Fee to Open Source Collective  ; id:47d44eb0, group:69c3a19f
+    expenses:fees:opensource              0.50 USD
+    assets:opencollective:homebrew       -0.50 USD = 203875.37 USD
+
+2024-02-26 Contribution from Jeff Boyd  ; id:26487d0b, group:3c39cd51, payment-method:PAYPAL, payment-type:PAYMENT
+    revenues:donations:guest-52a3c32d      -20.00 USD
+    assets:opencollective:homebrew          20.00 USD = 203895.37 USD
+    expenses:fees:PAYPAL                     0.00 USD
+
+2024-02-26 Transaction to PayPal  ; id:6906b131, group:3c39cd51
+    assets:opencollective:homebrew       -1.19 USD = 203894.18 USD
+    expenses:fees:paypal                  1.19 USD
+
+2024-02-26 Host Fee to Open Source Collective  ; id:1d507dc3, group:3c39cd51
+    expenses:fees:opensource              2.00 USD
+    assets:opencollective:homebrew       -2.00 USD = 203892.18 USD
+
+2024-02-26 Expense from Issy Long - AWS costs, January 2024  ; id:ad78920a, group:9cdeb61a, payment-method:WISE, payment-type:BANK_TRANSFER
+    expenses:volunteers:issyl0           56.81 USD
+    assets:opencollective:brew          -56.81 USD = 45056.39 USD
+    expenses:fees:WISEBANK_ACCOUNT        0.00 USD
+
+2024-02-26 Transaction to Other Payment Processor  ; id:e1fd3919, group:9cdeb61a
+    assets:opencollective:brew                         -0.56 USD = 45055.83 USD
+    expenses:fees:other-payment-processor-vendor        0.56 USD
+
+2024-02-28 Monthly contribution from Dominic Uliano (backer)  ; id:54ca137b, group:67767384, payment-method:PAYPAL, payment-type:SUBSCRIPTION
+    revenues:donations:dominic-uliano       -5.00 USD
+    assets:opencollective:homebrew           5.00 USD = 203897.18 USD
+    expenses:fees:PAYPAL                     0.00 USD
+
+2024-02-28 Transaction to PayPal  ; id:dd9d8aa4, group:67767384
+    assets:opencollective:homebrew       -0.66 USD = 203896.52 USD
+    expenses:fees:paypal                  0.66 USD
+
+2024-02-28 Host Fee to Open Source Collective  ; id:95549fd7, group:67767384
+    expenses:fees:opensource              0.50 USD
+    assets:opencollective:homebrew       -0.50 USD = 203896.02 USD
+
+2024-02-28 Added Funds from GitHub Sponsors - GitHub Sponsors Contributions  ; id:a8af5196, group:932ca57a, payment-method:OPENCOLLECTIVE, payment-type:HOST
+    revenues:donations:github-sponsors    -5790.26 USD
+    assets:opencollective:homebrew         5790.26 USD = 209686.28 USD
+
+2024-02-28 Host Fee to Open Source Collective  ; id:ff422b09, group:932ca57a
+    expenses:fees:opensource            579.03 USD
+    assets:opencollective:homebrew     -579.03 USD = 209107.25 USD
+
+2024-02-29 Monthly contribution from Gary Bangerter (backer)  ; id:7ab901a6, group:f6b504c4, payment-method:PAYPAL, payment-type:SUBSCRIPTION
+    revenues:donations:guest-2d9fe90e       -5.00 USD
+    assets:opencollective:homebrew           5.00 USD = 209112.25 USD
+    expenses:fees:PAYPAL                     0.00 USD
+
+2024-02-29 Transaction to PayPal  ; id:f6af596b, group:f6b504c4
+    assets:opencollective:homebrew       -0.66 USD = 209111.59 USD
+    expenses:fees:paypal                  0.66 USD
+
+2024-02-29 Host Fee to Open Source Collective  ; id:35ff7c21, group:f6b504c4
+    expenses:fees:opensource              0.50 USD
+    assets:opencollective:homebrew       -0.50 USD = 209111.09 USD
+
+2024-02-29 Monthly contribution from Guest (backer)  ; id:fc01ad4d, group:9b5018a1, payment-method:PAYPAL, payment-type:SUBSCRIPTION
+    revenues:donations:guest-578607a7      -10.00 USD
+    assets:opencollective:homebrew          10.00 USD = 209121.09 USD
+    expenses:fees:PAYPAL                     0.00 USD
+
+2024-02-29 Transaction to PayPal  ; id:e58cfaab, group:9b5018a1
+    assets:opencollective:homebrew       -0.84 USD = 209120.25 USD
+    expenses:fees:paypal                  0.84 USD
+
+2024-02-29 Host Fee to Open Source Collective  ; id:3c5a330d, group:9b5018a1
+    expenses:fees:opensource              1.00 USD
+    assets:opencollective:homebrew       -1.00 USD = 209119.25 USD
+
+2024-02-29 Monthly contribution from Colin Dean (backer)  ; id:a5b7a6f4, group:c292cf8f, payment-method:PAYPAL, payment-type:SUBSCRIPTION
+    revenues:donations:colindean         -5.00 USD
+    assets:opencollective:homebrew        5.00 USD = 209124.25 USD
+    expenses:fees:PAYPAL                  0.00 USD
+
+2024-02-29 Transaction to PayPal  ; id:2e5b78fa, group:c292cf8f
+    assets:opencollective:homebrew       -0.66 USD = 209123.59 USD
+    expenses:fees:paypal                  0.66 USD
+
+2024-02-29 Host Fee to Open Source Collective  ; id:24d4fa6f, group:c292cf8f
+    expenses:fees:opensource              0.50 USD
+    assets:opencollective:homebrew       -0.50 USD = 209123.09 USD
+
+2024-03-01 Monthly contribution from François Hodierne (backer)  ; id:657adf38, group:4aa537f7, payment-method:OPENCOLLECTIVE, payment-type:GIFTCARD
+    revenues:donations:znarf             -5.00 USD
+    assets:opencollective:homebrew        5.00 USD = 209128.09 USD
+    expenses:fees:OPENCOLLECTIVE          0.00 USD
+
+2024-03-01 Transaction to Stripe  ; id:96a17ae9, group:4aa537f7
+    assets:opencollective:homebrew       -0.45 USD = 209127.64 USD
+    expenses:fees:stripe                  0.45 USD
+
+2024-03-01 Host Fee to Open Source Collective  ; id:fe6be023, group:4aa537f7
+    expenses:fees:opensource              0.50 USD
+    assets:opencollective:homebrew       -0.50 USD = 209127.14 USD
+
+2024-03-01 Monthly contribution from Incognito (backer)  ; id:544999b6, group:d26e4ca4, payment-method:STRIPE, payment-type:CREDITCARD
+    revenues:donations:guest-dfda3793       -5.00 USD
+    assets:opencollective:homebrew           5.00 USD = 209132.14 USD
+    expenses:fees:STRIPE                     0.00 USD
+
+2024-03-01 Transaction to Stripe  ; id:474b95cb, group:d26e4ca4
+    assets:opencollective:homebrew       -0.45 USD = 209131.69 USD
+    expenses:fees:stripe                  0.45 USD
+
+2024-03-01 Host Fee to Open Source Collective  ; id:49b7b3d1, group:d26e4ca4
+    expenses:fees:opensource              0.50 USD
+    assets:opencollective:homebrew       -0.50 USD = 209131.19 USD
+
+2024-03-01 Monthly contribution from halprin  ; id:08bdbd13, group:9813f630, payment-method:STRIPE, payment-type:CREDITCARD
+    revenues:donations:halprin           -1.00 USD
+    assets:opencollective:homebrew        1.00 USD = 209132.19 USD
+    expenses:fees:STRIPE                  0.00 USD
+
+2024-03-01 Transaction to Stripe  ; id:6846d7ad, group:9813f630
+    assets:opencollective:homebrew       -0.33 USD = 209131.86 USD
+    expenses:fees:stripe                  0.33 USD
+
+2024-03-01 Host Fee to Open Source Collective  ; id:bb20398e, group:9813f630
+    expenses:fees:opensource              0.10 USD
+    assets:opencollective:homebrew       -0.10 USD = 209131.76 USD
+
+2024-03-01 Monthly contribution from Airbnb (sponsor)  ; id:d4008d31, group:4f06fa58, payment-method:OPENCOLLECTIVE, payment-type:COLLECTIVE
+    revenues:donations:airbnb          -250.00 USD
+    assets:opencollective:homebrew      250.00 USD = 209381.76 USD
+    expenses:fees:OPENCOLLECTIVE          0.00 USD
+
+2024-03-01 Monthly contribution from MFB Technologies (backer)  ; id:7a7af5a4, group:c93a14e2, payment-method:STRIPE, payment-type:CREDITCARD
+    revenues:donations:mfbtech           -5.00 USD
+    assets:opencollective:homebrew        5.00 USD = 209386.76 USD
+    expenses:fees:STRIPE                  0.00 USD
+
+2024-03-01 Transaction to Stripe  ; id:18b69d63, group:c93a14e2
+    assets:opencollective:homebrew       -0.45 USD = 209386.31 USD
+    expenses:fees:stripe                  0.45 USD
+
+2024-03-01 Host Fee to Open Source Collective  ; id:ef613ac0, group:c93a14e2
+    expenses:fees:opensource              0.50 USD
+    assets:opencollective:homebrew       -0.50 USD = 209385.81 USD
+
+2024-03-01 Monthly contribution from Sean L (backer)  ; id:e82a6a98, group:2ec31143, payment-method:STRIPE, payment-type:CREDITCARD
+    revenues:donations:sean-l            -5.00 USD
+    assets:opencollective:homebrew        5.00 USD = 209390.81 USD
+    expenses:fees:STRIPE                  0.00 USD
+
+2024-03-01 Transaction to Stripe  ; id:cc125ec9, group:2ec31143
+    assets:opencollective:homebrew       -0.45 USD = 209390.36 USD
+    expenses:fees:stripe                  0.45 USD
+
+2024-03-01 Host Fee to Open Source Collective  ; id:008fbab4, group:2ec31143
+    expenses:fees:opensource              0.50 USD
+    assets:opencollective:homebrew       -0.50 USD = 209389.86 USD
+
+2024-03-01 Monthly contribution from Incognito (backer)  ; id:78f36091, group:dfbee613, payment-method:STRIPE, payment-type:CREDITCARD
+    revenues:donations:user-5ce0359e       -5.00 USD
+    assets:opencollective:homebrew          5.00 USD = 209394.86 USD
+    expenses:fees:STRIPE                    0.00 USD
+
+2024-03-01 Transaction to Stripe  ; id:f0e509ee, group:dfbee613
+    assets:opencollective:homebrew       -0.52 USD = 209394.34 USD
+    expenses:fees:stripe                  0.52 USD
+
+2024-03-01 Host Fee to Open Source Collective  ; id:8422afe7, group:dfbee613
+    expenses:fees:opensource              0.50 USD
+    assets:opencollective:homebrew       -0.50 USD = 209393.84 USD
+
+2024-03-01 Monthly contribution from Kuba =)K  ; id:61ab3a0f, group:802d916f, payment-method:STRIPE, payment-type:CREDITCARD
+    revenues:donations:otaznik           -2.50 USD
+    assets:opencollective:homebrew        2.50 USD = 209396.34 USD
+    expenses:fees:STRIPE                  0.00 USD
+
+2024-03-01 Transaction to Stripe  ; id:539e3620, group:802d916f
+    assets:opencollective:homebrew       -0.41 USD = 209395.93 USD
+    expenses:fees:stripe                  0.41 USD
+
+2024-03-01 Host Fee to Open Source Collective  ; id:b6e34a85, group:802d916f
+    expenses:fees:opensource              0.25 USD
+    assets:opencollective:homebrew       -0.25 USD = 209395.68 USD
+
+2024-03-01 Monthly contribution from Fuller, Inc. (backer)  ; id:acbf7002, group:4352dd92, payment-method:STRIPE, payment-type:CREDITCARD
+    revenues:donations:fuller-inc        -5.00 USD
+    assets:opencollective:homebrew        5.00 USD = 209400.68 USD
+    expenses:fees:STRIPE                  0.00 USD
+
+2024-03-01 Transaction to Stripe  ; id:d0a90b6c, group:4352dd92
+    assets:opencollective:homebrew       -0.52 USD = 209400.16 USD
+    expenses:fees:stripe                  0.52 USD
+
+2024-03-01 Host Fee to Open Source Collective  ; id:446c0d65, group:4352dd92
+    expenses:fees:opensource              0.50 USD
+    assets:opencollective:homebrew       -0.50 USD = 209399.66 USD
+
+2024-03-01 Monthly contribution from Stéphane (backer)  ; id:be4a1b5c, group:73b26431, payment-method:STRIPE, payment-type:CREDITCARD
+    revenues:donations:steph974          -5.00 USD
+    assets:opencollective:homebrew        5.00 USD = 209404.66 USD
+    expenses:fees:STRIPE                  0.00 USD
+
+2024-03-01 Transaction to Stripe  ; id:e1375fa6, group:73b26431
+    assets:opencollective:homebrew       -0.52 USD = 209404.14 USD
+    expenses:fees:stripe                  0.52 USD
+
+2024-03-01 Host Fee to Open Source Collective  ; id:41300156, group:73b26431
+    expenses:fees:opensource              0.50 USD
+    assets:opencollective:homebrew       -0.50 USD = 209403.64 USD
+
+2024-03-01 Monthly contribution from Geoff Wright (backer)  ; id:80c76ee2, group:427b9693, payment-method:STRIPE, payment-type:CREDITCARD
+    revenues:donations:geoff-wright       -5.00 USD
+    assets:opencollective:homebrew         5.00 USD = 209408.64 USD
+    expenses:fees:STRIPE                   0.00 USD
+
+2024-03-01 Transaction to Stripe  ; id:ef37d72b, group:427b9693
+    assets:opencollective:homebrew       -0.52 USD = 209408.12 USD
+    expenses:fees:stripe                  0.52 USD
+
+2024-03-01 Host Fee to Open Source Collective  ; id:286b0e0b, group:427b9693
+    expenses:fees:opensource              0.50 USD
+    assets:opencollective:homebrew       -0.50 USD = 209407.62 USD
+
+2024-03-01 Monthly contribution from James Kingdon  ; id:0db92d3b, group:9b01dd9d, payment-method:STRIPE, payment-type:CREDITCARD
+    revenues:donations:james-kingdon       -1.00 USD
+    assets:opencollective:homebrew          1.00 USD = 209408.62 USD
+    expenses:fees:STRIPE                    0.00 USD
+
+2024-03-01 Transaction to Stripe  ; id:5af3d97b, group:9b01dd9d
+    assets:opencollective:homebrew       -0.33 USD = 209408.29 USD
+    expenses:fees:stripe                  0.33 USD
+
+2024-03-01 Host Fee to Open Source Collective  ; id:7ca77300, group:9b01dd9d
+    expenses:fees:opensource              0.10 USD
+    assets:opencollective:homebrew       -0.10 USD = 209408.19 USD
+
+2024-03-02 Monthly contribution from Cybozu  ; id:d543c28d, group:16457e44, payment-method:STRIPE, payment-type:CREDITCARD
+    revenues:donations:cybozu          -350.00 USD
+    assets:opencollective:homebrew      350.00 USD = 209758.19 USD
+    expenses:fees:STRIPE                  0.00 USD
+
+2024-03-02 Transaction to Stripe  ; id:be4392c8, group:16457e44
+    assets:opencollective:homebrew      -15.70 USD = 209742.49 USD
+    expenses:fees:stripe                 15.70 USD
+
+2024-03-02 Host Fee to Open Source Collective  ; id:241c54b0, group:16457e44
+    expenses:fees:opensource             35.00 USD
+    assets:opencollective:homebrew      -35.00 USD = 209707.49 USD
+
+2024-03-02 Monthly contribution from Flavio Arion (backer)  ; id:147ba8df, group:2efef0b7, payment-method:STRIPE, payment-type:CREDITCARD
+    revenues:donations:flavio-arion       -5.00 USD
+    assets:opencollective:homebrew         5.00 USD = 209712.49 USD
+    expenses:fees:STRIPE                   0.00 USD
+
+2024-03-02 Transaction to Stripe  ; id:4254fff3, group:2efef0b7
+    assets:opencollective:homebrew       -0.45 USD = 209712.04 USD
+    expenses:fees:stripe                  0.45 USD
+
+2024-03-02 Host Fee to Open Source Collective  ; id:01690e90, group:2efef0b7
+    expenses:fees:opensource              0.50 USD
+    assets:opencollective:homebrew       -0.50 USD = 209711.54 USD
+
+2024-03-02 Monthly contribution from kanrasha (backer)  ; id:71462343, group:949f16e8, payment-method:STRIPE, payment-type:CREDITCARD
+    revenues:donations:kanrasha          -5.00 USD
+    assets:opencollective:homebrew        5.00 USD = 209716.54 USD
+    expenses:fees:STRIPE                  0.00 USD
+
+2024-03-02 Transaction to Stripe  ; id:b572aeba, group:949f16e8
+    assets:opencollective:homebrew       -0.45 USD = 209716.09 USD
+    expenses:fees:stripe                  0.45 USD
+
+2024-03-02 Host Fee to Open Source Collective  ; id:8a0bd7be, group:949f16e8
+    expenses:fees:opensource              0.50 USD
+    assets:opencollective:homebrew       -0.50 USD = 209715.59 USD
+
+2024-03-02 Monthly contribution from Guest (backer)  ; id:be2cba3c, group:3b41a27c, payment-method:STRIPE, payment-type:CREDITCARD
+    revenues:donations:guest-749c1d0d       -5.00 USD
+    assets:opencollective:homebrew           5.00 USD = 209720.59 USD
+    expenses:fees:STRIPE                     0.00 USD
+
+2024-03-02 Transaction to Stripe  ; id:208de63c, group:3b41a27c
+    assets:opencollective:homebrew       -0.45 USD = 209720.14 USD
+    expenses:fees:stripe                  0.45 USD
+
+2024-03-02 Host Fee to Open Source Collective  ; id:022fc647, group:3b41a27c
+    expenses:fees:opensource              0.50 USD
+    assets:opencollective:homebrew       -0.50 USD = 209719.64 USD
+
+2024-03-02 Monthly contribution from Robin Syl (backer)  ; id:dd148aef, group:29340b13, payment-method:STRIPE, payment-type:CREDITCARD
+    revenues:donations:robinsyl          -5.00 USD
+    assets:opencollective:homebrew        5.00 USD = 209724.64 USD
+    expenses:fees:STRIPE                  0.00 USD
+
+2024-03-02 Transaction to Stripe  ; id:15a22330, group:29340b13
+    assets:opencollective:homebrew       -0.52 USD = 209724.12 USD
+    expenses:fees:stripe                  0.52 USD
+
+2024-03-02 Host Fee to Open Source Collective  ; id:263b362d, group:29340b13
+    expenses:fees:opensource              0.50 USD
+    assets:opencollective:homebrew       -0.50 USD = 209723.62 USD
+
+2024-03-02 Monthly contribution from Carlo Zottmann  ; id:c8051d04, group:8bb0bd8e, payment-method:STRIPE, payment-type:CREDITCARD
+    revenues:donations:czottmann        -10.00 USD
+    assets:opencollective:homebrew       10.00 USD = 209733.62 USD
+    expenses:fees:STRIPE                  0.00 USD
+
+2024-03-02 Transaction to Stripe  ; id:7f1ac24f, group:8bb0bd8e
+    assets:opencollective:homebrew       -0.74 USD = 209732.88 USD
+    expenses:fees:stripe                  0.74 USD
+
+2024-03-02 Host Fee to Open Source Collective  ; id:45b5e075, group:8bb0bd8e
+    expenses:fees:opensource              1.00 USD
+    assets:opencollective:homebrew       -1.00 USD = 209731.88 USD
+
+2024-03-02 Monthly contribution from Kyle  ; id:43835324, group:52c6fdc2, payment-method:STRIPE, payment-type:CREDITCARD
+    revenues:donations:kyle20            -1.00 USD
+    assets:opencollective:homebrew        1.00 USD = 209732.88 USD
+    expenses:fees:STRIPE                  0.00 USD
+
+2024-03-02 Transaction to Stripe  ; id:0975fcfe, group:52c6fdc2
+    assets:opencollective:homebrew       -0.33 USD = 209732.55 USD
+    expenses:fees:stripe                  0.33 USD
+
+2024-03-02 Host Fee to Open Source Collective  ; id:65b0bd83, group:52c6fdc2
+    expenses:fees:opensource              0.10 USD
+    assets:opencollective:homebrew       -0.10 USD = 209732.45 USD
+
+2024-03-02 Monthly contribution from Daniel King (backer)  ; id:adc51036, group:8b3274ff, payment-method:STRIPE, payment-type:CREDITCARD
+    revenues:donations:daniel-king       -5.00 USD
+    assets:opencollective:homebrew        5.00 USD = 209737.45 USD
+    expenses:fees:STRIPE                  0.00 USD
+
+2024-03-02 Transaction to Stripe  ; id:80049ee7, group:8b3274ff
+    assets:opencollective:homebrew       -0.45 USD = 209737.00 USD
+    expenses:fees:stripe                  0.45 USD
+
+2024-03-02 Host Fee to Open Source Collective  ; id:9d9b752a, group:8b3274ff
+    expenses:fees:opensource              0.50 USD
+    assets:opencollective:homebrew       -0.50 USD = 209736.50 USD
+
+2024-03-02 Virtual Card charge from MACSTADIUM  ; id:77e44600, group:09405f00, payment-method:STRIPE, payment-type:VIRTUAL_CARD
+    expenses:hosting:macstadium         718.20 USD
+    assets:opencollective:homebrew     -718.20 USD = 209018.30 USD
+    expenses:fees:STRIPE                  0.00 USD
+
+2024-03-03 Expense from Miccal Matthews - Quarterly Homebrew maintenance  ; id:49e69feb, group:6f0830bb, payment-method:WISE, payment-type:BANK_TRANSFER
+    expenses:volunteers:miccal-matthews      900.00 USD
+    assets:opencollective:brew              -900.00 USD = 44155.83 USD
+    expenses:fees:WISEBANK_ACCOUNT             0.00 USD
+
+2024-03-03 Transaction to Other Payment Processor  ; id:1aeec9dd, group:6f0830bb
+    assets:opencollective:brew                         -4.60 USD = 44151.23 USD
+    expenses:fees:other-payment-processor-vendor        4.60 USD
+
+2024-03-04 Expense from Eric Knibbe - AGM 2024 THON Hotel city tax  ; id:d089c9a2, group:8f47a265, payment-method:WISE, payment-type:BANK_TRANSFER
+    expenses:volunteers:eric-knibbe       18.15 USD
+    assets:opencollective:brew           -18.15 USD = 44133.08 USD
+    expenses:fees:WISEBANK_ACCOUNT         0.00 USD
+
+2024-03-04 Transaction to Other Payment Processor  ; id:1ad17d0d, group:8f47a265
+    assets:opencollective:brew                         -0.58 USD = 44132.50 USD
+    expenses:fees:other-payment-processor-vendor        0.58 USD
+
+2024-03-04 Expense from Eric Knibbe - 2024 AGM transportation  ; id:caabd0ce, group:23b98ce8, payment-method:WISE, payment-type:BANK_TRANSFER
+    expenses:volunteers:eric-knibbe       23.16 USD
+    assets:opencollective:brew           -23.16 USD = 44109.34 USD
+    expenses:fees:WISEBANK_ACCOUNT         0.00 USD
+
+2024-03-04 Transaction to Other Payment Processor  ; id:3d54893f, group:23b98ce8
+    assets:opencollective:brew                         -0.60 USD = 44108.74 USD
+    expenses:fees:other-payment-processor-vendor        0.60 USD
+
+2024-03-05 Expense from Michael Cho - Quarterly Homebrew maintenance  ; id:c1d3ddb7, group:89381905, payment-method:WISE, payment-type:BANK_TRANSFER
+    expenses:volunteers:cho-m           900.00 USD
+    assets:opencollective:brew         -900.00 USD = 43208.74 USD
+    expenses:fees:WISEBANK_ACCOUNT        0.00 USD
+
+2024-03-05 Transaction to Other Payment Processor  ; id:d109c745, group:89381905
+    assets:opencollective:brew                         -0.39 USD = 43208.35 USD
+    expenses:fees:other-payment-processor-vendor        0.39 USD
+
+2024-03-05 Expense from Ruoyu Zhong - Quarterly Homebrew maintenance  ; id:ea72eb34, group:0f538975, payment-method:WISE, payment-type:BANK_TRANSFER
+    expenses:volunteers:zhongruoyu      900.00 USD
+    assets:opencollective:brew         -900.00 USD = 42308.35 USD
+    expenses:fees:WISEBANK_ACCOUNT        0.00 USD
+
+2024-03-05 Transaction to Other Payment Processor  ; id:c04aaea3, group:0f538975
+    assets:opencollective:brew                         -4.78 USD = 42303.57 USD
+    expenses:fees:other-payment-processor-vendor        4.78 USD
+
+2024-03-05 Expense from Michka Popoff - Quarterly Homebrew maintenance  ; id:d1c3d736, group:85b068bb, payment-method:WISE, payment-type:BANK_TRANSFER
+    expenses:volunteers:michka-popoff      900.00 USD
+    assets:opencollective:brew            -900.00 USD = 41403.57 USD
+    expenses:fees:WISEBANK_ACCOUNT           0.00 USD
+
+2024-03-05 Transaction to Other Payment Processor  ; id:0414eee9, group:85b068bb
+    assets:opencollective:brew                         -3.83 USD = 41399.74 USD
+    expenses:fees:other-payment-processor-vendor        3.83 USD
+
+2024-03-05 Expense from François-Xavier Coudert - Quarterly Homebrew maintenance  ; id:b33216e3, group:9072a6a7, payment-method:WISE, payment-type:BANK_TRANSFER
+    expenses:volunteers:francois-xavier-coudert      900.01 USD
+    assets:opencollective:brew                      -900.01 USD = 40499.73 USD
+    expenses:fees:WISEBANK_ACCOUNT                     0.00 USD
+
+2024-03-05 Transaction to Other Payment Processor  ; id:8141a73d, group:9072a6a7
+    assets:opencollective:brew                         -3.83 USD = 40495.90 USD
+    expenses:fees:other-payment-processor-vendor        3.83 USD
+
+2024-03-05 Expense from Patrick Linnane - Quarterly Homebrew maintenance  ; id:082c65fd, group:b0a949a6, payment-method:WISE, payment-type:BANK_TRANSFER
+    expenses:volunteers:patrick-linnane      900.00 USD
+    assets:opencollective:brew              -900.00 USD = 39595.90 USD
+    expenses:fees:WISEBANK_ACCOUNT             0.00 USD
+
+2024-03-05 Transaction to Other Payment Processor  ; id:c4d7d90f, group:b0a949a6
+    assets:opencollective:brew                         -0.39 USD = 39595.51 USD
+    expenses:fees:other-payment-processor-vendor        0.39 USD
+
+2024-03-05 Expense from Bevan Kay - Quarterly Homebrew maintenance  ; id:946f29db, group:7705030f, payment-method:WISE, payment-type:BANK_TRANSFER
+    expenses:volunteers:bevan-kay       900.00 USD
+    assets:opencollective:brew         -900.00 USD = 38695.51 USD
+    expenses:fees:WISEBANK_ACCOUNT        0.00 USD
+
+2024-03-05 Transaction to Other Payment Processor  ; id:653ec747, group:7705030f
+    assets:opencollective:brew                         -3.70 USD = 38691.81 USD
+    expenses:fees:other-payment-processor-vendor        3.70 USD
+
+2024-03-06 Expense from Dustin Rodrigues - Quarterly Homebrew maintenance  ; id:e11b0805, group:35803ec9, payment-method:WISE, payment-type:BANK_TRANSFER
+    expenses:volunteers:dustin-rodrigues      900.00 USD
+    assets:opencollective:brew               -900.00 USD = 37791.81 USD
+    expenses:fees:WISEBANK_ACCOUNT              0.00 USD
+
+2024-03-06 Transaction to Other Payment Processor  ; id:f1d4d534, group:35803ec9
+    assets:opencollective:brew                         -0.39 USD = 37791.42 USD
+    expenses:fees:other-payment-processor-vendor        0.39 USD
+
+2024-03-06 Expense from SMillerDev - Quarterly Homebrew maintainership  ; id:01ac9a14, group:f28bce5f, payment-method:WISE, payment-type:BANK_TRANSFER
+    expenses:volunteers:smillerdev      900.01 USD
+    assets:opencollective:brew         -900.01 USD = 36891.41 USD
+    expenses:fees:WISEBANK_ACCOUNT        0.00 USD
+
+2024-03-06 Transaction to Other Payment Processor  ; id:9905dac9, group:f28bce5f
+    assets:opencollective:brew                         -3.83 USD = 36887.58 USD
+    expenses:fees:other-payment-processor-vendor        3.83 USD
+
+2024-03-06 Expense from Mike McQuaid - Quarterly Homebrew maintenance  ; id:16c83ef2, group:c205f150, payment-method:WISE, payment-type:BANK_TRANSFER
+    expenses:volunteers:mikemcquaid      900.00 USD
+    assets:opencollective:brew          -900.00 USD = 35987.58 USD
+    expenses:fees:WISEBANK_ACCOUNT         0.00 USD
+
+2024-03-06 Transaction to Other Payment Processor  ; id:d60492d2, group:c205f150
+    assets:opencollective:brew                         -3.93 USD = 35983.65 USD
+    expenses:fees:other-payment-processor-vendor        3.93 USD
+
+2024-03-06 Expense from Issy Long - Quarterly Homebrew maintenance  ; id:ed2db066, group:e534b664, payment-method:WISE, payment-type:BANK_TRANSFER
+    expenses:volunteers:issyl0          900.00 USD
+    assets:opencollective:brew         -900.00 USD = 35083.65 USD
+    expenses:fees:WISEBANK_ACCOUNT        0.00 USD
+
+2024-03-06 Transaction to Other Payment Processor  ; id:5fc910ba, group:e534b664
+    assets:opencollective:brew                         -3.93 USD = 35079.72 USD
+    expenses:fees:other-payment-processor-vendor        3.93 USD
+
+2024-03-07 Added Funds from Patreon - Feb 2024 Patreon  ; id:2687ad02, group:79a54ed9, payment-method:OPENCOLLECTIVE, payment-type:HOST
+    revenues:donations:patreon        -1883.89 USD
+    assets:opencollective:homebrew     1883.89 USD = 210902.19 USD
+
+2024-03-07 Host Fee to Open Source Collective  ; id:4deabf44, group:79a54ed9
+    expenses:fees:opensource            188.39 USD
+    assets:opencollective:homebrew     -188.39 USD = 210713.80 USD
+
+2024-03-07 Expense from Razvan Azamfirei - Quarterly Homebrew maintenance  ; id:00a20ed9, group:51819fd4, payment-method:WISE, payment-type:BANK_TRANSFER
+    expenses:volunteers:razvan-azamfirei      900.00 USD
+    assets:opencollective:brew               -900.00 USD = 34179.72 USD
+    expenses:fees:WISEBANK_ACCOUNT              0.00 USD
+
+2024-03-07 Transaction to Other Payment Processor  ; id:93b215f1, group:51819fd4
+    assets:opencollective:brew                         -0.39 USD = 34179.33 USD
+    expenses:fees:other-payment-processor-vendor        0.39 USD
+
+2024-03-08 Contribution from Gabriele Guarnieri  ; id:2107ab6e, group:cbd0e31b, payment-method:STRIPE, payment-type:CREDITCARD
+    revenues:donations:gabriele-guarnieri     -200.00 USD
+    assets:opencollective:homebrew             200.00 USD = 210913.80 USD
+    expenses:fees:STRIPE                         0.00 USD
+
+2024-03-08 Transaction to Stripe  ; id:ce827c66, group:cbd0e31b
+    assets:opencollective:homebrew       -9.10 USD = 210904.70 USD
+    expenses:fees:stripe                  9.10 USD
+
+2024-03-08 Host Fee to Open Source Collective  ; id:792f794f, group:cbd0e31b
+    expenses:fees:opensource             20.00 USD
+    assets:opencollective:homebrew      -20.00 USD = 210884.70 USD
 
 include oc-homebrew.accounts
 include oc-brew.accounts
