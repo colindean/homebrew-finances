@@ -112,3 +112,5 @@ update:  # make journal + README.md and commit both
 	git commit -m "update accounts" -- $(ACCOUNTS)     || echo "accounts have not changed"
 	git commit -m "update readme reports" -- README.md || echo "readme reports have not changed"
 
+clean:
+	rm -rf $(COMBINED_JOURNAL) $(COMBINED_ACCOUNTS) $(JOURNALS) $(ACCOUNTS) $(CSVS)

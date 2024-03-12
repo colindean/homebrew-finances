@@ -21,9 +21,9 @@ Setup:
 
 Run:
 
-    make csvs journals accounts check
-    make README.md
-    make README.md SED=sed # in a devcontainer
+    make clean csvs journals accounts check
+    make README.md SED=sed  # in a devcontainer
+    make README.md SED=gsed # using brew's gnu-sed
 
 _TODO: make one command, update, work._
 
