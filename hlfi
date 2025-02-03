@@ -6,6 +6,7 @@ set -e
 cd "$(dirname "$0")"
 SCRIPT=$(basename "$0")
 JOURNAL=oc.journal
+HLEDGER_BAR="$(dirname ${SCRIPT})/bin/hledger-bar"
 PERIOD="quarterly from 1/1 to tomorrow"
 
 line() { echo "--------------------------------------------------------------------------------"; }
@@ -45,17 +46,17 @@ x() { # show expenses
 
 b-a() { # show assets bar chart
     echo "Quarterly net worth:"
-    hledger-bar -v 200 -f "$JOURNAL" -Q type:al -H "$@"
+    "${HLEDGER_BAR}" -v 200 -f "$JOURNAL" -Q type:al -H "$@"
 }
 
 b-r() { # show revenues bar chart
     echo "Quarterly revenues:"
-    hledger-bar -v 40 -f "$JOURNAL" -Q type:r --invert "$@"
+    "${HLEDGER_BAR}" -v 40 -f "$JOURNAL" -Q type:r --invert "$@"
 }
 
 b-x() { # show expenses bar chart
     echo "Quarterly expenses:"
-    hledger-bar -v 40 -f "$JOURNAL" -Q type:x --invert "$@"
+    "${HLEDGER_BAR}" -v 40 -f "$JOURNAL" -Q type:x --invert "$@"
 }
 
 # XXX with partial workaround for https://github.com/gooofy/drawilleplot/issues/4
